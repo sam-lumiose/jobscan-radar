@@ -1,9 +1,9 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T22:44:34+10:00",
-  "posture": "9 roles · 1 strong-act · 1 verifiable public interim/contract (recruiter-held Financial Controller) worth fast action",
-  "summary": "Afternoon refresh: the morning's public-sector governance/risk and board surfaces are carried forward, and a browser pass of the §1a specialist recruiters surfaced a genuinely live, publicly-verifiable contract role — a hands-on Financial Controller (contract, Sydney CBD, immediate start) on the Sharp & Carter contract desk, plus a Sydney contract Finance Manager. The Robert Half 6-month Financial Controller seen earlier has expired (the posting now redirects to an invalid-job search). Board/NED supply is steady (NSW audit-and-risk-committee panel, Board Direction, AICD teasers). Standing reminder: most recruiter interim desks (Bluefin, Kaizen, Robert Half, Sharp & Carter) advertise little publicly, so being registered and CV-current with them remains the highest-leverage move; this run was browser-verified via Chrome.",
-  "counts": { "act": 1, "watch": 5, "inform": 3 },
+  "generated_at": "2026-06-28T23:13:21+10:00",
+  "posture": "18 roles · 8 strong-act · 2 interim/contract worth fast action — senior-manager risk/governance roles now weighted as the core-target matches they are",
+  "summary": "Expanded scan: the earlier runs under-covered Seek (it is JavaScript-rendered, so the web-search pass missed most live listings). A deeper Chrome-rendered pass of Seek surfaced a cluster of strong, currently-advertised matches — a Chief Risk Officer at Revesby Workers', a General Manager Business Performance & Operations at the Governance Institute of Australia, and several senior governance/risk/assurance roles (Oxygen Recruitment, Ink Recruitment, Cuscal, Teachers Mutual Bank, Ethos BeathChapman, Perigon Group) — plus a Sydney interim Financial Controller (Shippit, contract to early 2027) alongside the Sharp & Carter contract FC. Board/NED supply is steady (NSW audit-and-risk-committee panel, Board Direction, AICD teasers). All roles below were browser-verified live this evening; the Ink Recruitment Head of Governance role is flagged as closing soon. Note on coverage: Seek is sampled via a battery of keyword/classification searches read top-down, so older-but-live roles can sit below the fold — a manual look remains worthwhile.",
+  "counts": { "act": 8, "watch": 7, "inform": 3 },
   "sections": [
     {
       "category": "Board & NED",
@@ -47,6 +47,17 @@
       "category": "C-Suite & Executive",
       "items": [
         {
+          "severity": "act",
+          "headline": "Chief Risk Officer (CRO) — Revesby Workers' Club, Revesby (Sydney metro)",
+          "summary": "Permanent executive role owning the enterprise risk function at a large registered club/hospitality group in south-west Sydney — building and running the risk, compliance and assurance framework and reporting to the board/CEO.",
+          "so_what": "Bullseye for your CRO target and risk/governance specialisation, and a board-facing C-suite seat in Sydney metro. Strong direct match — apply now and reference your FCPA/FAICD and StateCover/Ku-ring-gai governance experience.",
+          "tags": ["Permanent", "Sydney", "Clubs"],
+          "source": "Seek (Revesby Workers')",
+          "url": "https://www.seek.com.au/job/92945654",
+          "published": "2026-06-25",
+          "paywall": false
+        },
+        {
           "severity": "watch",
           "headline": "Executive Director, Finance & Strategy (CFO) — NSW Reconstruction Authority (Sydney)",
           "summary": "Senior NSW Government CFO-level role providing strategic leadership of financial and performance management for the Reconstruction Authority. A published role description was located; its current advertising/open status could not be confirmed in this run.",
@@ -55,6 +66,22 @@
           "source": "NSW DCJ / Reconstruction Authority (role description)",
           "url": "https://dcj.nsw.gov.au/documents/reconstruction-authority/RD_-_Executive_Director_Finance_and_Strategy_CFO.pdf",
           "published": "best-known",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Operations, Strategy & Transformation",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "General Manager, Business Performance & Operations — Governance Institute of Australia, Sydney",
+          "summary": "Senior GM role at the peak body for governance and risk professionals, leading operations, finance/business performance and corporate enablement functions across the organisation.",
+          "so_what": "Direct fit to your GM/COO targets with strong governance-sector affinity and Sydney location — a rare role that rewards exactly your FAICD + operations/finance blend. Apply promptly while freshly listed.",
+          "tags": ["Permanent", "Sydney", "NFP"],
+          "source": "Seek (Governance Institute of Australia)",
+          "url": "https://www.seek.com.au/job/92956132",
+          "published": "2026-06-26",
           "paywall": false
         }
       ]
@@ -74,6 +101,17 @@
           "paywall": false
         },
         {
+          "severity": "act",
+          "headline": "Interim Financial Controller (contract to ~March 2027) — Shippit, Darling Point (Sydney)",
+          "summary": "Fixed-term interim Financial Controller for a Sydney technology/logistics scale-up, covering core financial control, reporting and team leadership through to early 2027.",
+          "so_what": "A genuine Sydney interim/contract FC engagement — exactly the speed-critical surface the spec prioritises and a direct fit to your financial-control background. Move quickly; interim finance briefs fill fast.",
+          "tags": ["Contract", "Sydney", "Technology"],
+          "source": "Seek (Shippit)",
+          "url": "https://www.seek.com.au/job/92977316",
+          "published": "2026-06-26",
+          "paywall": false
+        },
+        {
           "severity": "watch",
           "headline": "Finance Manager (Contract, immediate start) — IT organisation, Sydney (Sharp & Carter)",
           "summary": "Sydney-based hands-on Finance Manager on the Sharp & Carter contract desk with a recognisable IT organisation, supporting management and reporting of the company's finances; immediate/short-notice start.",
@@ -89,6 +127,72 @@
     {
       "category": "Risk, Compliance & Assurance",
       "items": [
+        {
+          "severity": "watch",
+          "headline": "Head of Governance & Assurance — recruiter-held, Sydney (Ink Recruitment) — closing soon",
+          "summary": "A 'Head of' governance and assurance leadership role held by Ink Recruitment for a Sydney client, owning the governance, assurance and controls agenda. Listing is flagged as expiring on Seek.",
+          "so_what": "Strong title/function match ('Head of' + governance/assurance) in Sydney and eligible for any tier — but it's closing imminently, so apply or contact the recruiter today if it appeals.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Seek (Ink Recruitment)",
+          "url": "https://www.seek.com.au/job/92529780",
+          "published": "2026-06-05",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Governance and Enablement — recruiter-held, Sydney (Oxygen Recruitment & HR)",
+          "summary": "Senior management role leading a governance and enablement function for a Sydney organisation, spanning governance frameworks, policy and operational uplift.",
+          "so_what": "Senior-manager-level governance role in Sydney — solid fit to your governance/assurance strengths. Worth a direct application or a call to the recruiter.",
+          "tags": ["Permanent", "Sydney", "Government"],
+          "source": "Seek (Oxygen Recruitment & HR)",
+          "url": "https://www.seek.com.au/job/92944182",
+          "published": "2026-06-25",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Finance Risk, Controls & Governance — Cuscal, Sydney",
+          "summary": "Senior management role at payments/financial-services provider Cuscal, leading finance risk, internal controls and governance across the finance function.",
+          "so_what": "Blends your finance and risk/governance strengths in a financial-services setting in Sydney — strong on-target fit at senior-manager level. Apply directly.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Seek (Cuscal Limited)",
+          "url": "https://www.seek.com.au/job/92964638",
+          "published": "2026-06-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Controls Assurance Manager — Teachers Mutual Bank, Sydney",
+          "summary": "Manager-plus role leading controls assurance and operational risk within a mutual bank, testing and uplifting the internal control environment. Freshly listed today.",
+          "so_what": "Strong sector affinity (mutual / member-owned, matching your StateCover Mutual background) plus risk/assurance function in Sydney — a relevant senior assurance seat. Apply early while newly posted.",
+          "tags": ["Permanent", "Sydney", "Mutual"],
+          "source": "Seek (Teachers Mutual Bank)",
+          "url": "https://www.seek.com.au/job/92988445",
+          "published": "2026-06-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Risk Manager — recruiter-held, Sydney (Ethos BeathChapman)",
+          "summary": "Senior enterprise/operational risk management role held by search firm Ethos BeathChapman for a Sydney client; full-time, hybrid, leading risk framework, appetite and reporting activity.",
+          "so_what": "Direct on-target fit to your risk specialisation at senior-manager level in Sydney. Contact the recruiter or apply directly; listed a couple of weeks ago so confirm it's still open.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Seek (Ethos BeathChapman)",
+          "url": "https://www.seek.com.au/job/92723686",
+          "published": "2026-06-15",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager — Risk & Resilience — recruiter-held, Sydney (Perigon Group)",
+          "summary": "Senior management role spanning enterprise risk and operational/business resilience for a Sydney organisation, held by recruiter Perigon Group.",
+          "so_what": "Strong fit to your risk/governance and operations strengths at senior-manager level in Sydney — a relevant, recently listed seat. Worth a direct application or recruiter call.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Seek (Perigon Group)",
+          "url": "https://www.seek.com.au/job/92904976",
+          "published": "2026-06-24",
+          "paywall": false
+        },
         {
           "severity": "watch",
           "headline": "Manager, Governance — NSW Government (Sydney City)",

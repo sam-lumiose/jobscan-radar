@@ -102,6 +102,43 @@ AICD **Directorship Opportunities** (do.aicd.com.au) — member subscription (~$
 visible teasers only, set `"paywall": true`, recommend manual login if a teaser looks
 strong · any LinkedIn/recruiter listing that is login-gated — public teaser only.
 
+### 1f. Scan routine — coverage discipline (MANDATORY)
+
+Most boards below are **JavaScript-rendered**: a plain web fetch or web search sees almost
+none of the live listings, so they MUST be read in **Chrome** (the rendered job cards), not
+via search alone. Use search only for *discovery* of URLs; do verification and capture in the
+browser. Confirm a browser is connected (`list_connected_browsers`); if none, note the
+search-only fallback in the digest `summary` and treat results as leads, not verified roles.
+
+**For every source: render the listing page, scrape the job cards, dedupe by job ID (or
+org + title + location).** Do not stop at the top few results.
+
+- **Seek** — run the **fixed query battery** below, each sorted most-recent first
+  (append `?sortmode=ListedDate`), and read **all of page 1 (~22 cards) and keep going while
+  listings are ≤14 days old**, then dedupe. Queries (Sydney NSW unless noted):
+  `chief risk officer` · `chief financial officer` · `chief operating officer` ·
+  `head of risk` · `head of compliance` · `head of audit` · `head of finance` ·
+  `head of governance` · `governance` · `risk manager` · `senior risk manager` ·
+  `senior manager risk` · `senior manager governance` · `compliance manager` ·
+  `internal audit` · `company secretary` · `financial controller` ·
+  `interim` and `contract` (finance & risk) · plus the **Board Appointments**
+  subclassification. Re-run the core terms with **Remote-AU** for remote roles.
+- **LinkedIn Jobs** (public pages) and **Indeed** — render the public search results in
+  Chrome for the same core terms (risk, compliance, audit, governance, CFO/CRO/COO, head of
+  finance, company secretary, interim). Public teasers only; never log in.
+- **I Work for NSW** — render the keyword searches (risk, audit, governance, compliance,
+  director, CFO, head of) and read the rendered listings; don't rely on web search alone.
+- **§1a recruiter boards** (Applyflow-based) — render each firm's live-roles page and read
+  the cards; capture deep-link job URLs.
+
+**Triage discipline:** every role that is browser-verified live, passes the §3 filter, and
+is **senior-manager-and-above** MUST be logged in the digest — do **not** silently drop
+verified, on-target matches just to keep the list short. Trim only genuine duplicates and
+clearly off-target/below-level roles. Include strong roles that are older but still live
+(note the listing date). Coverage is still a *sample*, so close the `summary` by noting that
+a manual look remains worthwhile and stating which boards were browser-verified this run vs.
+search-only.
+
 ---
 
 ## 2. Access & copyright policy
@@ -140,10 +177,19 @@ functions, **and** the location rule is met. (Plain *Manager* roles are in-scope
   - **Board / NED / committee / advisory → also include Interstate** (tag `Interstate`);
     assume monthly-travel cadence is acceptable.
 - **Seniority weighting:**
-  - Senior-manager-and-above, "Head of", director, C-suite, board → eligible for **any**
-    match tier (`act`/`watch`/`inform`) on fit.
-  - Plain **Manager**-level roles in a target function → **in-scope but lower priority**:
-    cap at `watch` (never `act`); use `inform` if the sector/function fit is loose.
+  - **Senior Manager is a core target, not a stretch.** The candidate's own level is
+    senior-manager (§0), so any **Senior Manager** / **"Senior &lt;function&gt; Manager"**
+    role (e.g. Senior Risk Manager, Senior Manager — Risk & Resilience, Senior Manager
+    Governance, Senior Finance Manager) counts as senior-manager-and-above and is a
+    **highly valued, direct match** — eligible for `act` on good function/location fit.
+    Do **not** reflexively downgrade Senior Manager roles to `watch`; weight them like
+    "Head of"/director roles.
+  - Senior-manager-and-above, "Head of", group manager, director, C-suite, board → eligible
+    for **any** match tier (`act`/`watch`/`inform`) on fit.
+  - **Plain** function **Manager**-level roles — titled just *Manager* with no
+    "Senior"/"Head of"/"Group"/"Senior Manager" qualifier (e.g. Risk Manager, Finance
+    Manager, Audit Manager, Compliance Manager) → **in-scope but lower priority**: cap at
+    `watch` (never `act`); use `inform` if the sector/function fit is loose.
   - Clearly **below** manager (analyst, officer, coordinator, associate, junior, graduate)
     → `inform` only, *unless* board/advisory. Off-target functions (quota sales, clinical,
     trades) → exclude.
@@ -183,7 +229,10 @@ The renderer's three severity tiers are repurposed as **match strength**:
   situational awareness only.
 
 Reserve `act` for genuinely strong, actionable matches so the count stays meaningful.
-Plain **Manager**-level roles (per §3) never get `act` — cap them at `watch`.
+**Senior Manager** and above (incl. "Senior &lt;function&gt; Manager", e.g. Senior Risk
+Manager) is core-target and may be `act` on good fit — do not default it to `watch` (see §3).
+Only **plain** *Manager*-level roles (no Senior/Head of/Group qualifier) are capped at
+`watch` — never `act`.
 
 ---
 
