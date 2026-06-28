@@ -1,9 +1,9 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T22:25:13+10:00",
-  "posture": "7 roles · 0 strong-act · 0 verifiable public interim — register/CV-current with risk-finance specialists is the time-critical move today",
-  "summary": "Weekend scan: no live, publicly-verifiable interim/contract roles surfaced from the §1a specialist recruiters today — their interim desks (Bluefin, Kaizen, Sharp & Carter, Robert Half) advertise little publicly, so the highest-value action is to be registered and CV-current with them. The verifiable opportunities today are public-sector governance/risk roles on I Work for NSW (manager-level, lower priority) and two genuine board/committee surfaces: the NSW Government Audit & Risk Committee independent chairs/members panel and the AICD/Board Direction NED platforms (teasers only). One NSW Government CFO-level role description was located but its current advertising status could not be confirmed. Note: most recruiter and job-board listings are JavaScript-rendered and not machine-readable in an automated run, so this digest captures only roles confirmable via public search; a manual pass on the recruiter boards is recommended.",
-  "counts": { "act": 0, "watch": 4, "inform": 3 },
+  "generated_at": "2026-06-28T22:44:34+10:00",
+  "posture": "9 roles · 1 strong-act · 1 verifiable public interim/contract (recruiter-held Financial Controller) worth fast action",
+  "summary": "Afternoon refresh: the morning's public-sector governance/risk and board surfaces are carried forward, and a browser pass of the §1a specialist recruiters surfaced a genuinely live, publicly-verifiable contract role — a hands-on Financial Controller (contract, Sydney CBD, immediate start) on the Sharp & Carter contract desk, plus a Sydney contract Finance Manager. The Robert Half 6-month Financial Controller seen earlier has expired (the posting now redirects to an invalid-job search). Board/NED supply is steady (NSW audit-and-risk-committee panel, Board Direction, AICD teasers). Standing reminder: most recruiter interim desks (Bluefin, Kaizen, Robert Half, Sharp & Carter) advertise little publicly, so being registered and CV-current with them remains the highest-leverage move; this run was browser-verified via Chrome.",
+  "counts": { "act": 1, "watch": 5, "inform": 3 },
   "sections": [
     {
       "category": "Board & NED",
@@ -22,12 +22,12 @@
         {
           "severity": "inform",
           "headline": "Non-Executive Director vacancies across AU sectors — Board Direction listing platform",
-          "summary": "Board Direction refreshes Australia's largest public NED listing roughly fortnightly; the latest batch (~mid/late June) spans Education, Financial & Insurance Services, Health, Environment, NFP and Welfare across NSW, VIC, QLD, WA, ACT, TAS and NT, with closing dates through July–August.",
-          "so_what": "Worth a scan for interstate board seats (monthly-travel cadence acceptable per your rule); filter for FS/insurance/energy/government affinity. No single role isolated here — browse the live list.",
+          "summary": "Board Direction refreshes Australia's largest public NED listing roughly fortnightly; the latest batch (published through ~26 June) spans Education, Financial & Insurance Services, Health, Environment, NFP, Welfare and government across the states, with closing dates through July–August.",
+          "so_what": "Worth a scan for interstate board seats (monthly-travel cadence acceptable per your rule); filter for FS/insurance/energy/government affinity. No single Sydney role isolated today — browse the live list.",
           "tags": ["Board", "Interstate", "NFP"],
           "source": "Board Direction",
           "url": "https://boarddirection.com.au/board-vacancies/",
-          "published": "2026-06-20",
+          "published": "2026-06-26",
           "paywall": false
         },
         {
@@ -54,6 +54,33 @@
           "tags": ["Permanent", "Sydney", "Government"],
           "source": "NSW DCJ / Reconstruction Authority (role description)",
           "url": "https://dcj.nsw.gov.au/documents/reconstruction-authority/RD_-_Executive_Director_Finance_and_Strategy_CFO.pdf",
+          "published": "best-known",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Finance & Accounting",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Financial Controller (Contract) — international scale-up, Sydney CBD (Sharp & Carter)",
+          "summary": "Live contract role on Sharp & Carter's finance contract desk: a hands-on, year-end-focused Financial Controller for a growing Australian scale-up with overseas subsidiaries, owning statutory reporting and leading a complex external audit while managing a small team. Sydney CBD, hybrid, daily rate, immediate start; CA or CPA required.",
+          "so_what": "Direct fit to your FCPA + financial-control background and a §1a specialist-recruiter contract role where speed matters — contact Sharp & Carter and apply today while you're immediately available. Browser-verified live this afternoon.",
+          "tags": ["Contract", "Sydney", "FS"],
+          "source": "Sharp & Carter",
+          "url": "https://www.sharpandcarter.com.au/job/financial-controller-start-asap-673843",
+          "published": "best-known",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager (Contract, immediate start) — IT organisation, Sydney (Sharp & Carter)",
+          "summary": "Sydney-based hands-on Finance Manager on the Sharp & Carter contract desk with a recognisable IT organisation, supporting management and reporting of the company's finances; immediate/short-notice start.",
+          "so_what": "On-target function and Sydney location, and a genuine contract engagement; as a plain Manager-level role it is in-scope but capped at watch per the seniority rule. Quick to action if you want a near-term contract bridge.",
+          "tags": ["Contract", "Sydney", "Technology"],
+          "source": "Sharp & Carter",
+          "url": "https://www.sharpandcarter.com.au/job/finance-manager-start-next-week-673504",
           "published": "best-known",
           "paywall": false
         }
