@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-06-29",
+      "file": "data/digests/2026-06-29.json",
+      "posture": "19 roles · 7 strong-act · 1 interim (Shippit FC) plus 4 recruiter-held senior risk/governance roles worth fast contact — senior-manager risk/governance weighted as core-target matches",
+      "counts": { "act": 7, "watch": 8, "inform": 4 }
+    },
+    {
       "date": "2026-06-28",
       "file": "data/digests/2026-06-28.json",
       "posture": "18 roles · 8 strong-act · 2 interim/contract worth fast action — senior-manager risk/governance roles weighted as core-target matches",
