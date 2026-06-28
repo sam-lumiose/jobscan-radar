@@ -1,0 +1,101 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T22:25:13+10:00",
+  "posture": "7 roles · 0 strong-act · 0 verifiable public interim — register/CV-current with risk-finance specialists is the time-critical move today",
+  "summary": "Weekend scan: no live, publicly-verifiable interim/contract roles surfaced from the §1a specialist recruiters today — their interim desks (Bluefin, Kaizen, Sharp & Carter, Robert Half) advertise little publicly, so the highest-value action is to be registered and CV-current with them. The verifiable opportunities today are public-sector governance/risk roles on I Work for NSW (manager-level, lower priority) and two genuine board/committee surfaces: the NSW Government Audit & Risk Committee independent chairs/members panel and the AICD/Board Direction NED platforms (teasers only). One NSW Government CFO-level role description was located but its current advertising status could not be confirmed. Note: most recruiter and job-board listings are JavaScript-rendered and not machine-readable in an automated run, so this digest captures only roles confirmable via public search; a manual pass on the recruiter boards is recommended.",
+  "counts": { "act": 0, "watch": 4, "inform": 3 },
+  "sections": [
+    {
+      "category": "Board & NED",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Independent Chairs & Members, Audit & Risk Committees — NSW Government (Sydney, prequalification panel)",
+          "summary": "Standing NSW Government scheme (ProcurePoint SCM2421) that prequalifies independent chairs and members for the audit and risk committees of NSW departments and statutory bodies. Appointees serve on committees overseeing internal audit, risk management and internal controls.",
+          "so_what": "Direct fit to your FAICD + audit/risk/governance profile and existing committee experience; getting on the panel positions you for multiple NSW committee appointments. Apply to join the register rather than to a single dated vacancy.",
+          "tags": ["Board", "Sydney", "Government"],
+          "source": "ProcurePoint (NSW Government)",
+          "url": "https://www.procurepoint.nsw.gov.au/scm2421",
+          "published": "best-known",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Non-Executive Director vacancies across AU sectors — Board Direction listing platform",
+          "summary": "Board Direction refreshes Australia's largest public NED listing roughly fortnightly; the latest batch (~mid/late June) spans Education, Financial & Insurance Services, Health, Environment, NFP and Welfare across NSW, VIC, QLD, WA, ACT, TAS and NT, with closing dates through July–August.",
+          "so_what": "Worth a scan for interstate board seats (monthly-travel cadence acceptable per your rule); filter for FS/insurance/energy/government affinity. No single role isolated here — browse the live list.",
+          "tags": ["Board", "Interstate", "NFP"],
+          "source": "Board Direction",
+          "url": "https://boarddirection.com.au/board-vacancies/",
+          "published": "2026-06-20",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Directorship Opportunities — ~80 live board roles nationally (AICD, member-gated)",
+          "summary": "AICD's Directorship Opportunities platform currently features 80+ board vacancies and adds ~15 new positions a week from up to 4,800 registered organisations. Only public teasers are visible without a member subscription (~$85–88/yr).",
+          "so_what": "As an FAICD this is your richest board pipeline; teasers only here. Worth a manual look in DO this week to filter by sector/location and apply directly — log in on your own account.",
+          "tags": ["Board", "Interstate", "NFP"],
+          "source": "AICD Directorship Opportunities",
+          "url": "https://do.aicd.com.au/",
+          "published": "best-known",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "category": "C-Suite & Executive",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Executive Director, Finance & Strategy (CFO) — NSW Reconstruction Authority (Sydney)",
+          "summary": "Senior NSW Government CFO-level role providing strategic leadership of financial and performance management for the Reconstruction Authority. A published role description was located; its current advertising/open status could not be confirmed in this run.",
+          "so_what": "Strong level/sector fit (public-sector C-suite finance, Sydney) to your CFO/COO targets. Verify it is currently open before acting — treat as a lead to confirm on I Work for NSW / the agency site.",
+          "tags": ["Permanent", "Sydney", "Government"],
+          "source": "NSW DCJ / Reconstruction Authority (role description)",
+          "url": "https://dcj.nsw.gov.au/documents/reconstruction-authority/RD_-_Executive_Director_Finance_and_Strategy_CFO.pdf",
+          "published": "best-known",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Risk, Compliance & Assurance",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Manager, Governance — NSW Government (Sydney City)",
+          "summary": "Public-sector management role leading governance, internal audit, risk and compliance initiatives within a NSW Government entity.",
+          "so_what": "On-target function and Sydney location; as a plain Manager-level role it is in-scope but lower priority (capped at watch). Solid governance/risk fit if open to a public-sector management seat.",
+          "tags": ["Permanent", "Sydney", "Government"],
+          "source": "I Work for NSW",
+          "url": "https://iworkfor.nsw.gov.au/job/manager-governance-578979",
+          "published": "best-known",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Manager, Cyber Security Governance, Risk & Compliance — NSW Government (Sydney City)",
+          "summary": "Manager-level GRC role spanning cyber security governance, risk and compliance for a NSW Government entity.",
+          "so_what": "Blends your risk/compliance and IT-leadership affinity; Sydney-based. Manager level so capped at watch — relevant if the security-GRC angle appeals.",
+          "tags": ["Permanent", "Sydney", "Government"],
+          "source": "I Work for NSW",
+          "url": "https://iworkfor.nsw.gov.au/job/manager-cyber-security-governance-risk-and-compliance-572020",
+          "published": "best-known",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Senior Governance Officer — Corporate Governance, Audit & Risk, NSW Government (Sydney)",
+          "summary": "Officer-level role supporting corporate governance, audit and risk/compliance functions within a NSW Government entity.",
+          "so_what": "Below your target level (officer, not manager), so awareness only — useful as a read on where NSW governance teams are hiring rather than a role to chase.",
+          "tags": ["Permanent", "Sydney", "Government"],
+          "source": "I Work for NSW",
+          "url": "https://iworkfor.nsw.gov.au/job/senior-governance-officer-570015",
+          "published": "best-known",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
