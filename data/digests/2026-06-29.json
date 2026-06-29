@@ -1,9 +1,9 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T04:15:50+10:00",
-  "posture": "19 roles · 7 strong-act · 1 interim (Shippit FC) plus 4 recruiter-held senior risk/governance roles worth fast contact — senior-manager risk/governance weighted as core-target matches",
-  "summary": "Monday morning Chrome-verified scan. The strongest live cluster is recruiter-held senior risk/governance: a Chief Risk Officer at Revesby Workers' Club (Sydney metro), a Senior Manager Finance Risk/Controls/Governance at Cuscal, plus three specialist recruiter roles still live from late last week (Oxygen Recruitment - Senior Manager Governance & Enablement, Perigon - Senior Manager Risk & Resilience, Ethos BeathChapman - Senior Risk Manager). New today: a Munich Re reinsurance Risk Manager, an Autosports internal-audit manager, a Bosch Head of Controlling and an Essential Selection Head of Treasury Risk. The Governance Institute GM (Business Performance & Operations) and the Shippit interim Financial Controller (contract to ~March 2027) remain live. Two NSW-gov manager roles carried from yesterday have closed and were dropped. Note for the reader: with interim/contract activity concentrated in the risk/finance specialists, the highest-value move is being registered and CV-current with Bluefin, Kaizen, JS Careers, KPP, Robert Half and Sharp & Carter. Coverage caveat: Seek/I Work for NSW are sampled via keyword batteries read most-recent-first, so older-but-live roles can sit below the fold and a manual look remains worthwhile. Browser-verified this run: Seek (multiple queries), I Work for NSW, Board Direction, Sharp & Carter; AICD is teaser-only (member-gated).",
-  "counts": { "act": 7, "watch": 8, "inform": 4 },
+  "generated_at": "2026-06-29T13:12:52+10:00",
+  "posture": "19 roles · 6 strong-act · 1 interim (Shippit FC) plus 4 recruiter-held senior risk/governance roles worth fast contact — senior-manager risk/governance weighted as core-target matches",
+  "summary": "Monday afternoon Chrome-verified refresh of the morning scan. The strong recruiter-held senior risk/governance cluster is all still live: Chief Risk Officer at Revesby Workers' Club, Senior Manager Finance Risk/Controls/Governance at Cuscal, plus Oxygen (Senior Manager Governance & Enablement), Perigon (Senior Manager Risk & Resilience) and Ethos BeathChapman (Senior Risk Manager). The Shippit interim Financial Controller (contract to ~March 2027) remains live. Change since this morning: the Governance Institute GM (Business Performance & Operations) has closed and was dropped. New this afternoon: a Compliance Manager at HCF (Australia's largest not-for-profit health fund) supporting APRA/ASIC obligations — plain Manager level but a clean insurance/mutual sector fit. The Munich Re reinsurance Risk Manager, Autosports internal-audit manager, Bosch Head of Controlling and Essential Selection Head of Treasury Risk all remain live. Reader note: with interim/contract activity concentrated in the risk/finance specialists, the highest-value move is being registered and CV-current with Bluefin, Kaizen, JS Careers, KPP, Robert Half and Sharp & Carter. Coverage caveat: Seek/I Work for NSW are sampled via keyword batteries read most-recent-first, so older-but-live roles can sit below the fold and a manual look remains worthwhile. Browser-verified this run: Seek (risk/governance/interim-finance most-recent batteries plus per-role live checks). AICD is teaser-only (member-gated).",
+  "counts": { "act": 6, "watch": 9, "inform": 4 },
   "sections": [
     {
       "category": "Board & NED",
@@ -22,7 +22,7 @@
         {
           "severity": "watch",
           "headline": "Company Secretary — Sydney organisation via Profusion PAC (Sydney)",
-          "summary": "Recruiter-held company secretary role in Sydney supporting board governance, statutory compliance and company-secretarial administration. Advertised through Profusion PAC.",
+          "summary": "Recruiter-held company secretary role in Sydney supporting board governance, statutory compliance and company-secretarial administration. Advertised through Profusion PAC. Still live this run.",
           "so_what": "Board-level company-secretarial work aligns with your FAICD/governance background and committee experience; a foot in the boardroom on the management side. Contact the recruiter to confirm scope and seniority.",
           "tags": ["Permanent", "Sydney", "Professional Services"],
           "source": "Seek (Profusion PAC)",
@@ -119,6 +119,17 @@
         },
         {
           "severity": "watch",
+          "headline": "Compliance Manager — HCF, Sydney (Hybrid)",
+          "summary": "Compliance Manager at HCF (Australia's largest not-for-profit health fund) supporting APRA and ASIC regulatory obligations, owning the compliance management framework, regulatory affairs, incident management and compliance policies/training, working alongside the Senior Compliance Manager. Newly posted this afternoon.",
+          "so_what": "Plain Manager level (lower priority, capped at watch) but a clean insurance/mutual sector fit to your StateCover/insurance background and FCPA, with strong APRA/ASIC regulatory exposure. Worth a look if you want a compliance seat in a large not-for-profit insurer.",
+          "tags": ["Permanent", "Sydney", "Insurance"],
+          "source": "Seek (HCF)",
+          "url": "https://www.seek.com.au/job/92995994",
+          "published": "2026-06-29",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
           "headline": "Head of Governance & Assurance — recruiter-held, Sydney (Ink Recruitment)",
           "summary": "Recruiter-held 'Head of' governance and assurance role (hybrid Sydney) leading the governance and assurance function. Still live this run, though it has been advertised for some weeks.",
           "so_what": "Strong 'Head of' governance fit for your FAICD profile; the longer time on market is the only caveat. Worth a call to the recruiter to check it is still open before investing in an application.",
@@ -131,7 +142,7 @@
         {
           "severity": "watch",
           "headline": "Senior Controls Assurance Manager — Teachers Mutual Bank, Sydney",
-          "summary": "Senior-manager role at Teachers Mutual Bank leading controls assurance and testing across the bank's risk and control environment. Re-surfaced near top of listings today (posted within the last day).",
+          "summary": "Senior-manager role at Teachers Mutual Bank leading controls assurance and testing across the bank's risk and control environment. Posted within the last day.",
           "so_what": "Senior-manager assurance role with a strong mutual/FS sector fit to your StateCover/insurance background; slightly niche to controls-testing, so a judgement call against your broader governance focus.",
           "tags": ["Permanent", "Sydney", "FS"],
           "source": "Seek (Teachers Mutual Bank)",
@@ -142,7 +153,7 @@
         {
           "severity": "watch",
           "headline": "Risk Manager (Enterprise & P&C Reinsurance) — Munich Re, Sydney",
-          "summary": "Risk manager role at reinsurer Munich Re covering enterprise risk and P&C reinsurance risk in the Sydney office. Newly posted today.",
+          "summary": "Risk manager role at reinsurer Munich Re covering enterprise risk and P&C reinsurance risk in the Sydney office.",
           "so_what": "Plain Manager level so lower priority, but the reinsurance/insurance sector is a direct fit to your mutual/insurance experience. Worth a look if you want a specialist risk seat in a global insurer.",
           "tags": ["Permanent", "Sydney", "Insurance"],
           "source": "Seek (Munich Re)",
@@ -153,7 +164,7 @@
         {
           "severity": "watch",
           "headline": "Internal Audit Manager — Autosports Group head office, Leichhardt (Sydney)",
-          "summary": "Head-office internal audit manager role at automotive retail group Autosports Group, running the internal audit program across the group. Posted within the last two days.",
+          "summary": "Head-office internal audit manager role at automotive retail group Autosports Group, running the internal audit program across the group.",
           "so_what": "Plain Manager level (lower priority) but a clean internal-audit fit to your assurance/FCPA background and Sydney-metro location. A solid watch if you want a group internal-audit seat.",
           "tags": ["Permanent", "Sydney", "Retail"],
           "source": "Seek (Autosports Group)",
@@ -180,7 +191,7 @@
         {
           "severity": "watch",
           "headline": "Head of Controlling — Bosch Rexroth, Kings Park (Sydney metro)",
-          "summary": "Senior 'Head of' finance/controlling role at industrial-technology firm Bosch Rexroth, leading management accounting, controlling and financial performance for the local business. Posted within the last two days.",
+          "summary": "Senior 'Head of' finance/controlling role at industrial-technology firm Bosch Rexroth, leading management accounting, controlling and financial performance for the local business.",
           "so_what": "Head-of-finance level role that fits your FCPA and finance-leadership target; industrial sector is adjacent rather than core, hence a watch. Sydney-metro location works.",
           "tags": ["Permanent", "Sydney", "Industrial"],
           "source": "Seek (Bosch Rexroth)",
@@ -202,7 +213,7 @@
         {
           "severity": "inform",
           "headline": "Finance Manager — Infrastructure, Sydney (DMC Recruitment & Search)",
-          "summary": "Recruiter-held finance manager role in the infrastructure sector, covering financial management and reporting for an infrastructure business. Posted within the last day.",
+          "summary": "Recruiter-held finance manager role in the infrastructure sector, covering financial management and reporting for an infrastructure business.",
           "so_what": "Plain Finance Manager level so peripheral to your seniority, but the infrastructure/utilities adjacency fits your energy/utilities strength. Situational awareness only unless you want a hands-on finance role.",
           "tags": ["Permanent", "Sydney", "Infrastructure"],
           "source": "Seek (DMC Recruitment & Search)",
@@ -213,28 +224,12 @@
       ]
     },
     {
-      "category": "Operations, Strategy & Transformation",
-      "items": [
-        {
-          "severity": "act",
-          "headline": "General Manager, Business Performance & Operations — Governance Institute of Australia, Sydney",
-          "summary": "Permanent GM role at the Governance Institute of Australia owning business performance, operations and corporate services for the professional body. Confirmed live this run.",
-          "so_what": "GM-level operations leadership at the peak governance body is an excellent fit for your FAICD profile and operations/business breadth — strong, direct match. Apply and lean on your governance credentials.",
-          "tags": ["Permanent", "Sydney", "Professional Body"],
-          "source": "Seek (Governance Institute of Australia)",
-          "url": "https://www.seek.com.au/job/92956132",
-          "published": "2026-06-27",
-          "paywall": false
-        }
-      ]
-    },
-    {
       "category": "Technology & Digital",
       "items": [
         {
           "severity": "inform",
           "headline": "Data Governance Manager — Harvey Norman, Silverwater (Sydney)",
-          "summary": "Data governance manager role at Harvey Norman, leading data governance frameworks, data quality and stewardship across the retailer. Posted within the last day.",
+          "summary": "Data governance manager role at Harvey Norman, leading data governance frameworks, data quality and stewardship across the retailer.",
           "so_what": "Plain Manager level and IT/data-governance focused rather than enterprise governance, so peripheral — situational awareness only. Sydney-metro location and a governance-adjacent function keep it on the radar.",
           "tags": ["Permanent", "Sydney", "Retail"],
           "source": "Seek (Harvey Norman)",
