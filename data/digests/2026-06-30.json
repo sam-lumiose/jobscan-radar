@@ -1,0 +1,347 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T04:15:25+10:00",
+  "posture": "28 roles · 9 strong-act · 3 interim/contract worth fast action (Cuscal, Zurich 9-mth, Shippit) plus a fresh cluster of recruiter-held senior-manager risk/compliance roles — senior-manager risk/governance weighted as core-target matches",
+  "summary": "Tuesday Chrome-verified scan. The day brought a strong new wave of recruiter-held senior-manager risk/compliance roles: a Senior Compliance Manager 9-month contract at Zurich (insurance), a Senior Manager Risk & Compliance at Robert Half (data-centre/AI/renewable-energy infrastructure), and an Ink Recruitment exclusive Senior Manager Risk/Compliance/Financial Crime (AML/CTF officer, CEO report, contract likely going permanent) — all direct, time-critical matches. Robert Half is also holding a multi-entity Financial Controller. Yesterday's strong cluster is all still live and re-verified: Revesby Workers' CRO, Cuscal Senior Manager Finance Risk/Controls/Governance (note: a contract/temp role, re-tagged Contract), plus Oxygen (Senior Manager Governance & Enablement), Perigon (Senior Manager Risk & Resilience) and Ethos BeathChapman (Senior Risk Manager). The Shippit interim Financial Controller (to ~March 2027) remains live. New watch-level supply includes a Crawford & Company Senior Manager Regulatory Compliance (APAC), Mulpha GM Finance, an Audit Office of NSW Associate Director Performance Audit, a Hort Innovation NED (Rimfire), and a Company Secretary at The Skin Hospital. Reader note: interim/contract activity is concentrated in the risk/finance specialists, so the highest-value move remains being registered and CV-current with Bluefin, Kaizen, JS Careers, KPP, Robert Half and Sharp & Carter. Coverage caveat: Seek and I Work for NSW are sampled via most-recent-first keyword batteries, so older-but-live roles can sit below the fold and a manual look remains worthwhile. Browser-verified this run via Chrome: Seek (risk/compliance/audit/governance/finance/CFO most-recent batteries plus per-role live checks), I Work for NSW (recent feed — no on-target senior risk/audit/governance roles surfaced today) and Board Direction (gated directory — pointer only). AICD is teaser-only (member-gated).",
+  "counts": { "act": 9, "watch": 13, "inform": 6 },
+  "sections": [
+    {
+      "category": "Board & NED",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Non-Executive Directors — Horticulture Innovation Australia (Hort Innovation), Sydney (Hybrid)",
+          "summary": "Board appointments at Hort Innovation, the grower-owned research-and-development corporation that invests on behalf of Australia's ~$18bn horticulture sector, recruited through Rimfire Resources. Part-time NED roles overseeing strategy, governance and a large annual R&D/marketing investment program.",
+          "so_what": "A genuine NED seat suited to your FAICD profile and governance/audit experience; agribusiness is outside your core sectors but the board-level oversight maps well. Apply via Rimfire and reference your StateCover and council board background.",
+          "tags": ["Board", "Sydney", "Agriculture"],
+          "source": "Seek (Rimfire Resources)",
+          "url": "https://www.seek.com.au/job/93004095",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Company Secretary — The Skin Hospital, Darlinghurst (Sydney)",
+          "summary": "Board-level company secretary role at The Skin Hospital (a not-for-profit specialist health provider), supporting board governance, statutory and regulatory compliance and company-secretarial administration.",
+          "so_what": "Company-secretarial work is a direct fit for your FAICD/governance background and a foot in the boardroom on the management side. NFP/health sector is adjacent; worth a look if you want a governance seat in a smaller, mission-driven organisation.",
+          "tags": ["Permanent", "Sydney", "Health"],
+          "source": "Seek (The Skin Hospital)",
+          "url": "https://www.seek.com.au/job/92999927",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Independent Chairs & Members, Audit & Risk Committees — NSW Government (Sydney, prequalification panel)",
+          "summary": "Standing NSW Government scheme (ProcurePoint SCM2421) that prequalifies independent chairs and members for the audit and risk committees of NSW departments and statutory bodies, overseeing internal audit, risk management and internal controls.",
+          "so_what": "Direct fit to your FAICD + audit/risk/governance profile and existing committee experience; joining the register positions you for multiple NSW committee appointments. Apply to the panel rather than a single dated vacancy.",
+          "tags": ["Board", "Sydney", "Government"],
+          "source": "ProcurePoint (NSW Government)",
+          "url": "https://www.procurepoint.nsw.gov.au/scm2421",
+          "published": "best-known",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Non-Executive Director vacancies across AU sectors — Board Direction listing platform",
+          "summary": "Board Direction maintains Australia's largest public NED list (Commercial, Government and NFP), spanning Banking & Insurance, Energy, Education, Health and Environment across all states. The detailed vacancy listings sit behind a member login; the public page shows the directory and filters only.",
+          "so_what": "Worth a scan for interstate board seats (monthly-travel cadence acceptable per your rule); filter for FS/insurance/energy/government affinity. Browse the live list directly — no single isolated Sydney role surfaced publicly today.",
+          "tags": ["Board", "Interstate", "NFP"],
+          "source": "Board Direction",
+          "url": "https://boarddirection.com.au/board-vacancies/",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Directorship Opportunities — board roles nationally (AICD, member-gated)",
+          "summary": "AICD's Directorship Opportunities platform features 80+ board vacancies and adds roughly 15 new positions a week from thousands of registered organisations. Only public teasers are visible without a member subscription (~$85-88/yr).",
+          "so_what": "As an FAICD this is your richest board pipeline; teasers only here. Worth a manual look in DO this week to filter by sector/location and apply directly — log in on your own account.",
+          "tags": ["Board", "Interstate", "NFP"],
+          "source": "AICD Directorship Opportunities",
+          "url": "https://do.aicd.com.au/",
+          "published": "best-known",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "category": "C-Suite & Executive",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Chief Risk Officer (CRO) — Revesby Workers' Club, Revesby (Sydney metro)",
+          "summary": "Permanent executive role owning the enterprise risk function at a large registered club/hospitality group in south-west Sydney — building and running the risk, compliance and assurance framework and reporting to the board/CEO. Confirmed live this run.",
+          "so_what": "Bullseye for your CRO target and risk/governance specialisation, and a board-facing C-suite seat in Sydney metro. Strong direct match — apply now and reference your FCPA/FAICD and StateCover/Ku-ring-gai governance experience.",
+          "tags": ["Permanent", "Sydney", "Clubs"],
+          "source": "Seek (Revesby Workers')",
+          "url": "https://www.seek.com.au/job/92945654",
+          "published": "2026-06-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Risk, Compliance & Assurance",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Senior Compliance Manager (9-month contract) — Zurich Financial Services Australia, North Sydney (Hybrid)",
+          "summary": "Fixed-term contract senior compliance role at insurer Zurich, leading regulatory compliance activity within the local business on a roughly nine-month engagement. Confirmed live this run (contract/temp work type).",
+          "so_what": "Core-target senior compliance role on a contract basis in your insurance sector strength — interim/contract roles move fast, so apply today. A strong day-rate/fixed-term option that fits your FCPA and risk/compliance depth.",
+          "tags": ["Contract", "Sydney", "Insurance"],
+          "source": "Seek (Zurich Financial Services)",
+          "url": "https://www.seek.com.au/job/93012469",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager — Risk & Compliance (Contract Management) — recruiter-held, Sydney (Robert Half)",
+          "summary": "Recruiter-held permanent senior-manager role (hybrid Sydney) at a fast-scaling, internationally listed infrastructure business spanning data centres, AI and digital assets with a renewable-energy/sustainability backbone, owning risk, compliance and commercial-contract/regulatory obligations. Confirmed live this run.",
+          "so_what": "Senior-manager risk/compliance is core-target for you, and the renewable-energy/infrastructure backdrop plays to your energy/utilities strength. Robert Half is a §1a specialist — call the consultant and submit a current CV today.",
+          "tags": ["Permanent", "Sydney", "Technology"],
+          "source": "Seek (Robert Half)",
+          "url": "https://www.seek.com.au/job/92993165",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager — Risk, Compliance & Financial Crime — recruiter-held, Sydney CBD (Ink Recruitment)",
+          "summary": "Ink Recruitment exclusive: a hands-on senior-manager role (3-6 month contract with strong likelihood of going permanent, ~$225k package, hybrid Sydney CBD) owning the enterprise risk and compliance framework, leading two direct reports across financial crime and disputes, and acting as the AUSTRAC-registered AML/CTF compliance officer reporting to the CEO. Confirmed live this run.",
+          "so_what": "Direct senior-manager risk/compliance match with board and leadership-team exposure from day one and a clear path to permanent — exactly your level and function. Recruiter-exclusive, so contact Ink early and move fast.",
+          "tags": ["Contract", "Sydney", "FS"],
+          "source": "Seek (Ink Recruitment)",
+          "url": "https://www.seek.com.au/job/92999408",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Finance Risk, Controls & Governance (contract) — Cuscal, Sydney (Hybrid)",
+          "summary": "Contract/temp senior-manager role at payments/financial-services group Cuscal, leading the finance risk, controls and governance agenda across the finance function. Confirmed live this run — now showing as a contract engagement.",
+          "so_what": "Core-target Senior Manager role combining finance, risk, controls and governance — a near-exact map to your profile and FCPA, and the contract basis makes it a fast-moving interim option. Strong FS-sector match; apply directly.",
+          "tags": ["Contract", "Sydney", "FS"],
+          "source": "Seek (Cuscal)",
+          "url": "https://www.seek.com.au/job/92964638",
+          "published": "2026-06-27",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Governance and Enablement — recruiter-held, Sydney (Oxygen Recruitment & HR)",
+          "summary": "Recruiter-held permanent senior-manager governance role (hybrid Sydney) covering governance frameworks, enablement and assurance. Confirmed live this run.",
+          "so_what": "Senior-manager governance is core-target for you; recruiter-held roles move fast. Contact the consultant today and reference your FAICD and board/committee experience.",
+          "tags": ["Permanent", "Sydney", "Governance"],
+          "source": "Seek (Oxygen Recruitment & HR)",
+          "url": "https://www.seek.com.au/job/92944182",
+          "published": "2026-06-25",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager — Risk & Resilience — recruiter-held, Sydney (Perigon Group)",
+          "summary": "Recruiter-held permanent senior-manager role (hybrid Sydney) owning enterprise risk and operational/business resilience. Confirmed live this run.",
+          "so_what": "Direct senior-manager risk match with a resilience angle that suits your utilities/insurance background; recruiter-held so act fast. Call Perigon and apply.",
+          "tags": ["Permanent", "Sydney", "Risk"],
+          "source": "Seek (Perigon Group)",
+          "url": "https://www.seek.com.au/job/92904976",
+          "published": "2026-06-23",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Risk Manager — recruiter-held, Sydney (Ethos BeathChapman)",
+          "summary": "Recruiter-held senior risk management role (hybrid Sydney) within financial services, leading enterprise/operational risk. Confirmed live this run.",
+          "so_what": "Senior Risk Manager is a core-target, direct match to your risk specialisation and FS affinity; recruiter-held, so make early contact and submit a current CV.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Seek (Ethos BeathChapman)",
+          "url": "https://www.seek.com.au/job/92723686",
+          "published": "2026-06-18",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Manager — Regulatory Compliance (APAC) — Crawford & Company, Sydney (Hybrid)",
+          "summary": "Senior-manager role at global claims-management/insurance-services firm Crawford & Company, leading regulatory strategy, governance and risk oversight across Australia and Asia and partnering with senior executives on compliance culture. Confirmed live this run.",
+          "so_what": "Senior-manager regulatory compliance with an insurance-services backdrop fits your sector strength and FCPA; the pan-APAC remit is the only stretch, hence a judgement call. Worth a strong look and an application if the regional scope appeals.",
+          "tags": ["Permanent", "Sydney", "Insurance"],
+          "source": "Seek (Crawford & Company)",
+          "url": "https://www.seek.com.au/job/92990376",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Associate Director, Performance Audit — Audit Office of NSW, Sydney",
+          "summary": "Senior role at the Audit Office of NSW leading performance-audit engagements that examine the economy, efficiency and effectiveness of NSW public-sector programs and agencies.",
+          "so_what": "Above-senior-manager assurance role in the public sector with a strong governance/audit fit to your FCPA and committee experience, plus local-government-sector affinity. A judgement call on the specialist performance-audit focus versus your broader remit.",
+          "tags": ["Permanent", "Sydney", "Government"],
+          "source": "Seek (Audit Office of NSW)",
+          "url": "https://www.seek.com.au/job/92992431",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Controls Assurance Manager — Teachers Mutual Bank, Sydney",
+          "summary": "Senior-manager role at Teachers Mutual Bank leading controls assurance and testing across the bank's risk and control environment. Still live this run.",
+          "so_what": "Senior-manager assurance role with a strong mutual/FS sector fit to your StateCover/insurance background; slightly niche to controls-testing, so a judgement call against your broader governance focus.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Seek (Teachers Mutual Bank)",
+          "url": "https://www.seek.com.au/job/92988445",
+          "published": "2026-06-29",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Manager — HCF, Sydney (Hybrid)",
+          "summary": "Compliance Manager at HCF (Australia's largest not-for-profit health fund) supporting APRA and ASIC regulatory obligations, owning the compliance management framework, regulatory affairs, incident management and compliance policies/training. Still live this run.",
+          "so_what": "Plain Manager level (lower priority, capped at watch) but a clean insurance/mutual sector fit to your StateCover/insurance background and FCPA, with strong APRA/ASIC regulatory exposure. Worth a look if you want a compliance seat in a large not-for-profit insurer.",
+          "tags": ["Permanent", "Sydney", "Insurance"],
+          "source": "Seek (HCF)",
+          "url": "https://www.seek.com.au/job/92995994",
+          "published": "2026-06-29",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Manager, A&NZ — Chubb Insurance, North Sydney",
+          "summary": "Compliance Manager role covering Australia and New Zealand at global insurer Chubb, supporting the regional compliance framework and regulatory obligations.",
+          "so_what": "Plain Manager level (lower priority, capped at watch) but a direct insurance-sector fit to your background and FCPA. A solid watch if you want a compliance seat in a major global insurer.",
+          "tags": ["Permanent", "Sydney", "Insurance"],
+          "source": "Seek (Chubb Insurance)",
+          "url": "https://www.seek.com.au/job/93005988",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Risk Manager (Enterprise & P&C Reinsurance) — Munich Re, Sydney",
+          "summary": "Risk manager role at reinsurer Munich Re covering enterprise risk and P&C reinsurance risk in the Sydney office. Still live this run.",
+          "so_what": "Plain Manager level so lower priority, but the reinsurance/insurance sector is a direct fit to your mutual/insurance experience. Worth a look if you want a specialist risk seat in a global insurer.",
+          "tags": ["Permanent", "Sydney", "Insurance"],
+          "source": "Seek (Munich Re)",
+          "url": "https://www.seek.com.au/job/92989002",
+          "published": "2026-06-29",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Risk and Compliance Lead — MediRecords, North Sydney",
+          "summary": "Risk and compliance lead role at health-technology/SaaS provider MediRecords, owning the risk and compliance framework for a growing clinical-software business.",
+          "so_what": "Lead-level rather than senior-manager and in a smaller health-tech firm, so peripheral to your seniority — situational awareness only. The risk/compliance function and Sydney location keep it on the radar.",
+          "tags": ["Permanent", "Sydney", "Technology"],
+          "source": "Seek (MediRecords)",
+          "url": "https://www.seek.com.au/job/92997403",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Financial Crime Risk Lead — recruiter-held, Sydney (Ethos BeathChapman)",
+          "summary": "Recruiter-held financial-crime risk lead role within financial services, focused on AML/CTF and financial-crime risk frameworks.",
+          "so_what": "Function-adjacent to your risk/compliance background but narrowly specialised in financial crime, so situational awareness rather than a core target. Worth noting Ethos has multiple risk roles live — a reason to keep your CV with them current.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Seek (Ethos BeathChapman)",
+          "url": "https://www.seek.com.au/job/93002825",
+          "published": "2026-06-30",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Finance & Accounting",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Interim Financial Controller (contract to ~March 2027) — Shippit, Darling Point (Sydney)",
+          "summary": "Interim/contract Financial Controller at logistics-tech scale-up Shippit, running the finance/control function on a fixed-term basis through to about March 2027. Confirmed live this run.",
+          "so_what": "Direct interim contract match to your FCPA and financial-control depth; interim roles move fast, so apply today. Good day-rate/fixed-term option while you weigh permanent and board options.",
+          "tags": ["Interim", "Sydney", "Technology"],
+          "source": "Seek (Shippit)",
+          "url": "https://www.seek.com.au/job/92977316",
+          "published": "2026-06-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Financial Controller — Multinational Business, recruiter-held, Sydney (Robert Half)",
+          "summary": "Recruiter-held permanent financial controller role at an established global business, overseeing financial control across multiple entities, reporting integrity, compliance and financial governance, and leading a small accounting team. Confirmed live this run.",
+          "so_what": "Multi-entity financial control with a governance and compliance emphasis is a direct fit to your FCPA and finance-leadership depth; Robert Half is a §1a specialist. Industry isn't named, so confirm sector fit with the consultant — worth an early call.",
+          "tags": ["Permanent", "Sydney", "Commercial"],
+          "source": "Seek (Robert Half)",
+          "url": "https://www.seek.com.au/job/93001118",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "General Manager — Finance — Mulpha Australia, Circular Quay (Sydney)",
+          "summary": "Permanent GM-level finance role at diversified real-estate/hospitality investor Mulpha Australia (assets including InterContinental Sydney and Norwest Business Park), leading the finance function on an onsite basis at Circular Quay.",
+          "so_what": "GM Finance is at or above your level and a strong finance-leadership target; property/hospitality is adjacent rather than core, and it is fully onsite, hence a watch. A solid option if you want a senior finance seat in a marquee Sydney group.",
+          "tags": ["Permanent", "Sydney", "Property"],
+          "source": "Seek (Mulpha Australia)",
+          "url": "https://www.seek.com.au/job/93003143",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Controlling — Bosch Rexroth, Kings Park (Sydney metro)",
+          "summary": "Senior 'Head of' finance/controlling role at industrial-technology firm Bosch Rexroth, leading management accounting, controlling and financial performance for the local business. Still live this run.",
+          "so_what": "Head-of-finance level role that fits your FCPA and finance-leadership target; industrial sector is adjacent rather than core, hence a watch. Sydney-metro location works.",
+          "tags": ["Permanent", "Sydney", "Industrial"],
+          "source": "Seek (Bosch Rexroth)",
+          "url": "https://www.seek.com.au/job/92977994",
+          "published": "2026-06-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Finance Manager — Infrastructure, Sydney (DMC Recruitment & Search)",
+          "summary": "Recruiter-held finance manager role in the infrastructure sector, covering financial management and reporting for an infrastructure business. Still live this run.",
+          "so_what": "Plain Finance Manager level so peripheral to your seniority, but the infrastructure/utilities adjacency fits your energy/utilities strength. Situational awareness only unless you want a hands-on finance role.",
+          "tags": ["Permanent", "Sydney", "Infrastructure"],
+          "source": "Seek (DMC Recruitment & Search)",
+          "url": "https://www.seek.com.au/job/92986518",
+          "published": "2026-06-28",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Operations, Strategy & Transformation",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "General Manager, Business Performance & Operations — recruiter-held, Sydney (Cox Purtell)",
+          "summary": "Recruiter-held GM-level role covering business performance and operations, leading operational delivery, performance management and business-improvement initiatives for a Sydney organisation.",
+          "so_what": "GM-level operations/business-performance role is at your level and maps to your operations/strategy affinity; sector isn't specified, so confirm fit with the recruiter. A solid watch if you want a COO-track operations seat.",
+          "tags": ["Permanent", "Sydney", "Operations"],
+          "source": "Seek (Cox Purtell Staffing Services)",
+          "url": "https://www.seek.com.au/job/93005752",
+          "published": "2026-06-30",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Technology & Digital",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Data Governance Manager — Harvey Norman, Silverwater (Sydney)",
+          "summary": "Data governance manager role at Harvey Norman, leading data governance frameworks, data quality and stewardship across the retailer. Still live this run.",
+          "so_what": "Plain Manager level and IT/data-governance focused rather than enterprise governance, so peripheral — situational awareness only. Sydney-metro location and a governance-adjacent function keep it on the radar.",
+          "tags": ["Permanent", "Sydney", "Retail"],
+          "source": "Seek (Harvey Norman)",
+          "url": "https://www.seek.com.au/job/92981032",
+          "published": "2026-06-28",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
