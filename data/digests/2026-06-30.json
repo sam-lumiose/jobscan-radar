@@ -1,9 +1,9 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T04:15:25+10:00",
-  "posture": "28 roles · 9 strong-act · 3 interim/contract worth fast action (Cuscal, Zurich 9-mth, Shippit) plus a fresh cluster of recruiter-held senior-manager risk/compliance roles — senior-manager risk/governance weighted as core-target matches",
-  "summary": "Tuesday Chrome-verified scan. The day brought a strong new wave of recruiter-held senior-manager risk/compliance roles: a Senior Compliance Manager 9-month contract at Zurich (insurance), a Senior Manager Risk & Compliance at Robert Half (data-centre/AI/renewable-energy infrastructure), and an Ink Recruitment exclusive Senior Manager Risk/Compliance/Financial Crime (AML/CTF officer, CEO report, contract likely going permanent) — all direct, time-critical matches. Robert Half is also holding a multi-entity Financial Controller. Yesterday's strong cluster is all still live and re-verified: Revesby Workers' CRO, Cuscal Senior Manager Finance Risk/Controls/Governance (note: a contract/temp role, re-tagged Contract), plus Oxygen (Senior Manager Governance & Enablement), Perigon (Senior Manager Risk & Resilience) and Ethos BeathChapman (Senior Risk Manager). The Shippit interim Financial Controller (to ~March 2027) remains live. New watch-level supply includes a Crawford & Company Senior Manager Regulatory Compliance (APAC), Mulpha GM Finance, an Audit Office of NSW Associate Director Performance Audit, a Hort Innovation NED (Rimfire), and a Company Secretary at The Skin Hospital. Reader note: interim/contract activity is concentrated in the risk/finance specialists, so the highest-value move remains being registered and CV-current with Bluefin, Kaizen, JS Careers, KPP, Robert Half and Sharp & Carter. Coverage caveat: Seek and I Work for NSW are sampled via most-recent-first keyword batteries, so older-but-live roles can sit below the fold and a manual look remains worthwhile. Browser-verified this run via Chrome: Seek (risk/compliance/audit/governance/finance/CFO most-recent batteries plus per-role live checks), I Work for NSW (recent feed — no on-target senior risk/audit/governance roles surfaced today) and Board Direction (gated directory — pointer only). AICD is teaser-only (member-gated).",
-  "counts": { "act": 9, "watch": 13, "inform": 6 },
+  "generated_at": "2026-06-30T13:20:00+10:00",
+  "posture": "35 roles · 11 strong-act · 4 interim/contract worth fast action (Cuscal, Zurich 9-mth, Shippit, Robert Half FP&A 12-mth FTC) plus a fresh afternoon wave incl. CCSG Head of Risk & Compliance — senior-manager risk/governance weighted as core-target matches",
+  "summary": "Afternoon refresh (Chrome-verified). All morning items re-checked and still live and carried forward; the afternoon feeds added several genuinely new, on-target roles. Best of the new batch: a Head of Risk & Compliance at CCSG Group (Sydney CBD debt-recovery/financial-services group) — a core-target 'Head of' risk/compliance seat — and an FP&A Director on a 12-month fixed-term contract via Robert Half at a funds-management firm reporting to the CFO (a §1a-recruiter contract, so fast-moving). Also new and on-target: a PwC ECDD Senior Manager (Risk & Ethics), an Ethos BeathChapman Audit Manager, a Group Financial Controller via Richard Lloyd, a 6-month finance-manager FTC via TOM, and a Kaizen-held Compliance Committee Member / Responsible Manager. The morning's strong cluster remains live: Revesby Workers' CRO, Zurich Senior Compliance Manager (9-mth contract), Robert Half Senior Manager Risk & Compliance, Ink Recruitment Senior Manager Risk/Compliance/Financial Crime, Cuscal Senior Manager Finance Risk/Controls/Governance (contract), Oxygen Senior Manager Governance & Enablement, Perigon Senior Manager Risk & Resilience, Ethos Senior Risk Manager and the Shippit interim Financial Controller (to ~March 2027). Reader note: interim/contract activity is concentrated in the risk/finance specialists, so the highest-value move remains being registered and CV-current with Bluefin, Kaizen, JS Careers, KPP, Robert Half and Sharp & Carter. Coverage caveat: Seek is sampled via most-recent-first keyword batteries, so older-but-live roles can sit below the fold and a manual look remains worthwhile. Browser-verified this run via Chrome: Seek (risk-manager, compliance, CFO/finance and Board Appointments most-recent feeds plus per-role live checks). I Work for NSW and AICD reviewed via the search fallback this run (AICD teaser-only, member-gated).",
+  "counts": { "act": 11, "watch": 17, "inform": 7 },
   "sections": [
     {
       "category": "Board & NED",
@@ -39,6 +39,17 @@
           "source": "ProcurePoint (NSW Government)",
           "url": "https://www.procurepoint.nsw.gov.au/scm2421",
           "published": "best-known",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Committee Member (ECC) & Responsible Manager — recruiter-held, Sydney (Kaizen Recruitment)",
+          "summary": "Kaizen-held governance appointment combining a seat on an external/enterprise compliance committee with a Responsible Manager designation for a financial-services/funds business. Live on the Seek Board Appointments feed this run.",
+          "so_what": "A committee-level governance role that maps directly to your FAICD, audit/risk committee background and FS affinity — and Kaizen is a §1a risk/compliance specialist, so it is worth a direct call and keeping your CV current with them.",
+          "tags": ["Board", "Sydney", "FS"],
+          "source": "Seek (Kaizen Recruitment)",
+          "url": "https://www.seek.com.au/job/92902289",
+          "published": "2026-06-24",
           "paywall": false
         },
         {
@@ -84,6 +95,17 @@
     {
       "category": "Risk, Compliance & Assurance",
       "items": [
+        {
+          "severity": "act",
+          "headline": "Head of Risk & Compliance — Credit Collection Services Group (CCSG), Sydney CBD",
+          "summary": "Permanent 'Head of' role owning the risk and compliance function at CCSG Group, a full-service debt-recovery business spanning contingent collections, legal services, investigations and debt purchase in the Sydney CBD. Browser-verified live this run (posted today).",
+          "so_what": "A core-target 'Head of' risk/compliance seat in a financial-services-adjacent business — a direct match to your risk/compliance specialisation and FCPA. Newly posted, so apply early and reference your CRO/StateCover governance background.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Seek (CCSG Group)",
+          "url": "https://www.seek.com.au/job/93021267",
+          "published": "2026-06-30",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Senior Compliance Manager (9-month contract) — Zurich Financial Services Australia, North Sydney (Hybrid)",
@@ -159,6 +181,28 @@
           "source": "Seek (Ethos BeathChapman)",
           "url": "https://www.seek.com.au/job/92723686",
           "published": "2026-06-18",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "ECDD Escalations Outreach Lead / Senior Manager, Risk & Ethics — PwC, Sydney",
+          "summary": "Senior-manager role in PwC's Risk & Ethics function leading enhanced customer due diligence (ECDD) escalations and outreach — a financial-crime/AML-aligned risk role within the firm's internal risk-and-ethics team. Browser-verified live this run (posted today).",
+          "so_what": "Senior Manager is core-target for you and the risk/ethics function fits, but the specialist ECDD/financial-crime escalations focus is a touch narrow against your broader governance remit — hence a judgement call rather than an automatic act.",
+          "tags": ["Permanent", "Sydney", "Professional Services"],
+          "source": "Seek (PwC)",
+          "url": "https://www.seek.com.au/job/93021393",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Audit Manager — recruiter-held, Sydney (Ethos BeathChapman)",
+          "summary": "Recruiter-held internal/external audit manager role within financial services via Ethos BeathChapman. Browser-verified live this run (posted today).",
+          "so_what": "Plain Manager level (lower priority, capped at watch) but a clean internal-audit/assurance fit to your FCPA and committee experience; Ethos continues to hold several risk/audit roles, so it is worth keeping your CV current with them.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Seek (Ethos BeathChapman)",
+          "url": "https://www.seek.com.au/job/93022549",
+          "published": "2026-06-30",
           "paywall": false
         },
         {
@@ -266,6 +310,28 @@
           "paywall": false
         },
         {
+          "severity": "act",
+          "headline": "FP&A Director (12-month fixed-term contract) — Funds Management firm, recruiter-held, Sydney (Robert Half)",
+          "summary": "Robert Half-held FP&A Director on a 12-month fixed-term contract at a leading funds-management firm, reporting to the CFO and covering strategic financial planning, commercial analysis, fund-performance reporting and finance leadership (hybrid Sydney). Browser-verified live this run.",
+          "so_what": "A director-level, fixed-term finance-leadership role in funds/superannuation (your FS affinity) held by a §1a specialist — contract roles move fast, so call Robert Half and submit a current CV today. Strong fit to your FCPA and finance-leadership depth.",
+          "tags": ["Contract", "Sydney", "Super"],
+          "source": "Seek (Robert Half)",
+          "url": "https://www.seek.com.au/job/93016045",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Group Financial Controller — recruiter-held, Sydney (Richard Lloyd)",
+          "summary": "Recruiter-held Group Financial Controller role via Richard Lloyd Accounting Recruitment, leading group-level financial control and reporting for a Sydney business. Browser-verified live this run (posted today).",
+          "so_what": "Group-level financial control is at your level and a direct fit to your FCPA and finance-leadership background; sector isn't specified, so confirm fit with the consultant — a solid watch with a quick call to the recruiter.",
+          "tags": ["Permanent", "Sydney", "Commercial"],
+          "source": "Seek (Richard Lloyd Accounting Recruitment)",
+          "url": "https://www.seek.com.au/job/93017782",
+          "published": "2026-06-30",
+          "paywall": false
+        },
+        {
           "severity": "watch",
           "headline": "Financial Controller — Multinational Business, recruiter-held, Sydney (Robert Half)",
           "summary": "Recruiter-held permanent financial controller role at an established global business, overseeing financial control across multiple entities, reporting integrity, compliance and financial governance, and leading a small accounting team. Confirmed live this run.",
@@ -296,6 +362,17 @@
           "source": "Seek (Bosch Rexroth)",
           "url": "https://www.seek.com.au/job/92977994",
           "published": "2026-06-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Finance Manager — 6-month fixed-term contract, Sydney CBD (TOM)",
+          "summary": "Recruiter-held Finance Manager on a 6-month fixed-term contract in the Sydney CBD via TOM. Browser-verified live this run (posted today).",
+          "so_what": "Plain Manager level so peripheral to your seniority, but TOM is a §1a audit/risk/finance specialist and it's a fast-moving contract — situational awareness, and a reason to keep your CV current with TOM.",
+          "tags": ["Contract", "Sydney", "Commercial"],
+          "source": "Seek (TOM)",
+          "url": "https://www.seek.com.au/job/93022610",
+          "published": "2026-06-30",
           "paywall": false
         },
         {
