@@ -1,12 +1,12 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T04:12:13+10:00",
-  "posture": "33 roles · 12 strong-act · recruiter-held senior risk/compliance the fast-action surface (Robert Half SM Risk & Compliance x2 + a fresh Senior Compliance Manager; Cuscal SM Finance Risk contract; Shippit interim FC) plus fresh Seek listings today — Peninsula Head of Compliance & Risk and a Talent-held Senior Finance Manager; senior-manager risk/governance weighted as core-target matches",
-  "summary": "Morning run (04:12 AEST), browser-verified on Seek and Robert Half. Still-live items from 1 Jul carried forward (CatholicCare finance exec, Revesby CRO, Cuscal contract, Shippit interim FC, both Robert Half senior risk/compliance roles) and today adds a fresh wave: a Peninsula Head of Compliance & Risk, a Talent-held Senior Finance Manager, a ubank Senior Manager Risk Enablement, an AMP financial-crime assurance manager, a Preacta Director — Cyber & Tech Risk, and new Robert Half senior compliance/governance/audit roles. Recruiter-held senior-manager risk/governance and interim/contract roles remain the time-critical surface, so being CV-current and registered with the risk/finance specialists (Bluefin, Kaizen, JS Careers, KPP, Robert Half, Sharp & Carter) matters. Seek and Robert Half were browser-verified this run; I Work for NSW, Board Direction and AICD DO (member-gated) were covered via search-assisted discovery, so a manual look at those desks remains worthwhile.",
+  "generated_at": "2026-07-02T13:15:50+10:00",
+  "posture": "39 roles · 14 strong-act · afternoon refresh adds two fresh strong matches — a recruiter-held CFO (Moir Group) and a Regional Director of Governance, Risk & Compliance ANZ (OneSchool Global) — on top of the still-live recruiter-held senior risk/compliance surface (Robert Half SM Risk & Compliance x2, Cuscal SM Finance Risk contract, Shippit interim FC); senior-manager risk/governance weighted as core-target matches",
+  "summary": "Afternoon refresh (13:15 AEST), browser-verified on Seek and Robert Half. All still-live morning items were carried forward (recruiter-held Robert Half senior risk/compliance roles re-checked live; the Peninsula Head of Compliance & Risk, Talent Senior Finance Manager, Cuscal contract and Shippit interim FC all still open) and this run adds a fresh afternoon wave: a Moir Group-held CFO for a purpose-led org, a OneSchool Global Regional Director of Governance, Risk & Compliance (ANZ), a Senior Internal Audit Manager via Ethos BeathChapman, a Controls & Design Assurance Manager at Anglicare, an Environmental Risk & Assurance Lead (a rare overlap with your Environmental Law background), and an Operational Risk Analyst held by §1a recruiter JS Careers. A search hit for a WaterNSW Head of Risk, Compliance & Audit was checked and excluded — that WORK180 listing is closed (posted ~a year ago). Recruiter-held senior-manager risk/governance and interim/contract roles remain the time-critical surface, so being CV-current and registered with the risk/finance specialists (Bluefin, Kaizen, JS Careers, KPP, Robert Half, Sharp & Carter) matters. Seek and Robert Half were browser-verified this run; I Work for NSW, Board Direction and AICD DO (member-gated) were covered via search-assisted discovery, so a manual look at those desks remains worthwhile.",
   "counts": {
-    "act": 12,
-    "watch": 19,
-    "inform": 2
+    "act": 14,
+    "watch": 22,
+    "inform": 3
   },
   "sections": [
     {
@@ -74,6 +74,17 @@
       "items": [
         {
           "severity": "act",
+          "headline": "Chief Financial Officer — purpose-led organisation, Sydney (Hybrid) (Moir Group)",
+          "summary": "Recruiter-held permanent CFO owning the finance function — strategy, planning, reporting, treasury, investments, statutory reporting and governance/risk — for a values-driven Sydney organisation, partnering the board and executive team.",
+          "so_what": "Strong direct CFO match to your FCPA finance-leadership profile with an explicit governance/risk remit; recruiter-held and fresh this afternoon — contact Moir Group early.",
+          "tags": ["Permanent", "Sydney", "NFP"],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93072347",
+          "published": "2026-07-02",
+          "paywall": false
+        },
+        {
+          "severity": "act",
           "headline": "Executive Director, Finance & Corporate Services — CatholicCare, Lewisham (Sydney)",
           "summary": "Permanent CFO-equivalent executive leading finance and corporate services for a large Sydney not-for-profit; full-time, on-site/hybrid in the inner-west.",
           "so_what": "Strong direct match to your CFO/COO-track finance leadership and FCPA credential in an NFP setting; still live (closes ~14 Jul) — move early.",
@@ -110,6 +121,61 @@
     {
       "category": "Risk, Compliance & Assurance",
       "items": [
+        {
+          "severity": "act",
+          "headline": "Regional Director, Governance, Compliance & Risk (ANZ) — OneSchool Global, Sydney Olympic Park",
+          "summary": "Director-level leader owning governance, risk, compliance, privacy, work health & safety and legal oversight across the Australia/New Zealand regions of an international education group.",
+          "so_what": "Direct senior GRC leadership match for your FAICD/governance strength at director level; fresh this afternoon — a standout on-function opening, move early.",
+          "tags": ["Permanent", "Sydney", "Education"],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93069789",
+          "published": "2026-07-02",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Internal Audit Manager — recruiter-held, Sydney (Ethos BeathChapman)",
+          "summary": "Senior internal audit manager role for a Sydney financial-services employer, owning the internal audit plan and controls testing; listed this afternoon.",
+          "so_what": "Core-target senior-manager level on the internal-audit axis of your profile; audit-specialist focus makes it a judgement call, but recruiter-held and fresh — worth a direct approach.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93072972",
+          "published": "2026-07-02",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Controls & Design Assurance Manager — Anglicare, Macquarie Park (Sydney)",
+          "summary": "Manager owning controls design and assurance testing within the risk/assurance function of a large Sydney not-for-profit; listed this afternoon.",
+          "so_what": "On-function controls/assurance fit in an NFP sector you know; plain manager level caps it at watch, but a fresh, relevant listing.",
+          "tags": ["Permanent", "Sydney", "NFP"],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93069492",
+          "published": "2026-07-02",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Environmental Risk & Assurance Lead — recruiter-held, Sydney (The Safe Step)",
+          "summary": "Lead role owning environmental risk and assurance for a Sydney organisation, placed through a specialist recruiter; listed this afternoon.",
+          "so_what": "Unusual overlap with your Environmental Law background plus your risk/assurance core; lead-level and niche, so a watch — but a rare on-theme match worth a look.",
+          "tags": ["Permanent", "Sydney", "Risk"],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93069244",
+          "published": "2026-07-02",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Operational Risk Analyst — JS Careers, Sydney",
+          "summary": "Operational risk analyst role in financial services, placed through §1a risk/compliance recruiter JS Careers; listed this afternoon.",
+          "so_what": "Below your senior-manager level so situational only, but signals JS Careers is actively holding operational-risk mandates — worth being CV-current with them.",
+          "tags": ["Contract", "Sydney", "FS"],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93069418",
+          "published": "2026-07-02",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Senior Manager, Finance Risk, Controls & Governance (contract) — Cuscal, Sydney (Hybrid)",
