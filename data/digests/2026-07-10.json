@@ -1,11 +1,11 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T04:12:34+10:00",
-  "posture": "66 roles · 27 strong-act · Friday 08:00 run — quiet open to the week. Robert Half's Sydney risk/compliance desk (39 live cards) was re-verified in Chrome and showed nothing newer than the 6 Jul 'Senior Compliance Manager | High Growth Lender' already logged; Seek's freshest 'head of risk' and 'governance' listings this morning were off-target (power-grid, quality, ads-policy). All still-live prior items carry forward, led by INTEC Energy Solutions' Chief Financial Officer (AU/NZ, Sydney) and Steadfast Group's 'Head of Finance & Business Partnering' — both direct matches to your energy and insurance strengths.",
-  "summary": "Quiet Friday morning: no genuinely new senior risk, finance or governance roles surfaced in the last 24 hours. The Robert Half Sydney desk was browser-verified live this run (no new on-target cards since the 8 Jul management-accountant/treasury-analyst additions, which are below-level); Seek's most-recent 'head of risk' and 'governance' queries returned off-target listings only, so today is a carry-forward day of 66 still-live matches (27 strong-act). The standouts remain INTEC Energy Solutions' CFO (energy — your core sector) and Steadfast Group's Head of Finance & Business Partnering (insurance, CPA-essential — direct to your FCPA background). A manual pass over the §1a recruiter boards (Bluefin, Kaizen, Sharp & Carter) and AICD Directorship Opportunities remains worthwhile: this run browser-verified Robert Half and Seek; the other recruiter and board items carry forward from prior verification and are leads rather than re-confirmed this morning.",
+  "generated_at": "2026-07-10T13:13:21+10:00",
+  "posture": "68 roles · 27 strong-act · Friday 14:00 refresh — market stayed quiet through the day. Robert Half's Sydney risk/compliance desk (17 live cards) was re-verified in Chrome and showed nothing newer than the 6 Jul 'Senior Compliance Manager | High Growth Lender' already logged; Seek's freshest listings added two on-target compliance roles this afternoon — Michael Page's 'Control Room Compliance VP' and BOQ Group's 'Manager, Line 1 Risk & Compliance' (both FS). All still-live morning items carry forward, led by INTEC Energy Solutions' CFO (AU/NZ) and Steadfast Group's Head of Finance & Business Partnering.",
+  "summary": "Quiet Friday afternoon: 68 live roles (27 act / 36 watch / 5 inform). Two genuinely new listings appeared since the 08:00 run — both first-/senior-line FS compliance roles (Michael Page 'Control Room Compliance VP' and BOQ Group 'Manager, Line 1 Risk & Compliance'), added at watch. Robert Half's Sydney risk desk and Seek's freshest risk/finance/governance queries were browser-verified in Chrome and surfaced nothing else new; boards/gov/NED were search-verified only. All still-live morning items carry forward. A manual look at the recruiter desks (Bluefin, Kaizen, Robert Half, Sharp & Carter) and AICD Directorship Opportunities remains worthwhile for unadvertised interim roles.",
   "counts": {
     "act": 27,
-    "watch": 34,
+    "watch": 36,
     "inform": 5
   },
   "sections": [
@@ -740,6 +740,36 @@
           "source": "Seek",
           "url": "https://www.seek.com.au/job/93069418",
           "published": "2026-07-02",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Control Room Compliance VP — recruiter-held, Sydney CBD (Michael Page)",
+          "summary": "VP-level control-room compliance role with a banking/financial-services client, covering surveillance, information-barrier and conflicts monitoring; held by §1a recruiter Michael Page.",
+          "so_what": "Senior FS compliance role via a primary recruiter — solid seniority fit, though control-room/surveillance is a specialised niche vs your broader governance/risk profile; worth a call to Michael Page.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek (Michael Page)",
+          "url": "https://www.seek.com.au/job/93239630",
+          "published": "2026-07-10",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Manager, Line 1 Risk & Compliance — BOQ Group, Sydney",
+          "summary": "First-line risk and compliance manager role embedded in a business line at Bank of Queensland Group, owning day-to-day controls, risk assessments and regulatory obligations.",
+          "so_what": "Direct FS risk/compliance function fit; plain Manager level so lower-priority per your target band, but a clean sector match if you want a permanent line role.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek (BOQ Group)",
+          "url": "https://www.seek.com.au/job/93239622",
+          "published": "2026-07-10",
           "paywall": false
         }
       ]
