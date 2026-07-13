@@ -8,7 +8,7 @@
     {
       "date": "2026-07-13",
       "file": "data/digests/2026-07-13.json",
-      "posture": "68 roles · 27 strong-act · Monday 08:00 run — SEARCH-ONLY fallback (no Chrome browser connected this run), so today's list carries forward Friday 10 Jul's browser-verified items as still-live leads rather than re-verifying the JS-rendered boards. Discovery web-searches across the §1a recruiters, Seek, I Work for NSW and Board Direction surfaced no new datestamped on-target roles beyond what is already logged; the Robert Half Sydney risk/compliance desk roles and the NSW gov senior risk/governance postings still resolve. Leads stand, headed by INTEC Energy Solutions' CFO (AU/NZ, renewable energy) and Steadfast Group's Head of Finance & Business Partnering (insurance).",
+      "posture": "68 roles · 27 strong-act · Monday 14:00 refresh — SEARCH-ONLY fallback again (no Chrome browser connected, list_connected_browsers empty), so the JS-rendered boards still can't be browser-verified and Friday 10 Jul's verified items carry forward as still-live leads. Afternoon discovery web-searches across Robert Half, Seek, I Work for NSW and Board Direction returned only category/aggregator pages plus undated recurring roles (e.g. APRA and QBE senior-manager risk postings) with no working deep-links, so nothing new could be verified or added since 08:00. All morning items resolve and carry forward, led by INTEC Energy Solutions' CFO (AU/NZ, renewable energy) and Steadfast Group's Head of Finance & Business Partnering (insurance).",
       "counts": {
         "act": 27,
         "watch": 36,
