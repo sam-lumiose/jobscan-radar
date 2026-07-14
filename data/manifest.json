@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-07-15",
+      "file": "data/digests/2026-07-15.json",
+      "posture": "67 roles · 26 strong-act · Wednesday 08:00 morning run — SEARCH-ONLY fallback (no Chrome browser connected; list_connected_browsers empty). Robert Half's Sydney risk/compliance deep-links re-verified live via server-rendered web-fetch this morning; no new deep-linked live roles surfaced across Seek, I Work for NSW, Board Direction or the NED services, so the prior browser-verified set carries forward as still-live leads. CatholicCare's Executive Director, Finance & Corporate Services dropped (closed ~14 Jul).",
+      "counts": {
+        "act": 26,
+        "watch": 36,
+        "inform": 5
+      }
+    },
+    {
       "date": "2026-07-14",
       "file": "data/digests/2026-07-14.json",
       "posture": "68 roles · 27 strong-act · 5 interim/peripheral — Tuesday 14:00 refresh, SEARCH-ONLY fallback (no Chrome browser connected; list_connected_browsers empty). Robert Half's Sydney risk/compliance deep-links re-verified live via server-rendered web-fetch this afternoon; no new deep-linked live roles surfaced across Seek, I Work for NSW, Board Direction or the NED services, so the morning's browser-verified set carries forward as still-live leads.",
