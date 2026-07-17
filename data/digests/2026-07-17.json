@@ -1,12 +1,12 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T04:15:26+10:00",
-  "posture": "69 roles · 25 strong-act · several interim/contract worth fast action — Friday 08:00 morning run, BROWSER-VERIFIED via Chrome. Robert Half's Sydney risk/compliance and finance desks read live in-browser (18 + 37 rendered roles), and Seek's most-recent listings browser-verified: new adds include Western Union's Director, Compliance Program Management (24-mo fixed term) and a temp-to-perm Head of Finance ANZ. Several stale Robert Half deep-links were dropped after they fell off the live desks.",
-  "summary": "Morning run (08:00 Australia/Sydney) — a Chrome browser was connected this run, so the JavaScript-rendered boards were browser-verified rather than search-only. Robert Half's Sydney risk/compliance desk (18 rendered roles) and finance & accounting desk (37 rendered roles) were read live in-browser: the carried-forward Robert Half risk roles (Senior Risk & Compliance Manager | Digital Infrastructure, Senior Manager – Risk & Compliance (Contract Management), Compliance Manager | Digital Infrastructure, Senior Compliance Manager | High Growth Lender) remain live, and a fresh day-rate Risk & Compliance Manager | Consumer Finance ($450-850/day, listed 14 Jul) was added. Six aging Robert Half deep-links that no longer appear on the live desks (two day-rate senior-compliance contracts, a global-consulting senior R&C role, a senior finance manager, a group finance reporting manager, a governance manager/assistant company secretary and an internal audit manager) were dropped as filled/closed. Seek's most-recent listings were browser-verified: the strongest fresh finds are Western Union's Director, Compliance Program Management (24-month fixed-term AML/CTF remediation program leader with Board-committee exposure) and a temp-to-perm Head of Finance, ANZ via Alexander Appointments, plus a Chief Risk, Safety & Insurance Officer at Strathfield Council (local-government sector fit) and, on the Robert Half finance desk, an FP&A Director (12-month FTC), a Financial Controller and a Finance Business Partnering Team Manager. Older Seek and non-Robert-Half items carry forward as still-live leads; a manual look at Seek, LinkedIn, I Work for NSW and AICD Directorship Opportunities remains worthwhile. Interim-market reminder: stay CV-current and registered with the risk/finance contract specialists (Bluefin, Kaizen, JS Careers, KPP, Robert Half, Sharp & Carter), where unadvertised day-rate work moves fastest.",
+  "generated_at": "2026-07-17T14:00:00+10:00",
+  "posture": "89 roles · 28 strong-act · 20 new since the morning run — Friday 14:00 afternoon refresh, BROWSER-VERIFIED via Chrome. Best new find: Senior Manager, Risk, Compliance & Governance at Cancer Council Australia (listed within the hour). Also new: Head of Credit Risk (~$250-300k), a $80-100/hr senior IT audit contract, and two fresh board seats (LiveCorp NED, Cobar Water Board President).",
+  "summary": "Afternoon refresh (14:00 Australia/Sydney) — a Chrome browser was connected, so the JavaScript-rendered boards were browser-verified rather than search-only. All 28 morning act-tier Seek listings were re-checked against Seek and still resolve as live, so they are carried forward; 20 new items were added from the rendered Seek query battery (head of risk / finance / compliance, internal audit, governance, senior manager risk, company secretary, CFO) and the Board Appointments subclassification. The standout is Cancer Council Australia's Senior Manager, Risk, Compliance & Governance — exactly your level, a three-way function hit, and listed within the hour, so early application matters. Two genuine board seats surfaced (LiveCorp NED, Cobar Water Board President), plus a day-rate senior IT audit contract via Ethos BeathChapman. Browser-verified this run: Seek (query battery, job detail pages, Board Appointments subclass) and Bluefin Resources' live-roles page. NOT verified this run: I Work for NSW (its keyword search rejected both URL parameters and scripted input — NSW government roles were instead picked up via Seek, where DCCEEW, TCorp, Housing Australia and the Cabinet Office all surfaced), and LinkedIn/Indeed. Coverage remains a sample: a manual look at Seek and the specialist risk/finance desks is still worthwhile, and being registered and CV-current with Bluefin, Kaizen, JS Careers, KPP, Robert Half and Sharp & Carter remains the best route to the interim roles that never get advertised.",
   "counts": {
-    "act": 25,
-    "watch": 38,
-    "inform": 6
+    "act": 28,
+    "watch": 52,
+    "inform": 9
   },
   "sections": [
     {
@@ -86,6 +86,96 @@
           "url": "https://do.aicd.com.au/",
           "published": "best-known",
           "paywall": true
+        },
+        {
+          "severity": "watch",
+          "headline": "Non-Executive Director — Australian Livestock Export Corporation (LiveCorp), Sydney (Remote)",
+          "summary": "One independent NED sought for LiveCorp's skills-based board; the livestock export industry's research, development and marketing body. Part-time, initial three-year term, subject to member election at the AGM on 5 November 2026.",
+          "so_what": "A properly constituted skills-based board seeking regulatory, government and commercial experience — all of which you have. The board is prioritising live-export/agricultural connection, which you lack, so treat it as a considered application rather than a shoo-in.",
+          "tags": [
+            "Board",
+            "Sydney",
+            "Agriculture"
+          ],
+          "source": "Seek (LiveCorp)",
+          "url": "https://www.seek.com.au/job/93365795",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "President, Cobar Water Board — NSW Dept of Climate Change, Energy, the Environment & Water (Central NSW, Remote)",
+          "summary": "Expressions of interest for President of the Cobar Water Board, a 1963 statutory authority supplying bulk water to Cobar Shire and local mining companies. Part-time, five-year term; the President is selected by the Minister for Water and members are appointed by the Governor.",
+          "so_what": "A chair-equivalent statutory appointment blending your utilities and local-government strengths, and remote-friendly. The criteria lean on demonstrated affinity with the Cobar community, which is the main gap to address in an EOI.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "Utilities"
+          ],
+          "source": "Seek (NSW DCCEEW)",
+          "url": "https://www.seek.com.au/job/93379678",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Board Members — International Grammar School, Sydney (Orchard Talent Group)",
+          "summary": "Board member vacancies at an independent Sydney school, handled by Orchard Talent Group.",
+          "so_what": "Sydney-based independent-school governance suits your FAICD and existing board portfolio; still live though listed about a week ago, so move if it appeals.",
+          "tags": [
+            "Board",
+            "Sydney",
+            "Education"
+          ],
+          "source": "Seek (Orchard Talent Group)",
+          "url": "https://www.seek.com.au/job/93245810",
+          "published": "2026-07-11",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Board Director — NCVER, Sydney",
+          "summary": "Board director vacancy at the National Centre for Vocational Education Research, advertised across several capital cities including Sydney.",
+          "so_what": "A government-funded research body board — your accounting/governance credentials and public-sector familiarity fit, and the Sydney listing keeps travel manageable.",
+          "tags": [
+            "Board",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek (NCVER)",
+          "url": "https://www.seek.com.au/job/93243311",
+          "published": "2026-07-11",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Committee Member (ECC) & Responsible Manager — recruiter-held, Sydney (Kaizen Recruitment)",
+          "summary": "Compliance committee member and responsible manager appointment held by Kaizen Recruitment, a funds/superannuation risk and compliance specialist.",
+          "so_what": "Committee-level governance in funds management, held by one of the specialist desks worth knowing. The listing is flagged as expiring, so enquire now or not at all.",
+          "tags": [
+            "Board",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek (Kaizen Recruitment)",
+          "url": "https://www.seek.com.au/job/92902289",
+          "published": "2026-06-24",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Expression of Interest: Board Directors — Gippsland PHN, regional Victoria",
+          "summary": "Open expressions of interest for board directors at Gippsland Primary Health Network, advertised across several regional Victorian locations.",
+          "so_what": "Board work is interstate-acceptable in principle, but regional Victorian travel plus a health-sector focus makes this peripheral for you — awareness only.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "Health"
+          ],
+          "source": "Seek (Gippsland PHN)",
+          "url": "https://www.seek.com.au/job/93379820",
+          "published": "2026-07-17",
+          "paywall": false
         }
       ]
     },
@@ -756,6 +846,96 @@
           "url": "https://www.seek.com.au/job/93377326",
           "published": "2026-07-17",
           "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Risk, Compliance & Governance — Cancer Council Australia, Sydney (Hybrid)",
+          "summary": "Newly advertised senior-manager role owning enterprise risk, compliance and governance for Australia's leading non-government cancer control body. Full-time, Sydney-hybrid, competitive package; sits in the General/Business Unit Manager classification.",
+          "so_what": "Squarely at your own level and a three-way hit on risk, compliance and governance — the NFP/purpose sector also lines up with your mutual and council background. Listed within the hour, so you are among the first applicants; apply today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek (Cancer Council Australia)",
+          "url": "https://www.seek.com.au/job/93384963",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Head of Credit Risk — recruiter-held, Sydney (Hybrid), circa $250-300k (TTG Recruitment)",
+          "summary": "Second-line credit risk leadership role reporting alongside the Chief Risk Officer, owning the credit risk management framework and independent oversight across the credit lifecycle. Hybrid Sydney, circa $250-300k plus super and incentives.",
+          "so_what": "A genuine 'Head of' risk mandate with direct CRO exposure and framework ownership — the regulatory and risk-appetite work maps well to your insurance/mutual grounding. Recruiter-held and freshly listed; contact TTG today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek (TTG Recruitment)",
+          "url": "https://www.seek.com.au/job/93381389",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior IT Audit Manager / Associate Director (12-month contract) — recruiter-held, Sydney (Hybrid), $80-100/hr (Ethos BeathChapman)",
+          "summary": "Twelve-month max-term contract leading external IT audit engagements across a multi-industry client portfolio, covering IT general controls, application and automated controls, and advising on technology, cloud and ERP risk. Hourly rate $80-100.",
+          "so_what": "Rare combination of your software-engineering degree and audit/assurance track record, at senior-manager level and on a day-rate contract. Recruiter-held interim work moves fast — call Ethos BeathChapman today.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Professional Services"
+          ],
+          "source": "Seek (Ethos BeathChapman)",
+          "url": "https://www.seek.com.au/job/93380456",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Risk & Compliance Manager — recruiter-held, Sydney, $160-180k + bonus (Bluefin Resources)",
+          "summary": "Risk and compliance management role held by Bluefin Resources, a specialist risk and compliance recruiter, paying $160-180k plus bonus in Sydney.",
+          "so_what": "Below your level as a plain Manager title, but Bluefin is one of the specialist desks worth being registered and CV-current with — treat the listing as a reason to open the relationship rather than the role itself.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek (Bluefin Resources)",
+          "url": "https://www.seek.com.au/job/93358436",
+          "published": "2026-07-16",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Manager — McCormacks Strata Management, Sydney",
+          "summary": "Compliance management role with a Sydney strata management business.",
+          "so_what": "On-function but a plain Manager title in a sector with no particular affinity for you — worth a look only if you want a lower-intensity permanent base.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Property"
+          ],
+          "source": "Seek (McCormacks Strata Management)",
+          "url": "https://www.seek.com.au/job/93363147",
+          "published": "2026-07-16",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Safety & People Risk Manager — recruiter-held, Sydney (Randstad HR Partners)",
+          "summary": "Manager-level role covering safety and people risk, held by Randstad HR Partners in Sydney.",
+          "so_what": "Risk in name but people/WHS in substance, and only Manager level — situational awareness only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Other"
+          ],
+          "source": "Seek (Randstad HR Partners)",
+          "url": "https://www.seek.com.au/job/93383485",
+          "published": "2026-07-17",
+          "paywall": false
         }
       ]
     },
@@ -1021,6 +1201,96 @@
           "url": "https://www.seek.com.au/job/93041233",
           "published": "2026-07-01",
           "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Transformation — Motorcycle Holdings, Sydney",
+          "summary": "Transformation leadership role with a listed motorcycle retail and distribution group, salary negotiable.",
+          "so_what": "A 'Head of' transformation mandate at your level; sector is unfamiliar and the function is change rather than risk, so weigh it against stronger fits.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Retail"
+          ],
+          "source": "Seek (Motorcycle Holdings)",
+          "url": "https://www.seek.com.au/job/93384094",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Strategy — Endeavour Group, Barangaroo (Sydney)",
+          "summary": "Group strategy leadership role at Endeavour Group, based at Barangaroo.",
+          "so_what": "Large-cap strategy leadership at the right level, though it leans commercial/strategy rather than your risk-governance core — a stretch worth considering.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Retail"
+          ],
+          "source": "Seek (Endeavour Group)",
+          "url": "https://www.seek.com.au/job/93381335",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Director, Business & Vendor Engagement — Housing Australia, Sydney",
+          "summary": "Director-level role at Housing Australia covering business and vendor engagement, with a competitive salary and benefits package.",
+          "so_what": "Commonwealth agency at director level with a government/social-infrastructure flavour that suits your public-sector affinity; the vendor-engagement focus is adjacent to your core.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek (Housing Australia)",
+          "url": "https://www.seek.com.au/job/93382224",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Resource Recovery — Penrith City Council, Penrith (Sydney), $204-236k",
+          "summary": "Senior operational leadership of resource recovery services at Penrith City Council, paying $204,165-$236,327 plus vehicle and 12% super.",
+          "so_what": "Local government is one of your strongest sectors and this is a well-paid 'Head of' operational role in Sydney's west; the waste/resource-recovery specialism is the main gap.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Local Government"
+          ],
+          "source": "Seek (Penrith City Council)",
+          "url": "https://www.seek.com.au/job/93380007",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Manager, Strategic Planning — Vertiv Australia, Sydney",
+          "summary": "Senior-manager strategic planning role with Vertiv, a global critical-infrastructure and data-centre equipment business.",
+          "so_what": "Senior Manager is core-target for you and critical infrastructure touches your energy/utilities strength; the role is planning-led rather than governance-led.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Energy"
+          ],
+          "source": "Seek (Vertiv Australia)",
+          "url": "https://www.seek.com.au/job/93381079",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Senior Manager, Property (director-level) — TCorp, Sydney",
+          "summary": "Director-level senior manager role in the property function at TCorp, the NSW government's financial management arm.",
+          "so_what": "Right level and an appealing NSW-government-finance employer, but the property specialism sits outside your functions — awareness only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek (TCorp)",
+          "url": "https://www.seek.com.au/job/93367956",
+          "published": "2026-07-16",
+          "paywall": false
         }
       ]
     },
@@ -1040,6 +1310,36 @@
           "source": "Seek",
           "url": "https://www.seek.com.au/job/93027222",
           "published": "2026-06-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Director, Data Platforms & AI — Housing Australia, Sydney",
+          "summary": "Director-level role leading data platforms and AI at Housing Australia, with a competitive salary and benefits package.",
+          "so_what": "Your software-engineering background plus government affinity make this credible, and data/AI governance is an area where your risk lens is a differentiator.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek (Housing Australia)",
+          "url": "https://www.seek.com.au/job/93382618",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Infrastructure & Security — DataMesh, Sydney",
+          "summary": "Technology leadership role covering infrastructure and security at payments technology business DataMesh.",
+          "so_what": "A 'Head of' technology role blending your engineering degree with security/risk oversight; the hands-on infrastructure emphasis may sit below your governance focus.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek (DataMesh)",
+          "url": "https://www.seek.com.au/job/93364049",
+          "published": "2026-07-16",
           "paywall": false
         }
       ]
