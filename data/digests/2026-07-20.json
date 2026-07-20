@@ -1,11 +1,11 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T08:00:00+10:00",
-  "posture": "91 roles · 29 strong-act — Monday 08:00 morning run, BROWSER-VERIFIED via Chrome. Thin fresh weekend crop, as expected for a Monday; the standout new find is a NSW Government CFO (permanent Band 2, Dept of Customer Service) held by Derwent, one of your primary search firms. A Whiddon aged-care NED also surfaced. All still-live items from Friday's run are carried forward.",
-  "summary": "Monday morning run (08:00 Australia/Sydney) with a Chrome browser connected, so Seek's JavaScript-rendered boards were browser-verified. The genuinely-new crop over the weekend is thin and mostly off-target, which is normal for a Monday: date-filtered Seek scans (risk, head of risk/compliance, CFO, senior manager risk, company secretary, board appointments — last-3-days, most-recent-first) returned mainly office-management, accounting-officer, engineering and IT roles below or outside your target band. Two on-target new roles were browser-verified and added: a permanent NSW Government CFO (Dept of Customer Service, Band 2, via Derwent Search — your strongest new lead this run) and a Whiddon aged-care NED (Sydney, a watch given its development-led priority). The remaining 89 items are carried forward from Friday's browser-verified run, where they resolved as live; a weekend rarely expires listings, but they were not each re-opened individually this run, so treat older late-June items as leads to re-confirm. Browser-verified fresh this run: Seek query battery (risk/head-of-risk/head-of-compliance/CFO/senior-manager-risk/company-secretary date-filtered pages plus the two new job-detail pages). Not re-rendered this run: I Work for NSW, LinkedIn/Indeed, and the §1a recruiter boards individually. Coverage remains a sample — a manual look at Seek and the specialist risk/finance desks is still worthwhile, and being registered and CV-current with Bluefin, Kaizen, JS Careers, KPP, Robert Half, Sharp & Carter and Derwent remains the best route to the interim/contract roles that never get advertised.",
+  "generated_at": "2026-07-20T13:54:49+10:00",
+  "posture": "93 roles · 29 strong-act · 2 new since the morning run — Monday 14:00 afternoon refresh, BROWSER-VERIFIED via Chrome. Two fresh Sydney finance-leadership roles added, both listed today: Head of FP&A ANZ at Reckitt and Head of Strategic Execution at icare (insurance/NSW-gov, good sector fit). All still-live morning items carried forward.",
+  "summary": "Afternoon refresh (Chrome-verified). The intraday Monday crop was thin and finance-led: two new 'Head of' roles surfaced on Seek — Reckitt's Head of FP&A ANZ and icare's Head of Strategic Execution (the icare role is the better sector fit, insurance/NSW-gov). No new interim/contract or board roles cleared the filter this run; the freshest Sydney contract/compliance listings were off-target. All morning items remain live and are carried forward. As always this is a sample — a manual look at the §1a risk/finance recruiters (Bluefin, Kaizen, Robert Half, Sharp & Carter) and AICD Directorship Opportunities remains worthwhile for unadvertised interim and board roles. Browser-verified this run: Seek (compliance, risk, finance-leadership and contract/temp queries, sorted most-recent).",
   "counts": {
     "act": 29,
-    "watch": 53,
+    "watch": 55,
     "inform": 9
   },
   "sections": [
@@ -973,6 +973,21 @@
       "category": "Finance & Accounting",
       "items": [
         {
+          "severity": "watch",
+          "headline": "Head of FP&A ANZ — Reckitt, Sydney (Hybrid)",
+          "summary": "Consumer-health/FMCG multinational seeking a senior finance leader to own ANZ financial planning, forecasting, budgeting and the Integrated Business Planning process, reporting to the ANZ Finance Director and partnering the leadership team on performance and decision support.",
+          "so_what": "On-target 'Head of' finance-leadership role in Sydney with executive stakeholder scope; sector (FMCG) is outside your core strengths and it's FP&A-weighted rather than control/governance, so a judgement-call fit — worth a look, not a fast-action.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FMCG"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93416572",
+          "published": "2026-07-20",
+          "paywall": false
+        },
+        {
           "severity": "act",
           "headline": "Head of Finance, ANZ (temp-to-permanent) — recruiter-held, Parramatta (Sydney, Hybrid) (Alexander Appointments)",
           "summary": "Recruiter-held ASAP-start Head of Finance for the ANZ arm of a global industrial manufacturer/distributor, reporting to the MD and owning financial control, statutory/tax compliance, intercompany and group reporting to the Japanese parent, plus leading a team of three; $160-180k, temp with a view to permanent.",
@@ -1187,6 +1202,21 @@
     {
       "category": "Operations, Strategy & Transformation",
       "items": [
+        {
+          "severity": "watch",
+          "headline": "Head of Strategic Execution — icare, Sydney CBD (Hybrid)",
+          "summary": "NSW insurance & care scheme (icare) seeking a leader within its FP&A function to translate enterprise strategy into executable business plans, integrating strategic, financial and investment planning and running portfolio/performance governance, working to the GM of Financial Performance & Analysis.",
+          "so_what": "Strong sector fit (insurance/mutual + NSW government) and a senior 'Head of' strategy-execution/transformation mandate close to your operations and governance experience; permanent direct-hire (no agencies), so apply directly if the strategy tilt appeals.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93417127",
+          "published": "2026-07-20",
+          "paywall": false
+        },
         {
           "severity": "watch",
           "headline": "Commercial Advisory Manager — Finance Transformation (12-month day-rate contract) — Bluefin Resources, Ultimo (Sydney)",
