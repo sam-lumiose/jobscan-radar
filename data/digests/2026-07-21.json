@@ -1,17 +1,32 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T05:15:15+10:00",
-  "posture": "96 roles · 31 strong-act · 3 new this morning — Tuesday 08:00 morning run, BROWSER-VERIFIED via Chrome (Seek). Three fresh Sydney risk/compliance roles added: Head of AML/CTF & Responsible Gaming Compliance (West HQ), Senior Manager Fraud & Technology Risk (ColCap Financial, FS) and a Head of Bank & Securitisation Risk. Still-live items carried forward from Monday.",
-  "summary": "Morning refresh for Tuesday 21 July, browser-verified on Seek via Chrome with search-assisted discovery across the §1a recruiters, boards and I Work for NSW. Three new Sydney risk/compliance roles were added on top of Monday's still-live set — two at core senior/Head-of level in financial services and one gaming-sector compliance lead. The risk/compliance and finance-leadership pipeline remains the deepest; board/NED supply is steady (AICD teasers remain member-gated). Coverage is a sample: Seek was browser-verified this run while other §1a recruiter boards and gated sources were search-scanned, so a manual look at Bluefin/Kaizen/Robert Half and AICD Directorship Opportunities remains worthwhile.",
+  "generated_at": "2026-07-21T13:14:00+10:00",
+  "posture": "106 roles · 36 strong-act · 10 new since the morning run — Tuesday 14:00 afternoon refresh, BROWSER-VERIFIED via Chrome (Seek). Best new find: Head of Compliance at ColCap Financial (FS non-bank lender, ASIC/AUSTRAC-facing Line 2 leadership). Also new today: Senior Manager Risk Policy & Strategy (Australian Payments Plus), a Head of Finance at a global fintech, and two fast-moving recruiter-held contracts (Bluefin audit; Elements interim finance controller). All still-live morning items carried forward.",
+  "summary": "Afternoon refresh of the 106-role board, browser-verified via Chrome against Seek sorted by listing date; 10 genuinely new roles added since the 08:00 run and all still-live morning items carried forward. Standouts are two strong financial-services risk/compliance seats (ColCap Head of Compliance; AP+ Senior Manager Risk Policy & Strategy) plus two speed-critical recruiter contracts (Bluefin 3-month audit; Elements interim finance controller in NDIS NFP). This run browser-verified Seek across the core risk/finance/governance/audit/CFO/company-secretary queries; recruiter boards, I Work for NSW, LinkedIn/Indeed and the NED services were not re-swept this afternoon, so a manual look at those remains worthwhile.",
   "counts": {
-    "act": 31,
-    "watch": 56,
+    "act": 36,
+    "watch": 61,
     "inform": 9
   },
   "sections": [
     {
       "category": "Board & NED",
       "items": [
+        {
+          "severity": "watch",
+          "headline": "Independent Non-Executive Board Director — Institute of International Studies, Sydney NSW",
+          "summary": "Independent NED appointment advertised on Seek by a Sydney-based international-studies institute; limited public detail on remit, remuneration or committee structure in the teaser.",
+          "so_what": "A board seat fits your NED ambitions, but the organisation and terms are unclear from the listing — worth a watch and a direct enquiry to confirm scope and independence before pursuing.",
+          "tags": [
+            "Board",
+            "Sydney",
+            "Education"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93436011",
+          "published": "2026-07-20",
+          "paywall": false
+        },
         {
           "severity": "watch",
           "headline": "Non-Executive Director — Whiddon, Sydney (aged-care NFP)",
@@ -198,6 +213,21 @@
       "category": "C-Suite & Executive",
       "items": [
         {
+          "severity": "watch",
+          "headline": "Chief Executive Officer — Outer Western Sydney Alliance (via Capstone), Campbelltown Sydney",
+          "summary": "CEO of a seven-council regional alliance (Blue Mountains, Camden, Campbelltown, Hawkesbury, Liverpool, Penrith, Wollondilly), translating the Mayoral Forum's direction into a well-governed operation and leading advocacy to Commonwealth/NSW government on transport, housing, jobs and environment.",
+          "so_what": "One tier above your current level, but the local-government sector and Board/elected-member-facing, governance-heavy nature align well with your council and NED experience. Worth watching and a confidential discussion with the recruiter.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Local Government"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93452629",
+          "published": "2026-07-21",
+          "paywall": false
+        },
+        {
           "severity": "act",
           "headline": "Chief Financial Officer — NSW Department of Customer Service, Sydney/Parramatta (via Derwent Search)",
           "summary": "Permanent Band 2 CFO setting the financial direction for one of the NSW Government's largest and most complex portfolios — Service NSW, digital government, AI/cyber policy and a set of independent agencies — partnering divisional and agency heads on budget discipline and sustainable performance. Managed by Derwent, one of your §1a search firms.",
@@ -337,6 +367,51 @@
     {
       "category": "Risk, Compliance & Assurance",
       "items": [
+        {
+          "severity": "act",
+          "headline": "Senior Auditor / Assistant Audit Manager — 3-month contract, Bluefin Resources, Sydney NSW",
+          "summary": "Immediate-start 3-4 month external-audit contract (possible extension/perm) with a leading accounting & advisory firm, delivering audits for banking, insurance, wealth and superannuation clients and assessing controls and risk frameworks.",
+          "so_what": "Recruiter-held interim/contract from a §1a risk & compliance specialist (Bluefin) with an immediate start — speed matters. Good day-rate audit fit for your finance/assurance background; contact the recruiter today.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93449176",
+          "published": "2026-07-21",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Risk Policy & Strategy — Australian Payments Plus, Sydney NSW",
+          "summary": "Leads development and continuous improvement of AP+'s enterprise risk management strategy, framework, policies, standards and risk-appetite metrics, and drives risk-culture uplift across the payments organisation.",
+          "so_what": "Senior Manager is your core level and this is a squarely on-target enterprise-risk role in financial services/payments. Strong direct match — apply.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93444413",
+          "published": "2026-07-20",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Head of Compliance — ColCap Financial (non-bank lender), Sydney NSW",
+          "summary": "Line 2 compliance leader owning ColCap's compliance framework, operational AML/CTF program, privacy framework and regulatory-change function across its AFSL/ACL obligations; primary interface to ASIC, AUSTRAC and the OAIC, reporting to the Chief Risk & Compliance Officer.",
+          "so_what": "Direct match to your risk/compliance leadership profile in financial services, with Board/regulator visibility. Permanent 'Head of' seat at a $20bn+ lender — worth a fast, tailored application.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93433384",
+          "published": "2026-07-20",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Head of AML/CTF & Responsible Gaming Compliance — West HQ, Rooty Hill (Western Sydney)",
@@ -1019,6 +1094,51 @@
       "items": [
         {
           "severity": "watch",
+          "headline": "Group FP&A Manager — Lawson Elliott Recruitment, Sydney NSW",
+          "summary": "Recruiter-advertised group financial planning & analysis leadership role; limited public detail beyond the listing, listed today on Seek.",
+          "so_what": "FP&A leadership is adjacent to your finance strengths and worth a look, though the brief is thin — check the recruiter for sector and level detail before applying.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93452544",
+          "published": "2026-07-21",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Finance Manager / Financial Controller — interim (NDIS NFP, via Elements Recruitment), Norwest Sydney (hybrid)",
+          "summary": "Immediate-start ~3-month temp assignment (up to $90/hr) leading the finance function of a purpose-driven NDIS not-for-profit through a period of change, covering Board reporting, budgeting/forecasting, funding compliance and process improvement, reporting to the CEO/ELT.",
+          "so_what": "Recruiter-held interim with an immediate start — exactly the fast-moving contract surface to act on. Finance-leadership + governance fit in the NFP/government-funded sector; call the recruiter today.",
+          "tags": [
+            "Interim",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93454621",
+          "published": "2026-07-21",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Head of Finance — global fintech (via The Onset), Sydney NSW (hybrid)",
+          "summary": "Most-senior finance role in a global financial-advice technology business (~$210-220k), owning both financial control/reporting and commercial planning, Board reporting, statutory accounts, multi-jurisdiction compliance (AU/UK/Ireland) and fundraising support, with one direct report.",
+          "so_what": "Strong finance-leadership match with Board exposure and CA/CPA fit in a scaling FS/fintech. Permanent 'Head of' role — apply promptly.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93447473",
+          "published": "2026-07-21",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
           "headline": "Head of FP&A ANZ — Reckitt, Sydney (Hybrid)",
           "summary": "Consumer-health/FMCG multinational seeking a senior finance leader to own ANZ financial planning, forecasting, budgeting and the Integrated Business Planning process, reporting to the ANZ Finance Director and partnering the leadership team on performance and decision support.",
           "so_what": "On-target 'Head of' finance-leadership role in Sydney with executive stakeholder scope; sector (FMCG) is outside your core strengths and it's FP&A-weighted rather than control/governance, so a judgement-call fit — worth a look, not a fast-action.",
@@ -1402,6 +1522,36 @@
     {
       "category": "Technology & Digital",
       "items": [
+        {
+          "severity": "watch",
+          "headline": "Chief Data Officer — Cerebral Palsy Alliance, Allambie Heights Sydney (hybrid)",
+          "summary": "Reporting to the CIO, leads enterprise data strategy, architecture and integration for a disability NFP (~$210-220k), establishing data governance, a central data warehouse and analytics uplift, and managing a team of data/integration specialists.",
+          "so_what": "Executive-level data/technology leadership with a governance core in the NFP/disability sector — adjacent to your IT-leadership strengths. Watch: the role is data-architecture heavy (10+ yrs data platforms).",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93451157",
+          "published": "2026-07-21",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Cyber Security, IT Risk & Governance — I-MED Radiology (via xceltium), Sydney NSW (hybrid)",
+          "summary": "Independent Line 2 leadership role across cyber security, technology risk, governance and organisational resilience for a national medical-imaging network; sets strategy, evolves the ISMS, strengthens third-party assurance and supports AI/data governance, leading a small team (SecOps sits elsewhere).",
+          "so_what": "Strong IT-risk-and-governance/Line-2 fit that leans technical (CISSP/CISM valued) — relevant to your risk and IT-leadership interests. Watch and gauge how closely the cyber-specialist requirements match your background.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Healthcare"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/93450860",
+          "published": "2026-07-21",
+          "paywall": false
+        },
         {
           "severity": "watch",
           "headline": "Head of Technology Delivery – Enterprise — icare, Sydney",
