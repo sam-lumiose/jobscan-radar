@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-07-24",
+      "file": "data/digests/2026-07-24.json",
+      "posture": "113 roles · 36 strong-act · morning refresh (08:00) — SEARCH-ONLY FALLBACK: no Chrome browser connected, so no JS-rendered board could be browser-verified this run. Still-live items carried forward from the prior Chrome-verified set; today's web-search discovery surfaced only leads already present in the digest (e.g. Robert Half Senior Manager Risk & Compliance/Contract Management, still live and re-confirmed via fetch) — no new confirmable deep-linked roles to add. Best actionable role remains the CFO — NSW Dept of Customer Service (Derwent-held, closing soon).",
+      "counts": {
+        "act": 36,
+        "watch": 66,
+        "inform": 11
+      }
+    },
+    {
       "date": "2026-07-23",
       "file": "data/digests/2026-07-23.json",
       "posture": "113 roles · 36 strong-act · morning refresh (08:00) — SEARCH-ONLY FALLBACK: no Chrome browser connected, so no JS-rendered board could be browser-verified this run. Board carried forward from yesterday's Chrome-verified set; web-search discovery surfaced leads (Robert Half 5-mth Governance Manager/Asst Co Sec contract, Bluefin CPS230 Line-1 day-rate contract, Skin & Cancer Foundation Company Secretary) but none could be confirmed as live with a working deep-link, so none were added. Best actionable role remains the CFO — NSW Dept of Customer Service (Derwent-held, closing soon).",
