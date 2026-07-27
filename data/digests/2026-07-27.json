@@ -1,11 +1,11 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T07:47:01+10:00",
-  "posture": "106 roles · 31 strong-act · morning refresh (08:00) — SEARCH-ONLY FALLBACK: no Chrome browser connected, so no JS-rendered board (Seek, LinkedIn, Indeed, I Work for NSW, recruiter Applyflow boards, Board Direction) could be browser-verified this run. Still-live items carried forward from the prior Chrome-verified set; 7 listings past Seek's ~30-day expiry were dropped. Today's web-search discovery re-surfaced known recruiter/board leads (Robert Half, Bluefin, Sharp & Carter, Board Direction, Whiddon NED) but no new deep-linked, confirmable roles to add. Best actionable role remains the CFO — NSW Dept of Customer Service (Derwent-held, closes 9 Aug).",
-  "summary": "Search-only fallback run (Monday morning): no Chrome browser was connected, so no JavaScript-rendered board (Seek, LinkedIn, Indeed, I Work for NSW, the §1a recruiter Applyflow boards, Board Direction) could be browser-verified today. Still-live items were carried forward from the last Chrome-verified set and 7 listings now past Seek's ~30-day run were dropped as expired. Web-search discovery across the §1a risk/finance specialists (Robert Half, Bluefin, Sharp & Carter, Kaizen) and the board/gov/NED sources re-surfaced already-logged leads but nothing new with a working deep-link. A manual look at Seek, the specialist recruiters and Board Direction remains worthwhile — the interim market moves fast, so staying CV-current and registered with Bluefin, Kaizen, Robert Half and Sharp & Carter is the highest-value action. Browser-verified this run: none (search-only).",
+  "generated_at": "2026-07-27T14:05:00+10:00",
+  "posture": "107 roles · 31 strong-act · afternoon refresh (14:00) — SEARCH-ONLY FALLBACK: no Chrome browser connected, so no JS-rendered board (Seek, LinkedIn, Indeed, I Work for NSW, recruiter Applyflow boards, Board Direction) could be browser-verified this run. All still-live morning items carried forward (none past Seek's ~30-day expiry). Today's afternoon web-search discovery re-confirmed known recruiter leads (Robert Half Senior Manager Risk & Compliance/Contract Management, Bluefin day-rate risk, Sharp & Carter finance) and added one new confirmable board role: NED — SBS Board (federal appointment via Omera Partners, closes 6 Aug). Best actionable role remains the CFO — NSW Dept of Customer Service (Derwent-held, closes 9 Aug).",
+  "summary": "107 live roles today across risk/compliance, finance, exec and board — 31 flagged strong-act. Afternoon search-only refresh: the morning's browser-carried set holds, with one new addition — the SBS Board Non-Executive Director federal appointment (governance/cultural fit, closes 6 Aug). Interim/contract action stays concentrated with the risk/finance specialists (Bluefin, Robert Half, Sharp & Carter, Kaizen), so being registered and CV-current with them remains the highest-leverage move. Because no Chrome was connected, treat JS-board coverage as a sample — a manual look at Seek, LinkedIn and I Work for NSW remains worthwhile.",
   "counts": {
     "act": 31,
-    "watch": 64,
+    "watch": 65,
     "inform": 11
   },
   "sections": [
@@ -175,6 +175,21 @@
           "source": "Seek (Gippsland PHN)",
           "url": "https://www.seek.com.au/job/93379820",
           "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Non-Executive Director — SBS Board (Special Broadcasting Service), Sydney/national",
+          "summary": "Part-time federal appointment to Australia's multicultural public broadcaster; up to five-year term. Panel seeks corporate-governance, cultural-industry/policy or industrial-relations expertise, with media/advertising or digital-innovation experience highly valued. Recruitment run by Omera Partners for the Dept of Infrastructure.",
+          "so_what": "Strong governance/FAICD fit for a national public-broadcaster board and a Sydney-based (Artarmon) org. Merit-based nomination-panel process is competitive, so prepare a considered application before the 6 Aug close.",
+          "tags": [
+            "Board",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Dept of Infrastructure — SBS Board appointments",
+          "url": "https://www.infrastructure.gov.au/media-communications/national-broadcasters/board-appointments-abc-and-sbs",
+          "published": "best-known (advertised ~mid-July 2026; closes 6 Aug 2026)",
           "paywall": false
         }
       ]

@@ -8,10 +8,10 @@
     {
       "date": "2026-07-27",
       "file": "data/digests/2026-07-27.json",
-      "posture": "106 roles · 31 strong-act · morning refresh (08:00) — SEARCH-ONLY FALLBACK: no Chrome browser connected, so no JS-rendered board (Seek, LinkedIn, Indeed, I Work for NSW, recruiter Applyflow boards, Board Direction) could be browser-verified this run. Still-live items carried forward from the prior Chrome-verified set; 7 listings past Seek's ~30-day expiry were dropped. Today's web-search discovery re-surfaced known recruiter/board leads (Robert Half, Bluefin, Sharp & Carter, Board Direction, Whiddon NED) but no new deep-linked, confirmable roles to add. Best actionable role remains the CFO — NSW Dept of Customer Service (Derwent-held, closes 9 Aug).",
+      "posture": "107 roles · 31 strong-act · afternoon refresh (14:00) — SEARCH-ONLY FALLBACK: no Chrome browser connected, so no JS-rendered board (Seek, LinkedIn, Indeed, I Work for NSW, recruiter Applyflow boards, Board Direction) could be browser-verified this run. All still-live morning items carried forward (none past Seek's ~30-day expiry). Today's afternoon web-search discovery re-confirmed known recruiter leads (Robert Half Senior Manager Risk & Compliance/Contract Management, Bluefin day-rate risk, Sharp & Carter finance) and added one new confirmable board role: NED — SBS Board (federal appointment via Omera Partners, closes 6 Aug). Best actionable role remains the CFO — NSW Dept of Customer Service (Derwent-held, closes 9 Aug).",
       "counts": {
         "act": 31,
-        "watch": 64,
+        "watch": 65,
         "inform": 11
       }
     },
