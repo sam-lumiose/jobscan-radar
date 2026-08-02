@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-03",
+      "file": "data/digests/2026-08-03.json",
+      "posture": "25 roles · 5 strong-act · 2 interim/contract · afternoon refresh (14:00) — SEARCH-ONLY FALLBACK (no Chrome browser connected). Best actionable role: NED (part-time) — SBS Board, Sydney — statutory board seat closing 6 Aug, direct FAICD governance fit.",
+      "counts": {
+        "act": 5,
+        "watch": 16,
+        "inform": 4
+      }
+    },
+    {
       "date": "2026-07-28",
       "file": "data/digests/2026-07-28.json",
       "posture": "110 roles · 32 strong-act · 13 interim/contract · afternoon refresh (14:00) — SEARCH-ONLY FALLBACK (no Chrome browser connected). Best actionable role: CFO — NSW Dept of Customer Service (Derwent-held, closes 9 Aug).",
