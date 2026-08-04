@@ -1,0 +1,172 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T08:40:00+1000",
+  "posture": "13 roles · 2 strong-act · 0 confirmed public interim (register-and-ready market) · morning run (08:00) — SEARCH-ONLY FALLBACK (no Chrome browser connected). Best actionable role: NED — SBS Board (Sydney) — statutory board seat closing 9am AEST tomorrow, 6 Aug; direct FAICD governance fit.",
+  "summary": "Morning run for 2026-08-05. No Chrome browser was connected, so this is a SEARCH-ONLY FALLBACK: the JavaScript-rendered boards (Seek, LinkedIn, Indeed, I Work for NSW, Board Direction, the recruiter Applyflow boards) could not be browser-verified — treat listings as leads, not confirmed-live roles. The single most time-critical match is the SBS Corporation Board non-executive director seat, which closes at 9am AEST tomorrow (6 August) — a clean FAICD statutory-governance fit worth lodging today. The other standout is SBS's internal Senior Manager - Risk role (enterprise risk framework owner, northern Sydney), a core senior-manager target. Beyond these, the actionable surface is finance leadership held by Robert Half (senior Treasurer ~$195-220k, an FP&A Manager in a Sydney water/utilities business, and a ~$220-240k Finance Business Partnering Manager with energy/infrastructure exposure) and a fresh Sharp & Carter Head of FP&A, plus a Cancer Council NSW CFO and a cluster of NFP treasurer/NED board seats on EthicalJobs. No genuinely-public interim/contract role was confirmed today, so the highest-value interim action remains staying registered and CV-current with the risk/finance specialists (Bluefin, Kaizen, JS Careers, KPP, Robert Half, Sharp & Carter). AICD Directorship Opportunities remains member-gated (teaser only). A manual look at Seek, I Work for NSW, Board Direction and the specialist recruiter boards remains worthwhile given the browser could not verify them this run.",
+  "counts": { "act": 2, "watch": 9, "inform": 2 },
+  "sections": [
+    {
+      "category": "Board & NED",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Non-Executive Director (part-time) — SBS Board / Special Broadcasting Service Corporation (Sydney)",
+          "summary": "Part-time federal statutory board seat on the SBS Corporation board for a term of up to five years, ~$67,500 p.a., with at least six full-day board meetings a year plus optional Audit & Risk / other committee service; managed by Omera Partners with applications closing 9am AEST on 6 August 2026.",
+          "so_what": "A high-calibre statutory directorship squarely in your FAICD governance wheelhouse, with an Audit & Risk committee pathway that suits your risk/finance background; the close is tomorrow morning, so lodge the online application and resume today.",
+          "tags": ["Board", "Sydney", "Governance"],
+          "source": "Australian Government (Dept of Infrastructure) / Omera Partners",
+          "url": "https://www.infrastructure.gov.au/media-communications/national-broadcasters/board-appointments-abc-and-sbs",
+          "published": "2026-07-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Non-Executive Directors / Treasurer — SDECC (Sydney Drug Education & Counselling Centre) (Northern Sydney)",
+          "summary": "Skills-based NFP board recruiting a treasurer with a finance/accounting/business background plus additional non-executive directors; roughly six to seven board meetings a year around Manly/St Leonards.",
+          "so_what": "The treasurer seat is a clean fit for your accounting credential and existing board experience, with a light meeting load close to home — worth a prompt expression of interest.",
+          "tags": ["Board", "Sydney", "NFP"],
+          "source": "EthicalJobs",
+          "url": "https://www.ethicaljobs.com.au/members/SDECC/non-executive-directors-treasurer-voluntary",
+          "published": "2026-08-02",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Board Director / Treasurer — The Loop Australia (Sydney, voluntary)",
+          "summary": "National volunteer-run charity seeking a treasurer to join its non-executive board.",
+          "so_what": "A straightforward way to add a current directorship; the treasurer remit maps directly to your FCPA background, though the org is smaller-scale.",
+          "tags": ["Board", "Sydney", "NFP"],
+          "source": "EthicalJobs",
+          "url": "https://www.ethicaljobs.com.au/members/TheLoopAustralia/board-director-treasurer-voluntary",
+          "published": "2026-07-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Board Members — Non-Executive / Treasurer — Guthrie House (Sydney, voluntary)",
+          "summary": "Women's community-services NFP recruiting a treasurer and/or additional non-executive board members.",
+          "so_what": "Finance-skilled directors are explicitly sought — a credible NFP board seat within reach; register interest if the mission appeals.",
+          "tags": ["Board", "Sydney", "NFP"],
+          "source": "EthicalJobs",
+          "url": "https://www.ethicaljobs.com.au/members/guthriehouse/board-members-non-executive-executive-director-voluntary",
+          "published": "2026-07-29",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Non-Executive Director / Treasurer — ADSSI Limited (Central Coast & Northern Sydney)",
+          "summary": "Community aged and disability care not-for-profit seeking a financially literate director to fill a retiring director/treasurer seat.",
+          "so_what": "Direct match to your FCPA/FAICD profile — an explicit finance/treasurer skills gap on an established NFP board within commuting reach; register interest promptly.",
+          "tags": ["Board", "NSW", "NFP"],
+          "source": "EthicalJobs",
+          "url": "https://www.ethicaljobs.com.au/members/ADSSI/non-executive-director-treasurer-central-coast-voluntary",
+          "published": "2026-08-01",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Non-Executive Director — Integricare (Sydney)",
+          "summary": "Children's and family services NFP inviting applications to join its board as a non-executive director.",
+          "so_what": "A general board seat rather than a stated finance gap; situational awareness — worth a look if the sector interests you, but not an obvious skills-match trigger.",
+          "tags": ["Board", "Sydney", "NFP"],
+          "source": "EthicalJobs",
+          "url": "https://www.ethicaljobs.com.au/boardmember-jobs",
+          "published": "2026-07-31",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "C-Suite & Executive",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Chief Financial Officer — Cancer Council NSW (Sydney)",
+          "summary": "Executive finance lead for one of the state's largest health NFPs, owning financial strategy, reporting and controls across a complex, purpose-led organisation.",
+          "so_what": "A genuine C-suite finance seat in the NFP/health sector that fits your FCPA profile and sector affinities; strong role but a competitive executive search — worth a considered application.",
+          "tags": ["Permanent", "Sydney", "NFP"],
+          "source": "Cancer Council NSW / RevPath",
+          "url": "https://revpath.dealhub.io/jobs/480368864-chief-financial-officer",
+          "published": "2026-07-24",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Risk, Compliance & Assurance",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Senior Manager — Risk — SBS / Special Broadcasting Service (North Shore / Sydney)",
+          "summary": "Owns and continuously improves SBS's enterprise risk management framework, policies and corporate risk register, partnering with leaders across the business to identify, assess and manage strategic and operational risks.",
+          "so_what": "A core senior-manager target on the money for your enterprise-risk and governance strengths, in Sydney; a direct, actionable match — apply promptly and treat it as a lead to verify on SBS Careers.",
+          "tags": ["Permanent", "Sydney", "Media"],
+          "source": "SBS Careers",
+          "url": "https://careers.sbs.com.au/job-details/query/Senior+Manager+-+Risk/in/Sydney/9783876/",
+          "published": "2026-07-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Operational Risk Manager (Line 2) — recruiter-held, markets business (Sydney)",
+          "summary": "Second-line senior operational risk role with a leading markets business unit, ~$180,000-200,000, held by risk-and-compliance specialist Bluefin Resources.",
+          "so_what": "Strong function fit for your risk background and held by a specialist who fills fast; contact Bluefin to confirm it is live and whether it is perm or day-rate, then move quickly.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Bluefin Resources (via Seek)",
+          "url": "https://au.seek.com/Bluefin-Resources-jobs/in-All-Sydney-NSW",
+          "published": "2026-07-28",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Finance & Accounting",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Treasurer — machinery & worktools business, Sydney CBD (Robert Half)",
+          "summary": "Senior corporate-treasury role owning cash-flow management, liquidity planning, banking relationships, debt/funding and financial-risk oversight for an industrial products business; ~$195,000-220,000.",
+          "so_what": "A senior finance seat blending treasury and financial-risk oversight that suits your FCPA background; permanent Sydney CBD, recruiter-held — worth a conversation with Robert Half.",
+          "tags": ["Permanent", "Sydney", "Industrial"],
+          "source": "Robert Half",
+          "url": "https://www.roberthalf.com/au/en/job/sydney-cbd-new-south-wales/treasurer/06800-0013447664-auen",
+          "published": "2026-07-20",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Financial Planning & Analysis Manager — water/utilities business, Sydney CBD (Robert Half)",
+          "summary": "Leads budgeting, forecasting, reporting and long-range planning for a Sydney water utility, partnering with senior leaders on commercial insight; ~$136,000-142,000.",
+          "so_what": "Sector boost — essential-services/utilities aligns with your energy/utilities strength; an FP&A leadership seat, though titled Manager, so a solid rather than top-tier match.",
+          "tags": ["Permanent", "Sydney", "Utilities"],
+          "source": "Robert Half",
+          "url": "https://www.roberthalf.com/au/en/job/sydney-cbd-new-south-wales/financial-planning-analysis-manager/60350-0013452384-auen",
+          "published": "2026-07-13",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Business Partnering Manager — ASX-listed, energy/infrastructure exposure (Sydney, hybrid)",
+          "summary": "Leadership business-partnering role across a large, complex ASX-listed division, owning budgeting/forecasting and leading a team of four; ~$220,000-240,000 + super + bonus, two days in office.",
+          "so_what": "Senior, well-paid and with energy/infrastructure exposure that maps to your sector strengths and people-leadership growth; a strong commercial-finance match worth pursuing via Robert Half.",
+          "tags": ["Permanent", "Sydney", "Energy"],
+          "source": "Robert Half",
+          "url": "https://www.roberthalf.com/au/en/job/sydney-cbd-new-south-wales/finance-business-partner-manager/06800-0013467002-auen",
+          "published": "2026-07-08",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Head of FP&A — high-growth FMCG business (Sydney, Sharp & Carter)",
+          "summary": "Newly surfaced Head of FP&A seat with a fast-growing FMCG business, leading forecasting, reporting and commercial analysis.",
+          "so_what": "A genuine 'Head of' finance role and freshly listed; FMCG sits outside your core sectors, so situational awareness — worth a look if you want to broaden, verify it is live on Sharp & Carter.",
+          "tags": ["Permanent", "Sydney", "FMCG"],
+          "source": "Sharp & Carter",
+          "url": "https://www.sharpandcarter.com.au/job/head-of-fp-and-a-676617",
+          "published": "2026-08-04",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
