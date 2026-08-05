@@ -1,0 +1,216 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T08:20:00+10:00",
+  "posture": "17 roles · 4 strong-act · 1 recruiter-held interim worth fast action · morning run (08:00) — Chrome-verified. Best actionable role: NED — SBS Board (Sydney), part-time statutory seat closing 9am AEST TODAY (6 Aug).",
+  "summary": "Morning run for 2026-08-06, with a Chrome browser connected — Board Direction, a Seek listing page and two recruiter role pages (Sharp & Carter Head of Finance, Robert Half) were browser-checked; the heavier JS boards (Seek battery, LinkedIn, Indeed, I Work for NSW) rendered only thin cards through the reader, so government and general-board listings this run lean on web-search discovery and are leads rather than fully card-verified. The single most time-critical match remains the SBS Corporation Board NED seat, which closes at 9am AEST this morning — lodge today if not already done. The strongest new find is the Australasian Menopause Society board seat: Treasurer AND Chair of the Finance, Audit & Risk Committee, an ideal FCPA/FAICD governance-and-finance match (board, so interstate/national cadence acceptable). On the employment side, SBS's internal Senior Manager - Risk (enterprise risk framework owner, northern Sydney) is still the cleanest core senior-manager target, and Bluefin is holding a day-rate CPS230 Line 1 risk contract (~$800-1000/day, 6 months) — the only genuinely public interim role surfaced, so contact Bluefin fast. Finance leadership is well represented via Robert Half (Treasurer, an FP&A Manager in Sydney water/utilities, and a ~$220-240k Finance Business Partnering Manager with energy/infrastructure exposure) and a browser-verified Sharp & Carter Head of Finance (high-growth tech). Several NFP treasurer/NED seats carry forward from earlier this week and remain live. AICD Directorship Opportunities stays member-gated (teasers only). A manual pass over Seek's board-appointments subclass, I Work for NSW and the specialist recruiter boards remains worthwhile, as the reader could not fully card-verify them this run.",
+  "counts": { "act": 4, "watch": 11, "inform": 2 },
+  "sections": [
+    {
+      "category": "Board & NED",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Non-Executive Director (part-time) — SBS Board / Special Broadcasting Service Corporation (Sydney)",
+          "summary": "Part-time federal statutory board seat on the SBS Corporation board for a term of up to five years (~$67,500 p.a.), with at least six full-day board meetings a year plus optional Audit & Risk or other committee service; managed by Omera Partners.",
+          "so_what": "A high-calibre statutory directorship squarely in your FAICD governance wheelhouse with an Audit & Risk committee pathway; applications close 9am AEST this morning (6 Aug) — lodge the online application and resume immediately if you have not already.",
+          "tags": ["Board", "Sydney", "Governance"],
+          "source": "Australian Government (Dept of Infrastructure) / Omera Partners",
+          "url": "https://www.infrastructure.gov.au/media-communications/national-broadcasters/board-appointments-abc-and-sbs",
+          "published": "2026-07-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Treasurer & Chair, Finance, Audit & Risk Committee (Non-Executive Director) — Australasian Menopause Society (national / interstate)",
+          "summary": "AMS is recruiting an experienced finance and governance professional to join its board as Treasurer and Chair of its Finance, Audit & Risk Committee, overseeing financial stewardship, reporting and risk for the peak health body.",
+          "so_what": "An almost tailor-made match for your FCPA/FAICD profile — the Treasurer plus Chair-of-FARC remit is exactly your finance-and-governance sweet spot; board cadence makes the national/interstate footprint workable, so register your interest promptly.",
+          "tags": ["Board", "Interstate", "Health"],
+          "source": "EthicalJobs / Australasian Menopause Society",
+          "url": "https://www.ethicaljobs.com.au/boardmember-jobs",
+          "published": "2026-08-04",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Non-Executive Director / Treasurer — ADSSI Limited (Central Coast & Northern Sydney)",
+          "summary": "Community aged and disability care not-for-profit seeking a financially literate director to fill a retiring director/treasurer seat.",
+          "so_what": "Direct match to your FCPA/FAICD profile — an explicit finance/treasurer skills gap on an established NFP board within commuting reach; register interest promptly.",
+          "tags": ["Board", "NSW", "NFP"],
+          "source": "EthicalJobs",
+          "url": "https://www.ethicaljobs.com.au/members/ADSSI/non-executive-director-treasurer-central-coast-voluntary",
+          "published": "2026-08-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Board Members — Non-Executive / Treasurer — Guthrie House (Sydney, voluntary)",
+          "summary": "Women's community-services NFP recruiting a treasurer and/or additional non-executive board members.",
+          "so_what": "Finance-skilled directors are explicitly sought — a credible NFP board seat within reach; register interest if the mission appeals.",
+          "tags": ["Board", "Sydney", "NFP"],
+          "source": "EthicalJobs",
+          "url": "https://www.ethicaljobs.com.au/members/guthriehouse/board-members-non-executive-executive-director-voluntary",
+          "published": "2026-07-29",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Non-Executive Directors / Treasurer — SDECC (Sydney Drug Education & Counselling Centre) (Northern Sydney)",
+          "summary": "Skills-based NFP board recruiting a treasurer with a finance/accounting/business background plus additional non-executive directors; roughly six to seven board meetings a year around Manly/St Leonards.",
+          "so_what": "The treasurer seat is a clean fit for your accounting credential and existing board experience, with a light meeting load close to home — worth a prompt expression of interest.",
+          "tags": ["Board", "Sydney", "NFP"],
+          "source": "EthicalJobs",
+          "url": "https://www.ethicaljobs.com.au/members/SDECC/non-executive-directors-treasurer-voluntary",
+          "published": "2026-08-02",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Board Director / Treasurer — The Loop Australia (Sydney, voluntary)",
+          "summary": "National volunteer-run charity seeking a treasurer to join its non-executive board.",
+          "so_what": "A straightforward way to add a current directorship; the treasurer remit maps directly to your FCPA background, though the org is smaller-scale.",
+          "tags": ["Board", "Sydney", "NFP"],
+          "source": "EthicalJobs",
+          "url": "https://www.ethicaljobs.com.au/members/TheLoopAustralia/board-director-treasurer-voluntary",
+          "published": "2026-07-30",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Non-Executive Director — Integricare (Sydney)",
+          "summary": "Children's and family services NFP inviting applications to join its board as a non-executive director.",
+          "so_what": "A general board seat rather than a stated finance gap; situational awareness — worth a look if the sector interests you, but not an obvious skills-match trigger.",
+          "tags": ["Board", "Sydney", "NFP"],
+          "source": "EthicalJobs",
+          "url": "https://www.ethicaljobs.com.au/boardmember-jobs",
+          "published": "2026-07-31",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "C-Suite & Executive",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Chief Financial Officer — Cancer Council NSW (Sydney)",
+          "summary": "Executive finance lead for one of the state's largest health NFPs, owning financial strategy, reporting and controls across a complex, purpose-led organisation.",
+          "so_what": "A genuine C-suite finance seat in the NFP/health sector that fits your FCPA profile and sector affinities; a strong role but a competitive executive search — worth a considered application.",
+          "tags": ["Permanent", "Sydney", "NFP"],
+          "source": "Cancer Council NSW / RevPath",
+          "url": "https://revpath.dealhub.io/jobs/480368864-chief-financial-officer",
+          "published": "2026-07-24",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Risk, Compliance & Assurance",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Senior Manager — Risk — SBS / Special Broadcasting Service (North Shore / Sydney)",
+          "summary": "Owns and continuously improves SBS's enterprise risk management framework, policies and corporate risk register, partnering with leaders across the business to identify, assess and manage strategic and operational risks.",
+          "so_what": "A core senior-manager target on the money for your enterprise-risk and governance strengths, in Sydney; a direct, actionable match — apply promptly and verify the latest status on SBS Careers.",
+          "tags": ["Permanent", "Sydney", "Media"],
+          "source": "SBS Careers",
+          "url": "https://careers.sbs.com.au/job-details/query/Senior+Manager+-+Risk/in/Sydney/9783876/",
+          "published": "2026-07-30",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Risk Contractor — CPS 230 Line 1 Risk (day rate) — banking/financial services (Sydney, hybrid) — Bluefin Resources",
+          "summary": "Day-rate contract (~$800-1000/day, ~6 months) joining a Line 1 operational-resilience team delivering CPS 230 uplift for a bank/financial-services client, held by risk-and-compliance specialist Bluefin Resources.",
+          "so_what": "The one genuinely public interim role surfaced today and a strong fit for your operational-risk background; recruiter-held contracts fill fast, so contact Bluefin now to confirm scope and rate and move quickly.",
+          "tags": ["Contract", "Sydney", "FS"],
+          "source": "Bluefin Resources (via Seek)",
+          "url": "https://www.seek.com.au/Bluefin-Resources-jobs/in-All-Sydney-NSW/contract-temp",
+          "published": "2026-08-04",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Incident and Crisis Management — Superloop (ASX-listed telco) (Sydney)",
+          "summary": "New 'Head of' role owning major-incident and crisis coordination, post-incident review and organisational readiness for an ASX-listed telecommunications provider, acting as the central point during major incidents.",
+          "so_what": "An operational-resilience/crisis leadership seat that draws on your risk and operations strengths and IT/technology exposure; a 'Head of' level role in Sydney — worth pursuing if operational risk/resilience appeals.",
+          "tags": ["Permanent", "Sydney", "Technology"],
+          "source": "Superloop Careers (via Seek)",
+          "url": "https://superloop-1733718881.teamtailor.com/jobs/8170948-head-of-incident-and-crisis-management",
+          "published": "2026-08-05",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Operational Risk Manager (Line 2) — recruiter-held, markets business (Sydney)",
+          "summary": "Second-line senior operational risk role with a leading markets business unit, ~$180,000-200,000, held by risk-and-compliance specialist Bluefin Resources.",
+          "so_what": "Strong function fit for your risk background and held by a specialist who fills fast; contact Bluefin to confirm it is live and whether it is perm or day-rate, then move quickly.",
+          "tags": ["Permanent", "Sydney", "FS"],
+          "source": "Bluefin Resources (via Seek)",
+          "url": "https://au.seek.com/Bluefin-Resources-jobs/in-All-Sydney-NSW",
+          "published": "2026-07-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Risk Analyst (day-rate contract) — financial services (Sydney CBD) — Robert Half",
+          "summary": "Short-term day-rate contract (~$350-420/day, ~8-week initial term) supporting a financial-services risk function in Sydney CBD.",
+          "so_what": "Below your level (analyst) so situational awareness only, but a fast-turnaround contract with a §1a recruiter — worth flagging to Robert Half that your interest sits at senior-manager/contract level rather than this seat.",
+          "tags": ["Contract", "Sydney", "FS"],
+          "source": "Robert Half",
+          "url": "https://www.roberthalf.com/au/en/job/sydney-cbd-new-south-wales/risk-analyst/60350-0013464036-auen",
+          "published": "2026-07-30",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Finance & Accounting",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Head of Finance — high-growth technology business (Sydney) — Sharp & Carter",
+          "summary": "Hands-on Head of Finance for a privately backed, high-growth tech/subscription business in scale-up phase, owning month-end, control, reporting, budgeting, forecasting, cashflow, audit/tax and a small finance team (browser-verified live today).",
+          "so_what": "A genuine 'Head of Finance' leadership seat that fits your FCPA background and appetite for building finance functions; tech/subscription sits outside your core sectors, so a strong but slightly stretch sector fit — reach out to Sharp & Carter.",
+          "tags": ["Permanent", "Sydney", "Technology"],
+          "source": "Sharp & Carter",
+          "url": "https://www.sharpandcarter.com.au/job/head-of-finance-672052",
+          "published": "2026-08-04",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Treasurer — machinery & worktools business, Sydney CBD (Robert Half)",
+          "summary": "Senior corporate-treasury role owning cash-flow management, liquidity planning, banking relationships, debt/funding and financial-risk oversight for an industrial products business; ~$195,000-220,000.",
+          "so_what": "A senior finance seat blending treasury and financial-risk oversight that suits your FCPA background; permanent Sydney CBD, recruiter-held — worth a conversation with Robert Half.",
+          "tags": ["Permanent", "Sydney", "Industrial"],
+          "source": "Robert Half",
+          "url": "https://www.roberthalf.com/au/en/job/sydney-cbd-new-south-wales/treasurer/06800-0013447664-auen",
+          "published": "2026-07-20",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Financial Planning & Analysis Manager — water/utilities business, Sydney CBD (Robert Half)",
+          "summary": "Leads budgeting, forecasting, reporting and long-range planning for a Sydney water utility, partnering with senior leaders on commercial insight; ~$136,000-142,000.",
+          "so_what": "Sector boost — essential-services/utilities aligns with your energy/utilities strength; an FP&A leadership seat, though titled Manager, so a solid rather than top-tier match.",
+          "tags": ["Permanent", "Sydney", "Utilities"],
+          "source": "Robert Half",
+          "url": "https://www.roberthalf.com/au/en/job/sydney-cbd-new-south-wales/financial-planning-analysis-manager/60350-0013452384-auen",
+          "published": "2026-07-13",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Business Partnering Manager — ASX-listed, energy/infrastructure exposure (Sydney, hybrid)",
+          "summary": "Leadership business-partnering role across a large, complex ASX-listed division, owning budgeting/forecasting and leading a team of four; ~$220,000-240,000 + super + bonus, two days in office.",
+          "so_what": "Senior, well-paid and with energy/infrastructure exposure that maps to your sector strengths and people-leadership growth; a strong commercial-finance match worth pursuing via Robert Half.",
+          "tags": ["Permanent", "Sydney", "Energy"],
+          "source": "Robert Half",
+          "url": "https://www.roberthalf.com/au/en/job/sydney-cbd-new-south-wales/finance-business-partner-manager/06800-0013467002-auen",
+          "published": "2026-07-08",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
