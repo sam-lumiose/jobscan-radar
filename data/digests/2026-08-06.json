@@ -1,24 +1,13 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T08:20:00+10:00",
-  "posture": "17 roles · 4 strong-act · 1 recruiter-held interim worth fast action · morning run (08:00) — Chrome-verified. Best actionable role: NED — SBS Board (Sydney), part-time statutory seat closing 9am AEST TODAY (6 Aug).",
-  "summary": "Morning run for 2026-08-06, with a Chrome browser connected — Board Direction, a Seek listing page and two recruiter role pages (Sharp & Carter Head of Finance, Robert Half) were browser-checked; the heavier JS boards (Seek battery, LinkedIn, Indeed, I Work for NSW) rendered only thin cards through the reader, so government and general-board listings this run lean on web-search discovery and are leads rather than fully card-verified. The single most time-critical match remains the SBS Corporation Board NED seat, which closes at 9am AEST this morning — lodge today if not already done. The strongest new find is the Australasian Menopause Society board seat: Treasurer AND Chair of the Finance, Audit & Risk Committee, an ideal FCPA/FAICD governance-and-finance match (board, so interstate/national cadence acceptable). On the employment side, SBS's internal Senior Manager - Risk (enterprise risk framework owner, northern Sydney) is still the cleanest core senior-manager target, and Bluefin is holding a day-rate CPS230 Line 1 risk contract (~$800-1000/day, 6 months) — the only genuinely public interim role surfaced, so contact Bluefin fast. Finance leadership is well represented via Robert Half (Treasurer, an FP&A Manager in Sydney water/utilities, and a ~$220-240k Finance Business Partnering Manager with energy/infrastructure exposure) and a browser-verified Sharp & Carter Head of Finance (high-growth tech). Several NFP treasurer/NED seats carry forward from earlier this week and remain live. AICD Directorship Opportunities stays member-gated (teasers only). A manual pass over Seek's board-appointments subclass, I Work for NSW and the specialist recruiter boards remains worthwhile, as the reader could not fully card-verify them this run.",
-  "counts": { "act": 4, "watch": 11, "inform": 2 },
+  "generated_at": "2026-08-06T16:21:36+10:00",
+  "posture": "18 roles · 4 strong-act · 1 recruiter-held interim worth fast action · afternoon refresh (14:00) — SEARCH-ONLY FALLBACK (no Chrome browser connected). Best actionable role: Senior 3rd Party Risk Manager (Robert Half, Sydney CBD, ~$200-240k, reports to Director of Risk / Board Audit & Risk Committee) — the SBS Board NED seat closed at 9am AEST this morning and has been dropped.",
+  "summary": "Afternoon refresh for 2026-08-06 — no Chrome browser was connected this run (list_connected_browsers empty), so the JS-rendered boards (Seek battery, LinkedIn, Indeed, I Work for NSW, recruiter Applyflow boards, Board Direction) could not be browser-verified; results lean on web-search discovery and server-rendered fetch, so treat unverified listings as leads. All still-live morning items carry forward and were re-confirmed via search (Robert Half's Sydney risk/compliance desk, Bluefin's day-rate CPS230 Line 1 risk contract, and the browser-verified-this-morning Sharp & Carter Head of Finance all remain live). The SBS Corporation Board NED seat closed at 9am AEST today and has been removed as expired. One strong new role was added: a Robert Half 'Senior 3rd Party Risk Manager | AI & Digital Infrastructure' (~$200-240k, Sydney CBD hybrid, listed 30 Jul, reporting to the Director of Risk with Board Audit & Risk Committee exposure and a contract-obligations framework remit) — a direct senior-manager risk/governance match now the cleanest actionable role, so contact Robert Half promptly. A paid NSW Human Services non-executive director seat surfaced via Board Direction (published 2 Aug, closes 14 Aug) and is added as a watch. The Australasian Menopause Society Treasurer / Chair of Finance, Audit & Risk Committee board seat remains an ideal FCPA/FAICD governance-and-finance match. Bluefin's CPS230 Line 1 day-rate contract (~$800-1000/day, 6 months) is still the only genuinely public interim role — contact Bluefin fast. AICD Directorship Opportunities stays member-gated (teasers only). A manual pass over Seek's board-appointments subclass, I Work for NSW and the specialist recruiter boards remains worthwhile, as none could be card-verified this run.",
+  "counts": { "act": 4, "watch": 12, "inform": 2 },
   "sections": [
     {
       "category": "Board & NED",
       "items": [
-        {
-          "severity": "act",
-          "headline": "Non-Executive Director (part-time) — SBS Board / Special Broadcasting Service Corporation (Sydney)",
-          "summary": "Part-time federal statutory board seat on the SBS Corporation board for a term of up to five years (~$67,500 p.a.), with at least six full-day board meetings a year plus optional Audit & Risk or other committee service; managed by Omera Partners.",
-          "so_what": "A high-calibre statutory directorship squarely in your FAICD governance wheelhouse with an Audit & Risk committee pathway; applications close 9am AEST this morning (6 Aug) — lodge the online application and resume immediately if you have not already.",
-          "tags": ["Board", "Sydney", "Governance"],
-          "source": "Australian Government (Dept of Infrastructure) / Omera Partners",
-          "url": "https://www.infrastructure.gov.au/media-communications/national-broadcasters/board-appointments-abc-and-sbs",
-          "published": "2026-07-28",
-          "paywall": false
-        },
         {
           "severity": "act",
           "headline": "Treasurer & Chair, Finance, Audit & Risk Committee (Non-Executive Director) — Australasian Menopause Society (national / interstate)",
@@ -75,6 +64,17 @@
           "paywall": false
         },
         {
+          "severity": "watch",
+          "headline": "Non-Executive Director (paid) — Human Services organisation (NSW) — via Board Direction",
+          "summary": "Paid non-executive director seat with a NSW human-services organisation, advertised through Board Direction's public vacancy list; published 2 Aug and closing 14 Aug (full brief is behind Board Direction's member area).",
+          "so_what": "A paid governance seat in a sector adjacent to your NFP/community-services affinity and within the NSW footprint; worth registering interest before the 14 Aug close, though details are search-surfaced rather than browser-verified this run.",
+          "tags": ["Board", "NSW", "NFP"],
+          "source": "Board Direction",
+          "url": "https://boarddirection.com.au/board-vacancies/",
+          "published": "2026-08-02",
+          "paywall": false
+        },
+        {
           "severity": "inform",
           "headline": "Non-Executive Director — Integricare (Sydney)",
           "summary": "Children's and family services NFP inviting applications to join its board as a non-executive director.",
@@ -106,6 +106,17 @@
     {
       "category": "Risk, Compliance & Assurance",
       "items": [
+        {
+          "severity": "act",
+          "headline": "Senior 3rd Party Risk Manager — AI & Digital Infrastructure business (Sydney CBD, hybrid) — Robert Half",
+          "summary": "Permanent senior risk role (~$200,000-240,000) leading the third-party/vendor risk management program and building a contract-obligations governance framework across a fast-growing global technology and digital-infrastructure business; reports to the Director of Risk and delivers reporting to the Board Audit & Risk Committee.",
+          "so_what": "A direct senior-manager risk and governance match with framework-building, contract-obligations and Board Audit & Risk Committee exposure that maps squarely to your enterprise-risk and governance strengths; recruiter-held and freshly listed, so contact Robert Half promptly.",
+          "tags": ["Permanent", "Sydney", "Technology"],
+          "source": "Robert Half",
+          "url": "https://www.roberthalf.com/au/en/job/sydney-cbd-new-south-wales/senior-3rd-party-risk-manager-ai-digital-infrastructure/06800-0013480018-auen",
+          "published": "2026-07-30",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Senior Manager — Risk — SBS / Special Broadcasting Service (North Shore / Sydney)",
