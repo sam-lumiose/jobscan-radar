@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-12",
+      "file": "data/digests/2026-08-12.json",
+      "posture": "13 roles · 2 strong-act · CHROME-VERIFIED PASS. Best: Senior 3rd Party Risk Manager | AI & Digital Infrastructure (Robert Half, Sydney CBD, ~$200-240k, Group Risk, reports to Director of Risk with Board Audit & Risk Committee exposure). Correction: removed 2 stale Bluefin items (CPS 230 Line 1 contractor; Senior Operational Risk Manager Line 2) — browser check of Bluefin's live Sydney contract board shows neither is currently advertised.",
+      "counts": {
+        "act": 2,
+        "watch": 9,
+        "inform": 2
+      }
+    },
+    {
       "date": "2026-08-10",
       "file": "data/digests/2026-08-10.json",
       "posture": "32 roles · 6 strong-act · 3 recruiter-held contract/interim worth fast action · SEARCH-ONLY FALLBACK (no Chrome browser connected). Best actionable role: Senior 3rd Party Risk Manager (Robert Half, Sydney CBD, ~$200-240k, Group Risk, reports to Director of Risk with Board Audit & Risk Committee exposure) — confirmed live today. New: Robert Half Senior Manager Risk & Compliance | Digital Infrastructure (~$190-220k) and a TfNSW enterprise-compliance day-rate contract lead.",

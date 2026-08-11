@@ -107,8 +107,12 @@ strong · any LinkedIn/recruiter listing that is login-gated — public teaser o
 Most boards below are **JavaScript-rendered**: a plain web fetch or web search sees almost
 none of the live listings, so they MUST be read in **Chrome** (the rendered job cards), not
 via search alone. Use search only for *discovery* of URLs; do verification and capture in the
-browser. Confirm a browser is connected (`list_connected_browsers`); if none, note the
-search-only fallback in the digest `summary` and treat results as leads, not verified roles.
+browser. **Chrome is required for a run.** Confirm a browser is connected
+(`list_connected_browsers`) at the very start; if none is connected, ABORT the run — do not
+web-search, fetch, or write/overwrite any digest or manifest file, and reply that the run was
+skipped because Chrome was not connected. There is **no search-only fallback**: every item
+logged must be opened and verified live in Chrome with a working deep-link URL (never a
+search- or listing-page URL); if a role cannot be Chrome-verified, do not log it.
 
 **For every source: render the listing page, scrape the job cards, dedupe by job ID (or
 org + title + location).** Do not stop at the top few results.
