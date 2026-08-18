@@ -1,12 +1,12 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T08:35:00+10:00",
-  "posture": "93 roles · 20 strong-act · 1 day-rate interim worth moving on today — full Chrome-verified sweep; all 69 items carried from 17 Aug re-confirmed live, none dropped",
-  "summary": "Every role below was opened and confirmed live in Chrome this run, and all 69 items carried forward from 17 August still resolve to live postings — nothing was dropped today. Twenty-four new roles came through in the last 24 hours, led by an Executive Manager, Technology Risk brief with a financial services group via Ethos BeathChapman at roughly $255k plus bonus; the other two strong matches are a Senior Finance Manager role exclusive to Perigon Group at $180k–$200k and TAFE NSW's Director Business Enablement at $229,693. Interim supply stayed thin: only one genuine day-rate assignment appeared (a six-to-eight week finance and corporate services cover with Beaumont People), which is the usual sign that the specialist risk and finance desks — Bluefin, Kaizen, JS Careers, KPP, Robert Half, Sharp & Carter — are filling short-term work off their own registered lists, so keeping a current CV with them matters more than watching the boards. Two deadlines are immediate: Service NSW's Manager, Data & AI Governance closes 19 August at 10am and the TfNSW Manager Procurement Assurance & Compliance role carried from yesterday closes today. Browser-verified this run: Seek (full query battery plus Board Appointments and Non-Executive Director subclassifications), I Work for NSW (risk, audit, governance, compliance, finance, director and head-of searches), EthicalJobs, Board Direction, Robert Half, Michael Page, Bluefin Resources, Kaizen Recruitment and Hudson. AICD Directorship Opportunities remains fully login-walled with no public teasers, so nothing was logged from it and no gate was bypassed. Michael Page's AI Governance Manager role and Bluefin's Head of Risk Analytics were verified live but are Melbourne-based and non-board, so they fall outside the location rule. Coverage is still a sample — a manual look across Seek and the recruiter desks remains worthwhile.",
+  "generated_at": "2026-08-18T13:45:00+10:00",
+  "posture": "110 roles · 23 strong-act · 1 day-rate interim worth moving on today — afternoon refresh, every item re-opened in Chrome; 91 of the 93 morning items re-confirmed live, 2 dropped, 19 new roles added",
+  "summary": "Afternoon refresh of today's file. Every one of the 93 items carried from this morning was re-opened in Chrome: 91 still resolve to live postings and two were dropped — the PetSure PetSafetyNet board advertisement expired (it has since been re-listed, so the new posting replaces it), and the Board Direction non-executive director listing now redirects to a members-only page with no public teaser left to quote. Nineteen new roles came through since 08:35, led by three strong matches: a General Manager, Finance for Australia and New Zealand with Lush at $190k-$220k, a Senior Group Financial Reporting Manager building an APAC group reporting function for a global pharmaceutical business through Sharp & Carter at circa $200k-$220k, and a day-rate Senior Regulatory Compliance Manager contract supporting a compliance uplift at Bendigo Bank through Peoplebank. Interim supply stayed thin again — beyond the Bendigo contract the only genuine day-rate find was a $1,000-a-day finance applications manager brief through Talenza — which is the familiar sign that the specialist risk and finance desks (Bluefin, Kaizen, JS Careers, KPP, Robert Half, Sharp & Carter) are filling interim work off their own registers, so being registered and CV-current with them is worth more than watching the boards. Two NSW Government roles close within 24 hours: Manager, Data & AI Governance at Service NSW (19 Aug, 10:00am) and Senior Manager, Commercial (REZ) at Transport for NSW (19 Aug). Browser-verified this run: Seek, I Work for NSW, EthicalJobs, Robert Half, Michael Page, Bluefin Resources, Kaizen Recruitment and Board Direction. AICD Directorship Opportunities and Board Direction both remain fully login-walled with no public teasers, so nothing was logged from either. Coverage is still a sample rather than the whole market — a manual look at the boards and a direct call to the interim desks remains worthwhile.",
   "counts": {
-    "act": 20,
-    "watch": 63,
-    "inform": 10
+    "act": 23,
+    "watch": 74,
+    "inform": 13
   },
   "sections": [
     {
@@ -85,21 +85,6 @@
           "source": "Seek / Freshcare Ltd",
           "url": "https://www.seek.com.au/job/93835526",
           "published": "2026-08-08",
-          "paywall": false
-        },
-        {
-          "severity": "watch",
-          "headline": "Board Director — PetSafetyNet (PetSure Australia), Chatswood, Sydney (hybrid)",
-          "summary": "Director appointment to the board of a veterinary-access initiative established by an insurer and veterinary partners.",
-          "so_what": "Insurance-adjacent governance in a Sydney NFP structure — a good sector match and an easy commute. Worth an EOI.",
-          "tags": [
-            "Board",
-            "Sydney",
-            "Insurance"
-          ],
-          "source": "Seek / PetSure (Australia)",
-          "url": "https://www.seek.com.au/job/93957237",
-          "published": "2026-08-13",
           "paywall": false
         },
         {
@@ -238,6 +223,21 @@
           "paywall": false
         },
         {
+          "severity": "watch",
+          "headline": "Board Director — PetSafetyNet (PetSure Australia), Chatswood, Sydney (hybrid)",
+          "summary": "PetSure, VetPartners and VetChat's joint venture PetSafetyNet is recruiting a director to its board; the venture combines veterinary telehealth with subsidised in-clinic care for people who struggle to afford treatment for their pets.",
+          "so_what": "Insurance/mutual-adjacent board seat in your home market and a re-listing of a role that lapsed this morning — the earlier advertisement expired, so treat this fresh posting as the live one and move on it.",
+          "tags": [
+            "Board",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Seek / PetSure (Australia)",
+          "url": "https://www.seek.com.au/job/94032599",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
           "severity": "inform",
           "headline": "Board Director (up to two positions, voluntary) — Accela Research, Melbourne (interstate, hybrid)",
           "summary": "Expressions of interest for director appointments at a not-for-profit climate transition research house serving institutional investors.",
@@ -299,21 +299,6 @@
         },
         {
           "severity": "inform",
-          "headline": "Non-Executive Director (remunerated, not-for-profit) — undisclosed organisation, Queensland (interstate)",
-          "summary": "Paid non-executive director vacancy listed today on Board Direction; the organisation and role detail sit behind member login, with only the card-level teaser public.",
-          "so_what": "Paid NFP directorships are worth tracking, but the detail needs a Board Direction membership to see. Worth a manual look if you subscribe; applications close 18 September.",
-          "tags": [
-            "Board",
-            "Interstate",
-            "NFP"
-          ],
-          "source": "Board Direction",
-          "url": "https://boarddirection.com.au/job_listing/non-executive-director-62635-62645/",
-          "published": "2026-08-17",
-          "paywall": true
-        },
-        {
-          "severity": "inform",
           "headline": "Non-Executive Directors x2 (remunerated) — Cire Services via Searchlight Group, Melbourne outer east (interstate)",
           "summary": "A fifty-year-old community education and services organisation in Melbourne's outer east is appointing two remunerated non-executive directors to a skills-based board during a period of campus expansion.",
           "so_what": "Remunerated NED seats are worth noting even interstate, and the education/community-services growth story suits governance and finance oversight. Monthly travel to Melbourne would be the cost of entry.",
@@ -341,6 +326,21 @@
           "url": "https://www.ethicaljobs.com.au/members/rnlc_au/treasurer-voluntary-board-of-directors",
           "published": "2026-08",
           "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Non-Executive Director x2 (expressions of interest, terms commencing 2027) — Salesian College Sunbury, Melbourne (interstate)",
+          "summary": "An independent school company is calling for expressions of interest from experienced people to join its board as non-executive directors from 2027.",
+          "so_what": "Board seats are in scope interstate on a monthly-travel basis, but this is an unpaid school board a long way from your sector strengths — awareness only unless you want education-sector governance exposure.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "NFP"
+          ],
+          "source": "Seek / Salesian College Sunbury",
+          "url": "https://www.seek.com.au/job/94035824",
+          "published": "2026-08-18",
+          "paywall": false
         }
       ]
     },
@@ -360,6 +360,21 @@
           "source": "Seek / Wexford Hayes",
           "url": "https://www.seek.com.au/job/94014045",
           "published": "2026-08-17",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "General Manager, Finance — Australia & Aotearoa (NZ), Lush Cosmetics, Villawood, Sydney ($190k–$220k)",
+          "summary": "A partly employee-owned cosmetics manufacturer and retailer wants a general manager to run the finance function across its Australian and New Zealand operations.",
+          "so_what": "GM-level ownership of a two-country finance function at the top of your target band, in Sydney, with a values-driven employer — a direct step-up match worth applying for today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Consumer"
+          ],
+          "source": "Seek / Lush Cosmetics",
+          "url": "https://www.seek.com.au/job/94032874",
+          "published": "2026-08-18",
           "paywall": false
         },
         {
@@ -450,6 +465,21 @@
           "source": "Seek / Private Advertiser",
           "url": "https://www.seek.com.au/job/94010611",
           "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Chief Executive Officer — Rainbow Giving Australia (remote / work from home) via SHE HR Consulting",
+          "summary": "A national community foundation supporting the LGBTQIA+ sector is recruiting a chief executive to lead its next phase of growth, working with the board to broaden funding and strengthen impact.",
+          "so_what": "Fully remote CEO role reporting to a board, so your FAICD and NED background is directly relevant; the sector is outside your core strengths, so weigh the fit before committing.",
+          "tags": [
+            "Permanent",
+            "Remote-AU",
+            "NFP"
+          ],
+          "source": "EthicalJobs / SHE HR Consulting",
+          "url": "https://www.ethicaljobs.com.au/members/shehrconsulting/chief-executive-officer-rainbow-giving-australia-remote-work-from-home",
+          "published": "2026-08",
           "paywall": false
         }
       ]
@@ -649,6 +679,21 @@
           ],
           "source": "Seek / Ethos BeathChapman",
           "url": "https://www.seek.com.au/job/94009960",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Regulatory Compliance Manager (contract) — Bendigo Bank via Peoplebank, Sydney",
+          "summary": "A contract role supporting a bank-wide compliance uplift: interpreting regulatory obligations, advising business stakeholders and helping strengthen the compliance framework.",
+          "so_what": "Senior-manager-level regulatory compliance on a day-rate contract with a recruiter-held brief — squarely your function and the kind of assignment that fills fast, so contact the consultant today.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Peoplebank",
+          "url": "https://www.seek.com.au/job/94013618",
           "published": "2026-08-18",
           "paywall": false
         },
@@ -1028,6 +1073,21 @@
           "paywall": false
         },
         {
+          "severity": "watch",
+          "headline": "Manager, Financial Services Regulatory Risk — Deloitte, Sydney",
+          "summary": "Deloitte's financial services regulatory risk practice is hiring a manager to advise banks and insurers navigating regulatory change and protecting customer and shareholder trust.",
+          "so_what": "Strong function and sector fit, but a plain consulting Manager title sits below your level and caps this at a watch — worth a look if you want a Big Four platform.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Deloitte",
+          "url": "https://www.seek.com.au/job/94033662",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
           "severity": "inform",
           "headline": "Risk & Compliance Manager (permanent, fully office-based) — financial services via Robert Half, Sydney CBD",
           "summary": "Permanent risk and compliance manager role at a financial services business, requiring five days a week in the Sydney CBD office.",
@@ -1040,6 +1100,21 @@
           "source": "Robert Half",
           "url": "https://www.roberthalf.com/au/en/job/sydney-cbd-new-south-wales/risk-and-compliance-manager/60350-0013482343-auen",
           "published": "2026-08-04",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Assistant Manager, Risk Advisory Services (Work Health & Safety) — BDO, Sydney",
+          "summary": "BDO is adding an assistant manager to its risk advisory team, focused on work health and safety risk engagements.",
+          "so_what": "Below your level and narrowed to WHS rather than enterprise risk — situational awareness only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional services"
+          ],
+          "source": "Seek / BDO Australia",
+          "url": "https://www.seek.com.au/job/94036864",
+          "published": "2026-08-18",
           "paywall": false
         }
       ]
@@ -1074,6 +1149,21 @@
           ],
           "source": "Seek / Perigon Group",
           "url": "https://www.seek.com.au/job/94003727",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Group Financial Reporting Manager — global pharmaceutical group via Sharp & Carter, Sydney North Shore (circa $200k–$220k + super)",
+          "summary": "A newly created senior finance leadership role reporting to the CFO, standing up and running APAC group financial reporting — consolidated group and board reporting, statutory accounts and audit deliverables.",
+          "so_what": "Senior-manager-and-above, CFO-facing, and heavy on board reporting and statutory governance, which plays straight to your FCPA and audit-committee experience; Sharp & Carter is a fast-moving finance desk, so apply today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Pharma"
+          ],
+          "source": "Seek / Sharp & Carter",
+          "url": "https://www.seek.com.au/job/94037612",
           "published": "2026-08-18",
           "paywall": false
         },
@@ -1228,6 +1318,66 @@
           "paywall": false
         },
         {
+          "severity": "watch",
+          "headline": "Manager, Financial Accounting — Western Sydney Local Health District, Sydney Greater West ($180,279–$201,662, closes 30 Aug)",
+          "summary": "A NSW Health district is recruiting a manager to lead financial accounting and revenue, with an explicit brief around financial governance, compliance and continuous improvement.",
+          "so_what": "Public-sector finance leadership with a governance and compliance emphasis at a strong salary; the plain Manager title caps it at watch, but the scope is broader than the title suggests.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW",
+          "url": "https://iworkfor.nsw.gov.au/job/manager-financial-accounting-594768",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "FP&A Manager — gaming and digital entertainment business via ThompsonCook, Sydney ($180k–$220k)",
+          "summary": "A gaming and digital entertainment group is hiring an FP&A manager through a specialist finance recruiter, at a salary well above the usual band for the title.",
+          "so_what": "Well-paid commercial finance role but a plain Manager title, so it stays a watch; the pay band suggests the scope is closer to a senior finance manager brief.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Entertainment"
+          ],
+          "source": "Seek / ThompsonCook",
+          "url": "https://www.seek.com.au/job/94031973",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager — Action on Poverty, Sydney (hybrid, 2 days in office)",
+          "summary": "An international development NFP wants a finance manager to lead its finance function and partner with the COO on financial strategy.",
+          "so_what": "Whole-of-function ownership in a small NFP with direct COO exposure; plain Manager title caps it at watch, but it suits if you want purpose-driven work with board proximity.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / Action on Poverty",
+          "url": "https://www.seek.com.au/job/94024578",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager — St Francis Social Services, Paddington, Sydney",
+          "summary": "A Sydney social-services organisation running youth, family and refugee support programs is recruiting a finance manager for a pivotal role in the organisation.",
+          "so_what": "Sector is outside your core strengths and the title is plain Manager, so it is a watch — but NFP finance leadership often comes with board and audit-committee reporting.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "EthicalJobs / St Francis Social Services",
+          "url": "https://www.ethicaljobs.com.au/members/stfrancis/finance-manager",
+          "published": "2026-08",
+          "paywall": false
+        },
+        {
           "severity": "inform",
           "headline": "Manager / Senior Manager, Business Services — Grant Thornton Australia, Sydney (hybrid)",
           "summary": "Grant Thornton is hiring at manager to senior manager level into its business services practice, with a stated pathway toward partnership and hybrid working.",
@@ -1239,6 +1389,21 @@
           ],
           "source": "Seek / Grant Thornton Australia",
           "url": "https://www.seek.com.au/job/94020044",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Finance Business Partner Lead (temporary to December 2026) — South Eastern Sydney Local Health District, Sydney East ($137,525–$156,231, closes 30 Aug)",
+          "summary": "A fixed-term health-district role partnering with services on budgets, forecasting and financial analysis at Health Manager Level 3.",
+          "so_what": "Below your level and salary band — logged for awareness of NSW Health finance activity rather than as a target.",
+          "tags": [
+            "Fixed-term",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW",
+          "url": "https://iworkfor.nsw.gov.au/job/finance-business-partner-lead-595230",
           "published": "2026-08-18",
           "paywall": false
         }
@@ -1368,6 +1533,36 @@
           "paywall": false
         },
         {
+          "severity": "watch",
+          "headline": "Senior Manager, Centre of Excellence Digital — TAFE NSW, location negotiable across NSW incl. Sydney ($203,592)",
+          "summary": "TAFE NSW is building a digital centre of excellence and needs a senior manager to lead it, with the role able to be based almost anywhere in the state including Sydney.",
+          "so_what": "Senior Manager is core-target for you and the salary is strong; the digital-capability framing is education-flavoured rather than core risk or finance, which is what holds it at watch.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW",
+          "url": "https://iworkfor.nsw.gov.au/job/senior-manager-centre-of-excellence-digital-595127",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Director, Portfolio Delivery and Governance — Australian Renewable Energy Agency via Xceltium, Sydney",
+          "summary": "ARENA is standing up a new digital, data and technology operating model and wants a director to own portfolio delivery and the governance wrapped around it.",
+          "so_what": "Director-level governance over an investment portfolio in the renewables sector — a good match for your energy/utilities background and your governance work; confirm the base-location arrangements with the recruiter.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Energy"
+          ],
+          "source": "Seek / Xceltium",
+          "url": "https://www.seek.com.au/job/94028660",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
           "severity": "inform",
           "headline": "Corporate Services Manager — LUNA Services, Sydney",
           "summary": "Corporate services role working directly with the managing director on the financial, staffing, compliance and systems administration of the business, supporting site-based teams.",
@@ -1380,6 +1575,56 @@
           "source": "Seek / LUNA Services",
           "url": "https://www.seek.com.au/job/94020826",
           "published": "2026-08-17",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Technology & Digital",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Director, Security and Service Operations — Australian Renewable Energy Agency via Xceltium, Sydney",
+          "summary": "The second of ARENA's new technology leadership roles, covering security and service operations as the agency shifts technology from a maintenance function to a growth enabler.",
+          "so_what": "Technology leadership with a security and operational-resilience core in the renewables sector; your software engineering degree plus risk background is an unusual and useful combination here.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Energy"
+          ],
+          "source": "Seek / Xceltium",
+          "url": "https://www.seek.com.au/job/94028630",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Manager, Data & Analytics — financial services business via TOM, Sydney (hybrid, $170k–$185k + super + bonus)",
+          "summary": "A leading financial services business is hiring a senior manager to lead an established analytics team producing management information and analytical insight for the business.",
+          "so_what": "Senior Manager is core-target and TOM is one of the audit/risk/finance desks on your register; the data and analytics slant is a stretch from core risk, so weigh how you would pitch the fit.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / TOM Recruitment",
+          "url": "https://www.seek.com.au/job/94036202",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Data Quality and Digitisation Manager — Northern Sydney Local Health District, Royal North Shore Hospital ($118,821–$140,201, closes 31 Aug)",
+          "summary": "A health-information services role leading data quality and health-records digitisation at Royal North Shore Hospital.",
+          "so_what": "Below your level and narrowly records-focused — noted for completeness of the data-governance picture in NSW Health only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW",
+          "url": "https://iworkfor.nsw.gov.au/job/data-quality-and-digitisation-manager-595271",
+          "published": "2026-08-18",
           "paywall": false
         }
       ]
@@ -1429,6 +1674,21 @@
           ],
           "source": "Seek / Beaumont People",
           "url": "https://www.seek.com.au/job/94011743",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Manager, Applications Services — Finance (day rate $1,000 + super, contract to 18 December 2026) — via Talenza, Macquarie Park, Sydney (3 days on site)",
+          "summary": "A day-rate contract leading the support, operation and continuous improvement of a portfolio of finance applications through to December 2026.",
+          "so_what": "Genuine day-rate work in the finance-systems space with an immediate start and a defined end date; the plain Manager title caps it at watch, but at $1,000 a day it is worth a call to the consultant.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Technology"
+          ],
+          "source": "Seek / Talenza",
+          "url": "https://www.seek.com.au/job/94035157",
           "published": "2026-08-18",
           "paywall": false
         }
