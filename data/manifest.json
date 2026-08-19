@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-20",
+      "file": "data/digests/2026-08-20.json",
+      "posture": "149 roles · 40 strong-act · 3 day-rate/interim briefs worth moving on today — morning run, every item re-opened or re-queried live in Chrome; 96 of the 97 prior items re-confirmed live, 2 dropped, 53 new roles added",
+      "counts": {
+        "act": 40,
+        "watch": 91,
+        "inform": 18
+      }
+    },
+    {
       "date": "2026-08-19",
       "file": "data/digests/2026-08-19.json",
       "posture": "98 roles · 26 strong-act · 2 day-rate/interim briefs worth moving on today — afternoon refresh, every item re-opened in Chrome; 88 of 89 morning items re-confirmed live, 1 dropped, 10 new roles added",
