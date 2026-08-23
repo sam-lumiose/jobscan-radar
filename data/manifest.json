@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-23",
+      "file": "data/digests/2026-08-23.json",
+      "posture": "200 roles · 45 strong-act · 0 new interim listings — Sunday run. All 186 carried-forward roles were re-opened and re-confirmed live in Chrome (181 held, 5 dropped as expired); 19 new roles added. Best new find: Director Financial Operations at Fire and Rescue NSW.",
+      "counts": {
+        "act": 45,
+        "watch": 123,
+        "inform": 32
+      }
+    },
+    {
       "date": "2026-08-21",
       "file": "data/digests/2026-08-21.json",
       "posture": "186 roles · 45 strong-act · morning run — every carried-forward item re-opened and re-confirmed live in Chrome this run (162 of 164 held, 2 dropped as expired), 24 new roles added. Best new find: Group Head of Financial Reporting at Lendlease (listed hours ago).",
