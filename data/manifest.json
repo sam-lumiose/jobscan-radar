@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-25",
+      "file": "data/digests/2026-08-25.json",
+      "posture": "251 roles · 64 strong-act · 1 new interim listing — Tuesday morning run. Every one of the 218 carried-forward roles was re-opened and re-confirmed live in Chrome this run (214 held, 4 dropped as expired); 37 new roles added. Best new find: Head of Company Secretariat, ASX Group.",
+      "counts": {
+        "act": 64,
+        "watch": 148,
+        "inform": 39
+      }
+    },
+    {
       "date": "2026-08-24",
       "file": "data/digests/2026-08-24.json",
       "posture": "218 roles · 51 strong-act · 1 new interim/contract listing — Monday afternoon refresh. Every carried-forward role was re-checked in Chrome this run (5 dropped as expired); 10 new roles added. Best find: Chief Governance and Risk Officer at the Commonwealth DPP.",
