@@ -1,17 +1,47 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-28T12:26:01+10:00",
-  "posture": "304 roles - 73 strong-act - 19 interim/contract leads. Friday midday run: every one of the 272 carried-forward roles was re-checked in Chrome (30 dropped as expired), and 62 new Chrome-verified roles were added. Best new find: Senior Manager/Manager Financial Crime Investigations (crypto), a 12-month $700-1,000/day contract via Bluefin Resources.",
-  "summary": "Today's scan added 62 newly verified roles on top of 242 carried-forward listings that were re-confirmed live in Chrome this run; 30 prior listings had expired and were dropped. The standouts are the Bluefin financial-crime investigations contract at $700-1,000 a day, a $1,000+/day NSW government finance transformation contract through Randstad, and three permanent senior matches: Director Enterprise Strategy, Risk and Governance at DCJ, Head of FP&A for an ASX100 business via Lawson Elliott, and Head of CTP Care Claims at icare. The board picture is thinner in Sydney than interstate this week - the ANROWS independent director seat is the pick locally, with Victorian and South Australian NED and chair vacancies worth considering on the monthly-travel assumption. Browser-verified this run: Seek (full query battery plus Board Appointments), I Work for NSW, Board Direction, EthicalJobs, Kaizen Recruitment, Bluefin Resources, Sharp & Carter and Robert Half. AICD Directorship Opportunities was opened but its listings are now entirely behind the member login with no public teasers, so nothing was logged from it - worth a manual look if you hold a subscription. Coverage remains a sample rather than the whole market, so a manual sweep of the specialist recruiters is still worthwhile; several of them (Bluefin, Kaizen, JS Careers, KPP, Robert Half, Sharp & Carter) fill interim work off their own registers before advertising, so keeping your CV current with them matters more than any single listing here.",
+  "generated_at": "2026-08-28T14:05:00+10:00",
+  "posture": "314 roles - 75 strong-act - 19 interim/contract leads. Friday afternoon refresh: all 304 roles carried forward from the midday run were re-opened and re-confirmed live in Chrome (none had expired), and 10 new Chrome-verified roles were added. Best new find: Independent Member, Audit & Risk Committee at Victoria University - a remunerated committee seat that lands directly on your FCPA and audit-and-risk background.",
+  "summary": "Every one of the 304 roles carried forward from this morning was re-opened in Chrome and confirmed still live, so nothing was dropped this run. Ten genuinely new roles surfaced since midday: the standout is an external independent seat on Victoria University's Audit and Risk Committee, which asks for exactly the accounting and audit depth you have, and interstate is acceptable for committee work. On the employment side, Optus is hiring an Associate Director for Settlements and Reconciliation Governance in Sydney - finance and governance in one role at director level, and the strongest permanent match of the afternoon. No new interim or day-rate roles appeared publicly this afternoon, which is the usual pattern: the specialists (Bluefin, Kaizen, JS Careers, KPP, Robert Half, Sharp & Carter) fill those from their own networks, so staying registered and CV-current with them matters more than watching their job boards. Browser-verified this run: Seek (full query battery plus every logged job page), I Work for NSW, EthicalJobs, Board Direction, Robert Half, Sharp & Carter, Kaizen, Bluefin, Hudson and Morgan McKinley. Two caveats worth knowing: Board Direction's individual vacancy links now redirect to a membership wall, so those seven items are confirmed live from its public vacancies listing only and remain flagged as gated; and I Work for NSW's keyword search would not accept a programmatic query this run, so its 24 roles were re-verified but no fresh NSW-government keyword sweep was completed this afternoon. Coverage is still a sample - a manual look remains worthwhile.",
   "counts": {
-    "act": 73,
-    "watch": 170,
-    "inform": 61
+    "act": 75,
+    "watch": 175,
+    "inform": 64
   },
   "sections": [
     {
       "category": "Board & NED",
       "items": [
+        {
+          "severity": "watch",
+          "headline": "Independent Member, Disability Governance Committee — Victoria University, Footscray VIC",
+          "summary": "A second external independent seat at the same university, this one advising on disability strategy, accessibility and oversight of the Disability Support Fund.",
+          "so_what": "Governance-committee experience at a large public institution is portfolio-relevant, but the subject-matter focus sits outside your core — worth a look mainly if you want a second VU seat alongside the audit and risk one.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "Education"
+          ],
+          "source": "Seek / Victoria University",
+          "url": "https://www.seek.com.au/job/94225910",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Independent Member, Audit & Risk Committee — Victoria University, Melbourne",
+          "summary": "The university is recruiting an external independent member for its Audit and Risk Committee, wanting someone who can bring accounting and audit depth to its risk management, compliance and financial oversight.",
+          "so_what": "This is the cleanest use of your FCPA plus existing audit-and-risk committee experience, and interstate is fine for a committee that meets a handful of times a year — put your name forward now.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "Education"
+          ],
+          "source": "Seek / Victoria University",
+          "url": "https://www.seek.com.au/job/94225903",
+          "published": "2026-08-27",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Director — Finance & Investment (board opportunity), healthcare group, Melbourne",
@@ -933,6 +963,21 @@
       "category": "C-Suite & Executive",
       "items": [
         {
+          "severity": "inform",
+          "headline": "VP or Director, Infrastructure M&A Advisory — global investment bank, Sydney",
+          "summary": "A global investment bank is appointing a vice president or director into its infrastructure advisory team, covering transactions across the sector.",
+          "so_what": "Director-level and Sydney-based, but deal execution is a different discipline from your governance and risk track — situational awareness of where senior finance hiring is happening.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/94242841",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
           "severity": "act",
           "headline": "Chief Financial Officer — national healthcare services group via Wexford Hayes, Sydney",
           "summary": "Retained search for the CFO of a large, geographically dispersed Australian healthcare business, reporting to the CEO as part of the executive leadership team with financial and commercial leadership scope.",
@@ -1342,6 +1387,66 @@
     {
       "category": "Risk, Compliance & Assurance",
       "items": [
+        {
+          "severity": "inform",
+          "headline": "Governance & Compliance Specialist — Homebush, Sydney",
+          "summary": "A specialist role strengthening program governance, performance assurance and compliance across a delivery portfolio.",
+          "so_what": "Right function and right city, but specialist level is well below where you sit — useful only as a read on what governance work is being funded locally.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Infrastructure"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/94257053",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Privacy Manager — global insurer, Sydney (via Bluefin Resources)",
+          "summary": "A global insurance and financial services group is recruiting a privacy manager to run its privacy framework and policies, advise the business, handle privacy risk assessments and incidents, and partner with legal, risk, compliance and technology. Advertised at roughly $130,000–$140,000.",
+          "so_what": "Insurance is one of your strongest sectors and Bluefin is a risk-and-compliance specialist worth being current with — the Manager title caps it below your level, so treat it as a recruiter relationship play as much as an application.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Bluefin Resources",
+          "url": "https://www.bluefinresources.com.au/jobview/privacy-manager/e23b5c30-8aea-41f0-9243-3a3c643c98e6/",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Manager — franchise network, Sydney",
+          "summary": "A national franchise group wants a compliance manager to cover compliance, governance and business-improvement work, with flexibility built into the role.",
+          "so_what": "Function fits and the breadth is appealing, but it is Manager-level in a sector outside your core — keep it as a fallback rather than a first move.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Franchise"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/94261761",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Manager, Risk Management (Line 2 Compliance) — KPMG, Sydney",
+          "summary": "KPMG is adding a second-line compliance manager to its internal risk management team, working across the firm's own compliance obligations rather than on client engagements.",
+          "so_what": "Second-line compliance in a Big Four firm is squarely in your function, but it is a plain Manager title so it sits a notch below your level — worth a conversation rather than a priority application.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional Services"
+          ],
+          "source": "Seek / KPMG",
+          "url": "https://www.seek.com.au/job/94260621",
+          "published": "2026-08-27",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Senior Third Party Risk Manager, AI & Digital Infrastructure — global technology business via Robert Half, Sydney CBD (hybrid)",
@@ -2819,6 +2924,21 @@
       "items": [
         {
           "severity": "act",
+          "headline": "Associate Director, Settlements & Reconciliation Governance — Optus, Sydney",
+          "summary": "Optus is hiring an associate director to run governance over billing settlements and reconciliation, covering financial integrity, regulatory compliance and the operating discipline behind it.",
+          "so_what": "A rare role that sits exactly on the finance-plus-governance seam you occupy, at director level in a large listed telco in Sydney — strong direct match, worth moving on today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Telecommunications"
+          ],
+          "source": "Seek / Optus",
+          "url": "https://www.seek.com.au/job/94260650",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
           "headline": "Head of Financial Planning & Analysis — Australian Prudential Regulation Authority, Sydney (hybrid)",
           "summary": "Head-of-function role advising the CFO on financial planning strategy for the prudential regulator, accountable for budget development, performance tracking and advice to senior leaders.",
           "so_what": "Head-of level at a federal regulator, with a finance remit that trades on exactly the governance instincts you have. Still open — apply while the field is small.",
@@ -4282,6 +4402,36 @@
     {
       "category": "Technology & Digital",
       "items": [
+        {
+          "severity": "inform",
+          "headline": "Technology Operations Centre Manager — NSW Police Force, Parramatta",
+          "summary": "An ongoing full-time role running the technology operations centre across several Sydney sites, graded at Computer Systems Officer Level 6.",
+          "so_what": "Public-sector technology leadership is adjacent to your interests, but the grade sits below your level — noted for sector awareness rather than action.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / NSW Police Force",
+          "url": "https://www.seek.com.au/job/94256296",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Digital Enablement Manager, AI Integration & Delivery — top-tier law firm, Sydney",
+          "summary": "A leading law firm is building out its innovation group and needs someone to lead delivery of AI integrations and broader enterprise technology and digital transformation work.",
+          "so_what": "Your software engineering background plus transformation leadership makes this an unusual but credible fit; the Manager title caps it at watch, though the AI-governance angle is worth understanding either way.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional Services"
+          ],
+          "source": "Seek",
+          "url": "https://www.seek.com.au/job/94260907",
+          "published": "2026-08-28",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Director, Information & Communication Technology (CIO) — NSW public sector, Sydney",
