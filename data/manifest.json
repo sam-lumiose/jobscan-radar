@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-31",
+      "file": "data/digests/2026-08-31.json",
+      "posture": "334 roles - 81 strong-act - 26 interim/contract leads. Monday morning rebuild: every one of the 314 roles carried in from Friday was re-opened in Chrome this run, 290 still resolve to live postings and 24 were dropped, and 44 new Chrome-verified roles were added. Best new find: Chief Executive Officer at Tuna Australia - a 0.4 FTE, fully remote-Australia CEO seat reporting to the chair and board.",
+      "counts": {
+        "act": 81,
+        "watch": 186,
+        "inform": 67
+      }
+    },
+    {
       "date": "2026-08-28",
       "file": "data/digests/2026-08-28.json",
       "posture": "314 roles - 75 strong-act - 19 interim/contract leads. Friday afternoon refresh: all 304 roles carried forward from the midday run were re-opened and re-confirmed live in Chrome (none had expired), and 10 new Chrome-verified roles were added. Best new find: Independent Member, Audit & Risk Committee at Victoria University - a remunerated committee seat that lands directly on your FCPA and audit-and-risk background.",
