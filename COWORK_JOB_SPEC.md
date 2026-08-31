@@ -252,6 +252,30 @@ functions, **and** the location rule is met. (Plain *Manager* roles are in-scope
    clearly-functional interim role, e.g. *interim CFO*, goes under its function category
    with an `Interim` tag instead).
 
+### 4a. Section order in the output file (MANDATORY)
+
+The numbering above is only for reference. Write the `sections` array in **this** order —
+the renderer displays sections in file order, so this is what the reader sees top to bottom:
+
+1. **Interim, Contract & Advisory**
+2. **Risk, Compliance & Assurance**
+3. **Finance & Accounting**
+4. **C-Suite & Executive**
+5. **Board & NED**
+6. **Operations, Strategy & Transformation**
+7. **Technology & Digital**
+
+Emit every section in this order even when empty, so the layout stays stable day to day.
+
+### 4b. Item order within a section (MANDATORY)
+
+Sort each section's `items` by **match strength first, then newest listing date first**:
+
+- Band by `severity` in the order `act` → `watch` → `inform`, so the most actionable roles
+  stay at the top of each section.
+- **Within each band, sort by `published` descending — newest first.** Never oldest-first.
+- Break ties on equal dates with the more recently added item first.
+
 ---
 
 ## 5. Match strength — assign exactly one (`severity` field, renderer-compatible)
