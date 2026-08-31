@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.sam.jobscan-autopush</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/inkybot/Documents/jobscan-digest/scripts/jobscan-autopush.sh</string>
+  </array>
+
+  <!-- Run every 5 minutes. The script exits immediately when the repo is
+       clean and already in sync, so an idle tick costs essentially nothing. -->
+  <key>StartInterval</key>
+  <integer>300</integer>
+
+  <!-- Also publish once when you log in / when the agent is first loaded. -->
+  <key>RunAtLoad</key>
+  <true/>
+
+  <!-- Don't let a slow push overlap the next tick. -->
+  <key>ThrottleInterval</key>
+  <integer>300</integer>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/inkybot/Documents/jobscan-digest</string>
+
+  <!-- The script already appends to ~/Library/Logs/jobscan-autopush.log;
+       these catch anything launchd itself reports (e.g. a bad path). -->
+  <key>StandardOutPath</key>
+  <string>/Users/inkybot/Library/Logs/jobscan-autopush.launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/inkybot/Library/Logs/jobscan-autopush.launchd.log</string>
+</dict>
+</plist>

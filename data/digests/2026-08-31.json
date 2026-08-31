@@ -1,12 +1,12 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T11:49:04.069777+10:00",
-  "posture": "148 Sydney-based roles listed in the last 7 days - 43 strong-act - 16 interim/contract leads. Monday rebuild under two new filters: a rolling 7-day window and a Sydney-metro-only location rule with no remote, hybrid-elsewhere or interstate exception, board seats included. All 314 roles carried in from Friday were re-opened in Chrome (290 still live, 24 dropped) and 44 new Chrome-verified roles were added, before the two filters cut the list to 148. Best find: Chief Financial and Commercial Officer at the Australian College of Nursing, Parramatta.",
-  "summary": "Two filters now shape this digest: only roles listed in the last 7 days, and only roles based in Sydney metro. The location rule is absolute - a remote, hybrid or flexible-location posting based anywhere other than Sydney is excluded, and board, committee and advisory seats get no interstate carve-out. That leaves 148 live Sydney roles, 43 of them strong enough to act on today. The Sydney-only rule removed 19 roles, 13 of which were interstate or remote board seats, so Board & NED is now a short list of four genuinely Sydney-based seats; older and non-Sydney listings remain in the earlier daily digests if you want them. The strongest new find is the Chief Financial and Commercial Officer role at the Australian College of Nursing in Parramatta - a CFO-level appointment in a member-based professional body, where your FCPA and NFP exposure line up directly. Commonwealth Bank has three senior-manager risk seats open at once (Line 1 home buying, Line 2 operational risk product, and enterprise operational risk), and Robert Half is holding two Sydney contract roles - a compliance manager and a risk manager - for the same non-bank lender, so one call covers both. On the interim side, Perigon has a temporary financial controller at a technology scale-up and Mirvac has a contract senior manager in commercial finance. Browser-verified this run: Seek (full query battery plus the Board Appointments and non-executive-director subclassifications, all 115 matches opened and confirmed active), all 257 carried-forward Seek postings, all 24 carried-forward I Work for NSW postings, all 13 EthicalJobs board listings, the six Robert Half and four Sharp & Carter deep links, both Kaizen roles and the Bluefin listing. Also browsed but yielding nothing loggable: Bluefin, Sharp & Carter, Kaizen and JS Careers live-roles pages (JS Careers lists a deep bench of Sydney senior-manager risk and compliance mandates but publishes no per-role links, so none could be logged - it is worth emailing them directly); Derwent and Watermark, whose job widgets did not render any public listings; and I Work for NSW, whose keyword search would not apply this morning. Board Direction's seven carried-forward vacancies now redirect to a members-only wall and were dropped rather than logged unverified, and the AICD Directorship Opportunities board is fully login-gated today with no public teasers. Coverage is still a sample - a manual look remains worthwhile, particularly at AICD and at the specialist risk and finance recruiters who never advertise their interim work.",
+  "generated_at": "2026-08-31T12:05:00+10:00",
+  "posture": "169 roles listed in the last 7 days - 50 strong-act - 21 interim, contract or fixed-term leads - 16 board and NED seats. Midday refresh: every carried-forward role was re-opened in Chrome, 2 had been pulled and were dropped, and 12 newly listed Chrome-verified roles were added. Best find: Head of Risk Governance & Frameworks at Rabobank, a Sydney CBD hybrid seat posted an hour before this run.",
+  "summary": "Midday refresh of the Monday digest, covering roles listed between 2026-08-24 and 2026-08-31. Every role carried in from the morning run was re-opened in Chrome this run: 2 had been withdrawn and were dropped, and 12 new Chrome-verified roles were added - among them a Head of Risk Governance & Frameworks at Rabobank, a Senior Manager, Risk Assurance and Internal Audit brief through Oxygen Recruitment, a six-month Company Secretary fixed term at Perpetual Wealth, and a Director, Financial Control & Procurement post at the NSW Premier's Department. The Premier's Department Associate Director, Technology Business Operations role that expired over the weekend has been re-advertised and is captured again, and 11 interstate board and committee seats that were still live in Chrome were reinstated after being trimmed earlier in the day. No brand-new board vacancy appeared in the last 24 hours, so board supply is unchanged since this morning. Browser-verified this run: Seek (full query battery plus the Board Appointments subclassification), I Work for NSW, Sharp & Carter, Bluefin Resources, and the individual deep link behind every single item; AICD Directorship Opportunities remains member-gated and was not opened. Coverage is still a sample of a fast-moving market, so a manual look remains worthwhile - and because several specialist firms rarely advertise interim work publicly, keeping your CV current with Bluefin, Kaizen, JS Careers, KPP, Robert Half and Sharp & Carter matters more than any single listing here.",
   "counts": {
-    "act": 43,
-    "watch": 66,
-    "inform": 39
+    "act": 50,
+    "watch": 78,
+    "inform": 41
   },
   "sections": [
     {
@@ -23,8 +23,8 @@
             "Commercial"
           ],
           "source": "Seek / Ascendia Recruitment",
-          "url": "https://www.seek.com.au/job/94162172",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94162172",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -38,8 +38,8 @@
             "FS"
           ],
           "source": "Seek / Mars Recruitment",
-          "url": "https://www.seek.com.au/job/94159020",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94159020",
+          "published": "2026-08-25",
           "paywall": false
         }
       ]
@@ -47,6 +47,81 @@
     {
       "category": "Risk, Compliance & Assurance",
       "items": [
+        {
+          "severity": "act",
+          "headline": "Head of Risk Governance & Frameworks — Rabobank, Sydney CBD (hybrid)",
+          "summary": "Rabobank's Australian arm is hiring a permanent, full-time leader to own its risk governance architecture and frameworks from the Sydney CBD office on a hybrid pattern.",
+          "so_what": "A textbook 'Head of' risk-governance seat in a specialist food and agribusiness bank — squarely on your enterprise-risk and governance line, and listed only hours ago, so you are ahead of the field.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Rabobank",
+          "url": "https://au.seek.com/job/94298923",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Risk Assurance — Internal Audit, major Australian financial services group, via Oxygen Recruitment & HR, Sydney",
+          "summary": "A recruiter-held senior manager role leading risk assurance and internal audit work inside a large diversified Australian financial services business.",
+          "so_what": "Senior Manager is your own level and risk assurance/internal audit is core to your FCPA background; it is a quick-apply recruiter listing posted this morning, so contact them today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Oxygen Recruitment & HR",
+          "url": "https://au.seek.com/job/94297678",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Lead, financial services platform — via Kaizen Recruitment, Sydney (hybrid)",
+          "summary": "Kaizen is recruiting a compliance lead for a growing Australian investment, wealth and superannuation platform, advertised at up to about $165k including super.",
+          "so_what": "Kaizen is one of the risk and compliance specialists worth being registered with; the level sits a notch below your target band, so treat it as a relationship opener as much as an application.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Superannuation"
+          ],
+          "source": "Seek / Kaizen Recruitment",
+          "url": "https://au.seek.com/job/94295852",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Operational Risk Manager — general insurer, via Ethos BeathChapman, Sydney (hybrid)",
+          "summary": "Ethos BeathChapman is appointing an operational risk manager into the risk function of a well-known general insurer.",
+          "so_what": "Insurance and mutual risk is your strongest sector, but this is a plain Manager title, so it reads as a step sideways rather than up — useful for the recruiter relationship.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Seek / Ethos BeathChapman",
+          "url": "https://au.seek.com/job/94297010",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Manager — Greenstone Financial Services, Bella Vista, Sydney (hybrid)",
+          "summary": "An in-house compliance manager role in the compliance team of a Sydney-based insurance distribution and financial services group, with an onsite gym and cafe among the listed benefits.",
+          "so_what": "Solid function and sector fit in north-west Sydney, but a plain Manager level — worth a look only if you want a shorter commute and a hands-on compliance seat.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Seek / Greenstone Financial Services",
+          "url": "https://au.seek.com/job/94297043",
+          "published": "2026-08-31",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Senior Manager, Technology Risk — Commonwealth Bank, Sydney",
@@ -58,7 +133,7 @@
             "FS"
           ],
           "source": "Seek / Commonwealth Bank",
-          "url": "https://www.seek.com.au/job/94256244",
+          "url": "https://au.seek.com/job/94256244",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -73,8 +148,8 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94265047",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94265047",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -88,8 +163,8 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94265661",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94265661",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -103,8 +178,8 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94270428",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94270428",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -118,8 +193,8 @@
             "NFP"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94263905",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94263905",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -133,8 +208,8 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94265006",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94265006",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -148,8 +223,8 @@
             "FS"
           ],
           "source": "Seek / Bluefin Resources",
-          "url": "https://www.seek.com.au/job/94236115",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94236115",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -163,8 +238,8 @@
             "FS"
           ],
           "source": "Seek / Commonwealth Bank",
-          "url": "https://www.seek.com.au/job/94241597",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94241597",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -178,8 +253,8 @@
             "FS"
           ],
           "source": "Seek / Peoplebank",
-          "url": "https://www.seek.com.au/job/94235929",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94235929",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -193,7 +268,7 @@
             "Government"
           ],
           "source": "Seek / Department of Communities and Justice",
-          "url": "https://www.seek.com.au/job/94192096",
+          "url": "https://au.seek.com/job/94192096",
           "published": "2026-08-26",
           "paywall": false
         },
@@ -208,8 +283,8 @@
             "FS"
           ],
           "source": "Seek / LGT Wealth Management",
-          "url": "https://www.seek.com.au/job/94162461",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94162461",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -223,8 +298,8 @@
             "FS"
           ],
           "source": "Seek / Ethos BeathChapman",
-          "url": "https://www.seek.com.au/job/94181447",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94181447",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -238,8 +313,8 @@
             "Franchise"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94261761",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94261761",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -253,7 +328,7 @@
             "Superannuation"
           ],
           "source": "Seek / Commonwealth Superannuation Corporation",
-          "url": "https://www.seek.com.au/job/94258614",
+          "url": "https://au.seek.com/job/94258614",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -268,8 +343,8 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94267368",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94267368",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -283,8 +358,8 @@
             "Superannuation"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94267236",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94267236",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -298,8 +373,8 @@
             "Superannuation"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94280355",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94280355",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -313,8 +388,8 @@
             "Professional Services"
           ],
           "source": "Seek / KPMG",
-          "url": "https://www.seek.com.au/job/94260621",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94260621",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -328,8 +403,8 @@
             "FS"
           ],
           "source": "Seek / ubank",
-          "url": "https://www.seek.com.au/job/94246831",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94246831",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -343,8 +418,8 @@
             "FS"
           ],
           "source": "Seek / Profusion PAC",
-          "url": "https://www.seek.com.au/job/94240801",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94240801",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -358,8 +433,8 @@
             "NFP"
           ],
           "source": "Seek / HammondCare",
-          "url": "https://www.seek.com.au/job/94240354",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94240354",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -373,8 +448,8 @@
             "Property"
           ],
           "source": "Seek / CBRE Advisory",
-          "url": "https://www.seek.com.au/job/94237196",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94237196",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -418,7 +493,7 @@
             "Government"
           ],
           "source": "Seek / Hays",
-          "url": "https://www.seek.com.au/job/94190334",
+          "url": "https://au.seek.com/job/94190334",
           "published": "2026-08-26",
           "paywall": false
         },
@@ -448,7 +523,7 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94204508",
+          "url": "https://au.seek.com/job/94204508",
           "published": "2026-08-26",
           "paywall": false
         },
@@ -463,8 +538,8 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94205407",
-          "published": "2026-08-26",
+          "url": "https://au.seek.com/job/94205407",
+          "published": "2026-08-27",
           "paywall": false
         },
         {
@@ -478,8 +553,8 @@
             "FS"
           ],
           "source": "Seek / Talent",
-          "url": "https://www.seek.com.au/job/94186537",
-          "published": "2026-08-25",
+          "url": "https://au.seek.com/job/94186537",
+          "published": "2026-08-26",
           "paywall": false
         },
         {
@@ -493,8 +568,8 @@
             "Professional Services"
           ],
           "source": "Seek / Talent",
-          "url": "https://www.seek.com.au/job/94186558",
-          "published": "2026-08-25",
+          "url": "https://au.seek.com/job/94186558",
+          "published": "2026-08-26",
           "paywall": false
         },
         {
@@ -508,7 +583,7 @@
             "NFP"
           ],
           "source": "Seek / Butterfly Foundation",
-          "url": "https://www.seek.com.au/job/94182385",
+          "url": "https://au.seek.com/job/94182385",
           "published": "2026-08-25",
           "paywall": false
         },
@@ -538,8 +613,8 @@
             "FS"
           ],
           "source": "Seek / Australian Payments Plus",
-          "url": "https://www.seek.com.au/job/94169954",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94169954",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -553,8 +628,8 @@
             "Agribusiness"
           ],
           "source": "Seek / Hort Innovation",
-          "url": "https://www.seek.com.au/job/94157708",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94157708",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -568,7 +643,7 @@
             "Infrastructure"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94257053",
+          "url": "https://au.seek.com/job/94257053",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -583,7 +658,7 @@
             "FS"
           ],
           "source": "Seek / Ethos BeathChapman",
-          "url": "https://www.seek.com.au/job/94259048",
+          "url": "https://au.seek.com/job/94259048",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -598,7 +673,7 @@
             "FS"
           ],
           "source": "Seek / Bank of China",
-          "url": "https://www.seek.com.au/job/94258033",
+          "url": "https://au.seek.com/job/94258033",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -613,7 +688,7 @@
             "FS"
           ],
           "source": "Seek / Bank of China",
-          "url": "https://www.seek.com.au/job/94256863",
+          "url": "https://au.seek.com/job/94256863",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -628,8 +703,8 @@
             "Government"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94270723",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94270723",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -643,8 +718,8 @@
             "NFP"
           ],
           "source": "Seek / Uniting NSW & ACT",
-          "url": "https://www.seek.com.au/job/94247365",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94247365",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -658,8 +733,8 @@
             "Technology"
           ],
           "source": "Seek / CreditorWatch",
-          "url": "https://www.seek.com.au/job/94250545",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94250545",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -673,8 +748,8 @@
             "Legal"
           ],
           "source": "Seek / Dentons",
-          "url": "https://www.seek.com.au/job/94242683",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94242683",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -763,7 +838,7 @@
             "Insurance"
           ],
           "source": "Seek / icare",
-          "url": "https://www.seek.com.au/job/94153593",
+          "url": "https://au.seek.com/job/94153593",
           "published": "2026-08-24",
           "paywall": false
         },
@@ -778,8 +853,8 @@
             "Manufacturing"
           ],
           "source": "Seek / Tank Vision",
-          "url": "https://www.seek.com.au/job/94180113",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94180113",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -793,8 +868,8 @@
             "Education"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94162657",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94162657",
+          "published": "2026-08-25",
           "paywall": false
         }
       ]
@@ -802,6 +877,81 @@
     {
       "category": "Finance & Accounting",
       "items": [
+        {
+          "severity": "act",
+          "headline": "Director, Financial Control & Procurement — NSW Premier's Department, Sydney",
+          "summary": "A senior NSW government role owning financial control and procurement strategy for the central agency that coordinates the state's policy and delivery work.",
+          "so_what": "Government finance leadership at director level plays directly to your public-sector and CPA credentials, and central-agency exposure is unusually good board-CV material.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / Premier's Department",
+          "url": "https://au.seek.com/job/94296745",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Finance Manager — Wabtec Australia, Rydalmere, Sydney (hybrid)",
+          "summary": "A permanent senior finance manager position with the Australian arm of a Fortune 500 rail technology and manufacturing group, offered with a bonus plan and hybrid working.",
+          "so_what": "Senior Manager is a core-target level for you and this is a listed multinational with real scale — apply while it is still hours old.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Industrial"
+          ],
+          "source": "Seek / Wabtec Australia",
+          "url": "https://au.seek.com/job/94297859",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager — fast-growing commercial business, via Allura Partners, Rozelle, Sydney (hybrid)",
+          "summary": "Allura Partners is recruiting a finance manager to own the finance function of a market-leading business that is scaling quickly.",
+          "so_what": "Full ownership of a finance function is attractive, but the plain Manager title caps this below your band — a fallback rather than a priority.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Commercial"
+          ],
+          "source": "Seek / Allura Partners",
+          "url": "https://au.seek.com/job/94297469",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Systems Manager, NetSuite implementation — via Richard Lloyd Accounting Recruitment, north-west Sydney (contract)",
+          "summary": "A day-rate contract role leading the finance side of a NetSuite ERP rollout for an Australian-owned manufacturer, advertised at roughly $140k–$180k full-time equivalent.",
+          "so_what": "Your software engineering and accounting combination is an unusually good fit for an ERP finance lead, and contract roles from finance recruiters move fast — but the Manager title keeps it below act.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Manufacturing"
+          ],
+          "source": "Seek / Richard Lloyd Accounting Recruitment",
+          "url": "https://au.seek.com/job/94298576",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Manager, Business Services — public practice firm, via Charterhouse, Sydney (hybrid)",
+          "summary": "A business services and corporate advisory manager role in a Sydney accounting practice, advertised at up to about $150k plus super.",
+          "so_what": "Public-practice client work is adjacent to your corporate track and below your level — awareness only, unless you want a deliberate move into advisory.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional services"
+          ],
+          "source": "Seek / Charterhouse",
+          "url": "https://au.seek.com/job/94299435",
+          "published": "2026-08-31",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Associate Director, Settlements & Reconciliation Governance — Optus, Sydney",
@@ -813,8 +963,8 @@
             "Telecommunications"
           ],
           "source": "Seek / Optus",
-          "url": "https://www.seek.com.au/job/94260650",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94260650",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -828,8 +978,8 @@
             "ASX"
           ],
           "source": "Seek / Lawson Elliott Recruitment",
-          "url": "https://www.seek.com.au/job/94260096",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94260096",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -843,8 +993,8 @@
             "Government"
           ],
           "source": "Seek / Randstad",
-          "url": "https://www.seek.com.au/job/94260088",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94260088",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -858,7 +1008,7 @@
             "Technology"
           ],
           "source": "Seek / Nearmap",
-          "url": "https://www.seek.com.au/job/94255571",
+          "url": "https://au.seek.com/job/94255571",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -873,7 +1023,7 @@
             "PE"
           ],
           "source": "Seek / Highbury Executive Talent",
-          "url": "https://www.seek.com.au/job/94255808",
+          "url": "https://au.seek.com/job/94255808",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -888,7 +1038,7 @@
             "Property"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94228146",
+          "url": "https://au.seek.com/job/94228146",
           "published": "2026-08-27",
           "paywall": false
         },
@@ -903,8 +1053,8 @@
             "Technology"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94235370",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94235370",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -918,8 +1068,8 @@
             "FS"
           ],
           "source": "Seek / Allura Partners",
-          "url": "https://www.seek.com.au/job/94186199",
-          "published": "2026-08-25",
+          "url": "https://au.seek.com/job/94186199",
+          "published": "2026-08-26",
           "paywall": false
         },
         {
@@ -933,8 +1083,8 @@
             "Professional services"
           ],
           "source": "Seek / Richard Lloyd Accounting Recruitment",
-          "url": "https://www.seek.com.au/job/94164585",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94164585",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -948,8 +1098,8 @@
             "FS"
           ],
           "source": "Seek / Morgan McKinley",
-          "url": "https://www.seek.com.au/job/94166915",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94166915",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -978,8 +1128,8 @@
             "FS"
           ],
           "source": "Seek / Profusion PAC",
-          "url": "https://www.seek.com.au/job/94156746",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94156746",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -993,8 +1143,8 @@
             "Consumer"
           ],
           "source": "Seek / The Acquire Group",
-          "url": "https://www.seek.com.au/job/94158465",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94158465",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1008,8 +1158,8 @@
             "Consumer"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94286612",
-          "published": "2026-08-29",
+          "url": "https://au.seek.com/job/94286612",
+          "published": "2026-08-30",
           "paywall": false
         },
         {
@@ -1023,8 +1173,8 @@
             "Legal"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94267782",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94267782",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1038,8 +1188,8 @@
             "FMCG"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94275836",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94275836",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1053,8 +1203,8 @@
             "Retail"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94273885",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94273885",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1068,8 +1218,8 @@
             "Corporate"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94260423",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94260423",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1083,8 +1233,8 @@
             "Professional Services"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94263351",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94263351",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1098,8 +1248,8 @@
             "Professional services"
           ],
           "source": "Seek / Hamilton York",
-          "url": "https://www.seek.com.au/job/94236133",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94236133",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -1113,7 +1263,7 @@
             "Undisclosed"
           ],
           "source": "Seek / Lawson Elliott Recruitment",
-          "url": "https://www.seek.com.au/job/93833822",
+          "url": "https://au.seek.com/job/93833822",
           "published": "2026-08-25",
           "paywall": false
         },
@@ -1128,8 +1278,8 @@
             "Commercial"
           ],
           "source": "Seek / private advertiser",
-          "url": "https://www.seek.com.au/job/94168658",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94168658",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1143,7 +1293,7 @@
             "Commercial"
           ],
           "source": "Seek / Shotland Consulting",
-          "url": "https://www.seek.com.au/job/94154893",
+          "url": "https://au.seek.com/job/94154893",
           "published": "2026-08-24",
           "paywall": false
         },
@@ -1173,8 +1323,8 @@
             "Commercial"
           ],
           "source": "Seek / Talent Web Recruitment",
-          "url": "https://www.seek.com.au/job/94165031",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94165031",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1188,8 +1338,8 @@
             "FS"
           ],
           "source": "Seek / Zip",
-          "url": "https://www.seek.com.au/job/94170461",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94170461",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1203,8 +1353,8 @@
             "Private equity"
           ],
           "source": "Seek / ThompsonCook",
-          "url": "https://www.seek.com.au/job/94163424",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94163424",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1218,7 +1368,7 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94149667",
+          "url": "https://au.seek.com/job/94149667",
           "published": "2026-08-24",
           "paywall": false
         },
@@ -1263,8 +1413,8 @@
             "Professional Services"
           ],
           "source": "Seek / Geosurv",
-          "url": "https://www.seek.com.au/job/94180221",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94180221",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1278,8 +1428,8 @@
             "Corporate"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94265733",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94265733",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1293,8 +1443,8 @@
             "NFP"
           ],
           "source": "Seek / The Family Co.",
-          "url": "https://www.seek.com.au/job/94167781",
-          "published": "2026-08-25",
+          "url": "https://au.seek.com/job/94167781",
+          "published": "2026-08-26",
           "paywall": false
         },
         {
@@ -1308,8 +1458,8 @@
             "FS"
           ],
           "source": "Seek / China Construction Bank",
-          "url": "https://www.seek.com.au/job/94159116",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94159116",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1323,8 +1473,8 @@
             "FS"
           ],
           "source": "Seek / Challenger",
-          "url": "https://www.seek.com.au/job/94176627",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94176627",
+          "published": "2026-08-25",
           "paywall": false
         }
       ]
@@ -1343,7 +1493,7 @@
             "NFP"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94284079",
+          "url": "https://au.seek.com/job/94284079",
           "published": "2026-08-29",
           "paywall": false
         },
@@ -1358,7 +1508,7 @@
             "Superannuation"
           ],
           "source": "Seek / Aware Super",
-          "url": "https://www.seek.com.au/job/94257946",
+          "url": "https://au.seek.com/job/94257946",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -1373,8 +1523,8 @@
             "NFP"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94265760",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94265760",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1388,7 +1538,7 @@
             "Energy"
           ],
           "source": "Seek / Ausgrid",
-          "url": "https://www.seek.com.au/job/94227693",
+          "url": "https://au.seek.com/job/94227693",
           "published": "2026-08-27",
           "paywall": false
         },
@@ -1403,8 +1553,8 @@
             "Undisclosed"
           ],
           "source": "Seek / Private Advertiser",
-          "url": "https://www.seek.com.au/job/94187068",
-          "published": "2026-08-25",
+          "url": "https://au.seek.com/job/94187068",
+          "published": "2026-08-26",
           "paywall": false
         },
         {
@@ -1418,8 +1568,8 @@
             "Local government"
           ],
           "source": "Seek / Norwest Recruitment",
-          "url": "https://www.seek.com.au/job/94168412",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94168412",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1433,8 +1583,8 @@
             "Aged care"
           ],
           "source": "Seek / Baldwin Living",
-          "url": "https://www.seek.com.au/job/94160925",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94160925",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1448,7 +1598,7 @@
             "Government"
           ],
           "source": "Seek / Office of the Director of Public Prosecutions",
-          "url": "https://www.seek.com.au/job/94151901",
+          "url": "https://au.seek.com/job/94151901",
           "published": "2026-08-24",
           "paywall": false
         },
@@ -1463,7 +1613,7 @@
             "Healthcare"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94292392",
+          "url": "https://au.seek.com/job/94292392",
           "published": "2026-08-30",
           "paywall": false
         },
@@ -1478,7 +1628,7 @@
             "NFP"
           ],
           "source": "Seek / Moving Forward DFV Case Management Services",
-          "url": "https://www.seek.com.au/job/94257737",
+          "url": "https://au.seek.com/job/94257737",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -1493,8 +1643,8 @@
             "Professional Services"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94265437",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94265437",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1508,8 +1658,8 @@
             "NFP"
           ],
           "source": "Seek / National Parks Association of NSW",
-          "url": "https://www.seek.com.au/job/94231740",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94231740",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -1523,23 +1673,8 @@
             "Government"
           ],
           "source": "Seek / NSW Ministry of Health",
-          "url": "https://www.seek.com.au/job/94187718",
-          "published": "2026-08-25",
-          "paywall": false
-        },
-        {
-          "severity": "watch",
-          "headline": "Global Head of Operations — OneSchool Global, Sydney Olympic Park",
-          "summary": "An international schools group is hiring a global operations lead to run its non-academic operating model across campuses and corporate services.",
-          "so_what": "COO-track scope with a corporate-services spine that plays to your operations and business-management background; the education setting is new territory but the accountabilities are familiar.",
-          "tags": [
-            "Permanent",
-            "Sydney",
-            "Education"
-          ],
-          "source": "Seek / OneSchool Global",
-          "url": "https://www.seek.com.au/job/94163131",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94187718",
+          "published": "2026-08-26",
           "paywall": false
         },
         {
@@ -1568,8 +1703,8 @@
             "Utilities"
           ],
           "source": "Seek / Abergeldie Complex Infrastructure",
-          "url": "https://www.seek.com.au/job/94180072",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94180072",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1583,7 +1718,7 @@
             "NFP"
           ],
           "source": "Seek / Orchard Talent Group",
-          "url": "https://www.seek.com.au/job/94257264",
+          "url": "https://au.seek.com/job/94257264",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -1598,8 +1733,8 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94242841",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94242841",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -1613,8 +1748,8 @@
             "Infrastructure"
           ],
           "source": "Seek / Luminary",
-          "url": "https://www.seek.com.au/job/94180063",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94180063",
+          "published": "2026-08-25",
           "paywall": false
         }
       ]
@@ -1622,6 +1757,21 @@
     {
       "category": "Board & NED",
       "items": [
+        {
+          "severity": "act",
+          "headline": "Company Secretary, Perpetual Wealth — Perpetual, Sydney CBD (hybrid, six-month fixed term)",
+          "summary": "Perpetual is seeking an experienced company secretary for its wealth business on a six-month fixed-term contract with an immediate start date.",
+          "so_what": "Board-level secretariat work is exactly the governance credential your FAICD profile trades on, and an immediate-start fixed term suits your appetite for interim engagements — move today.",
+          "tags": [
+            "Fixed-term",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Perpetual",
+          "url": "https://au.seek.com/job/94298270",
+          "published": "2026-08-31",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Independent Board Director — Australia's National Research Organisation for Women's Safety (ANROWS), Sydney",
@@ -1633,7 +1783,7 @@
             "NFP"
           ],
           "source": "Seek / ANROWS",
-          "url": "https://www.seek.com.au/job/94212013",
+          "url": "https://au.seek.com/job/94212013",
           "published": "2026-08-27",
           "paywall": false
         },
@@ -1648,8 +1798,8 @@
             "Education"
           ],
           "source": "Seek / Mount St Benedict College",
-          "url": "https://www.seek.com.au/job/94163113",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94163113",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1663,8 +1813,8 @@
             "FS"
           ],
           "source": "Seek / ASX",
-          "url": "https://www.seek.com.au/job/94172656",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94172656",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1678,8 +1828,173 @@
             "Education"
           ],
           "source": "Seek / University of New South Wales",
-          "url": "https://www.seek.com.au/job/94181579",
+          "url": "https://au.seek.com/job/94181579",
           "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "External Independent Member, Audit & Risk Committee — Victoria University, Melbourne",
+          "summary": "Victoria University is appointing an external independent member to its audit and risk committee, advertised as a part-time appointment based in Melbourne.",
+          "so_what": "An audit and risk committee seat is the single most direct use of your FCPA and FAICD credentials; interstate is workable on a monthly meeting cadence, so this is worth an application now.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "Education"
+          ],
+          "source": "Seek / Victoria University",
+          "url": "https://au.seek.com/job/94225903",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "External Independent Member, Disability Governance Committee — Victoria University, Footscray (Melbourne, hybrid)",
+          "summary": "A part-time external independent seat on the university's disability governance committee, run on a hybrid basis from the Footscray campus.",
+          "so_what": "Committee governance experience at a large public university reads well alongside your council and mutual board work, though the subject matter sits outside your core sectors.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "Education"
+          ],
+          "source": "Seek / Victoria University",
+          "url": "https://au.seek.com/job/94225910",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "External Independent Member, Nominations Committee — Victoria University, Footscray (Melbourne, remote)",
+          "summary": "A part-time, largely remote external independent appointment to the university's nominations committee.",
+          "so_what": "Nominations work is board-craft rather than technical risk, but the remote arrangement makes the travel question moot and it adds a second university committee to your record.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "Education"
+          ],
+          "source": "Seek / Victoria University",
+          "url": "https://au.seek.com/job/94232155",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Non-Executive Director, Board of Management — South West NRM, Bunbury WA (hybrid)",
+          "summary": "South West NRM, a not-for-profit natural resource management body in Western Australia's south west, is recruiting a non-executive director to its board of management.",
+          "so_what": "Your environmental law degree plus mutual and council board experience is an unusually neat fit for a natural resource management board; Bunbury is a long trip, so weigh the meeting cadence.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "NFP"
+          ],
+          "source": "Seek / South West NRM",
+          "url": "https://au.seek.com/job/94266731",
+          "published": "2026-08-29",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Board Directors — Minda, via Hender Consulting, Adelaide (hybrid)",
+          "summary": "Hender Consulting is running a search for multiple part-time board directors for Minda, a long-established South Australian disability services organisation.",
+          "so_what": "A sizeable NFP board with real financial complexity, recruited through a search firm — a good route to a second substantive directorship if you are open to Adelaide travel.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "NFP"
+          ],
+          "source": "Seek / Hender Consulting",
+          "url": "https://au.seek.com/job/94256450",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Board Director — Buninyong & District Financial Services (Community Bank), Ballarat VIC (hybrid)",
+          "summary": "A part-time board director vacancy at the community bank company operating the Buninyong and district Bendigo Community Bank branches in regional Victoria.",
+          "so_what": "Community bank boards are close cousins of the mutual sector you already sit in, and the financial services governance is squarely within your competence.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "FS"
+          ],
+          "source": "Seek / Buninyong & District Financial Services",
+          "url": "https://au.seek.com/job/94226767",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "College Council Member — The Springfield Anglican College, Brisbane",
+          "summary": "An independent school in Brisbane's Springfield corridor is seeking additional members for its college council on a voluntary basis.",
+          "so_what": "School councils regularly want finance and risk skills on their governance bench, and your independent-school and education-sector interest is already on the radar this week.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "Education"
+          ],
+          "source": "Seek / The Springfield Anglican College",
+          "url": "https://au.seek.com/job/94230735",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Independent Board Director — South Australian Jockey Club, Morphettville (Adelaide)",
+          "summary": "The South Australian Jockey Club is recruiting an independent director to its board at its Morphettville headquarters.",
+          "so_what": "A member-based sporting organisation with commercial property and event revenue — finance and risk skills are usually what these boards are short of.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "Member organisation"
+          ],
+          "source": "Seek / South Australian Jockey Club",
+          "url": "https://au.seek.com/job/94187315",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Board Director (organisational full member) — Tasmanian Family and Sexual Violence Alliance, Hobart (hybrid)",
+          "summary": "The Tasmanian peak body for family and sexual violence services is seeking a part-time board director drawn from its organisational membership base.",
+          "so_what": "Peak-body governance in a sensitive service area; the hybrid arrangement keeps travel manageable, but membership eligibility may narrow who can be appointed.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "NFP"
+          ],
+          "source": "Seek / Tasmanian Family and Sexual Violence Alliance",
+          "url": "https://au.seek.com/job/94160774",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Expression of interest — board director positions, Anglicare NT, Darwin",
+          "summary": "Anglicare NT has opened an expression-of-interest round for future board director appointments across its community services operations.",
+          "so_what": "An EOI round is low-cost to enter and keeps you in the pipeline for a large NFP board; the Darwin base makes the travel commitment the main question.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "NFP"
+          ],
+          "source": "Seek / Anglicare NT",
+          "url": "https://au.seek.com/job/94202199",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Board Director (legal) — Greyhound Racing SA, via SULLIVAN Consulting, Angle Park (Adelaide)",
+          "summary": "SULLIVAN Consulting is recruiting a legally qualified board director for Greyhound Racing SA, the sport's controlling body in South Australia.",
+          "so_what": "The brief calls for legal expertise rather than the finance and risk skills you lead with, so treat this as market awareness unless you want to test the environmental law credential.",
+          "tags": [
+            "Board",
+            "Interstate",
+            "Member organisation"
+          ],
+          "source": "Seek / SULLIVAN Consulting",
+          "url": "https://au.seek.com/job/94256600",
+          "published": "2026-08-28",
           "paywall": false
         }
       ]
@@ -1698,8 +2013,8 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94273840",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94273840",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1713,8 +2028,8 @@
             "Insurance"
           ],
           "source": "Seek / icare",
-          "url": "https://www.seek.com.au/job/94237310",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94237310",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -1728,7 +2043,7 @@
             "Superannuation"
           ],
           "source": "Seek / Team Super",
-          "url": "https://www.seek.com.au/job/94181029",
+          "url": "https://au.seek.com/job/94181029",
           "published": "2026-08-25",
           "paywall": false
         },
@@ -1743,7 +2058,7 @@
             "Government"
           ],
           "source": "Seek / Special Broadcasting Service",
-          "url": "https://www.seek.com.au/job/94182969",
+          "url": "https://au.seek.com/job/94182969",
           "published": "2026-08-25",
           "paywall": false
         },
@@ -1758,8 +2073,8 @@
             "FS"
           ],
           "source": "Seek / M&T Resources",
-          "url": "https://www.seek.com.au/job/94168521",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94168521",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -1773,7 +2088,7 @@
             "Insurance"
           ],
           "source": "Seek / Coal Services",
-          "url": "https://www.seek.com.au/job/94258434",
+          "url": "https://au.seek.com/job/94258434",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -1788,8 +2103,8 @@
             "Technology"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94268249",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94268249",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1803,8 +2118,8 @@
             "FMCG"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94268629",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94268629",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1818,8 +2133,8 @@
             "Aged Care"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94274056",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94274056",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1833,7 +2148,7 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94259209",
+          "url": "https://au.seek.com/job/94259209",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -1848,8 +2163,8 @@
             "NFP"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94264374",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94264374",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1863,23 +2178,8 @@
             "Government"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94265036",
-          "published": "2026-08-28",
-          "paywall": false
-        },
-        {
-          "severity": "watch",
-          "headline": "Associate Director, Technology Business Operations — Premier's Department, Sydney",
-          "summary": "The NSW Premier's Department is recruiting an associate director for technology business operations.",
-          "so_what": "Director-adjacent role combining operations and technology in central government — a reasonable stretch across two of your functions.",
-          "tags": [
-            "Permanent",
-            "Sydney",
-            "Government"
-          ],
-          "source": "Seek / Premier's Department",
-          "url": "https://www.seek.com.au/job/94233324",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94265036",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1893,8 +2193,8 @@
             "Telco"
           ],
           "source": "Seek / Optus",
-          "url": "https://www.seek.com.au/job/94236524",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94236524",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -1908,7 +2208,7 @@
             "Government"
           ],
           "source": "Seek / NSW Dept of Planning, Housing & Infrastructure",
-          "url": "https://www.seek.com.au/job/94182728",
+          "url": "https://au.seek.com/job/94182728",
           "published": "2026-08-25",
           "paywall": false
         },
@@ -1923,7 +2223,7 @@
             "FS"
           ],
           "source": "Seek / Commonwealth Bank",
-          "url": "https://www.seek.com.au/job/94256249",
+          "url": "https://au.seek.com/job/94256249",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -1938,8 +2238,8 @@
             "Corporate"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94266247",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94266247",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1953,8 +2253,8 @@
             "Manufacturing"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94266097",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94266097",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -1968,8 +2268,8 @@
             "Local Government"
           ],
           "source": "Seek / Johnson Recruitment",
-          "url": "https://www.seek.com.au/job/94232247",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94232247",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -1983,8 +2283,8 @@
             "NFP"
           ],
           "source": "Seek / abrs",
-          "url": "https://www.seek.com.au/job/94236121",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94236121",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -2013,7 +2313,7 @@
             "Arts"
           ],
           "source": "Seek / Opera Australia",
-          "url": "https://www.seek.com.au/job/94182884",
+          "url": "https://au.seek.com/job/94182884",
           "published": "2026-08-25",
           "paywall": false
         }
@@ -2022,6 +2322,21 @@
     {
       "category": "Technology & Digital",
       "items": [
+        {
+          "severity": "act",
+          "headline": "Associate Director, Technology Business Operations — NSW Premier's Department, Sydney",
+          "summary": "A NSW government role leading financial, procurement and contract management for the technology function, advertised at about $154,000–$178,000.",
+          "so_what": "This is the re-listed version of the Premier's Department role that closed over the weekend; the finance-meets-technology brief matches your software engineering and accounting mix better than most technology postings.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / Premier's Department",
+          "url": "https://au.seek.com/job/94295864",
+          "published": "2026-08-31",
+          "paywall": false
+        },
         {
           "severity": "act",
           "headline": "Head of IT Resilience and Cybersecurity — Transdev Australasia, Sydney",
@@ -2033,7 +2348,7 @@
             "Transport"
           ],
           "source": "Seek / Transdev Australasia",
-          "url": "https://www.seek.com.au/job/94253497",
+          "url": "https://au.seek.com/job/94253497",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -2048,8 +2363,8 @@
             "Education"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94291106",
-          "published": "2026-08-29",
+          "url": "https://au.seek.com/job/94291106",
+          "published": "2026-08-30",
           "paywall": false
         },
         {
@@ -2063,8 +2378,8 @@
             "Professional Services"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94260907",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94260907",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -2078,7 +2393,7 @@
             "Retail"
           ],
           "source": "Seek / 4WD Supacentre",
-          "url": "https://www.seek.com.au/job/94257419",
+          "url": "https://au.seek.com/job/94257419",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -2093,8 +2408,8 @@
             "Technology"
           ],
           "source": "Seek / Hays",
-          "url": "https://www.seek.com.au/job/94228937",
-          "published": "2026-08-27",
+          "url": "https://au.seek.com/job/94228937",
+          "published": "2026-08-28",
           "paywall": false
         },
         {
@@ -2108,8 +2423,8 @@
             "Pharma"
           ],
           "source": "Seek / AbbVie",
-          "url": "https://www.seek.com.au/job/94176111",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94176111",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -2123,7 +2438,7 @@
             "Insurance"
           ],
           "source": "Seek / Westfund Health Insurance",
-          "url": "https://www.seek.com.au/job/94155344",
+          "url": "https://au.seek.com/job/94155344",
           "published": "2026-08-24",
           "paywall": false
         },
@@ -2138,8 +2453,8 @@
             "Retail"
           ],
           "source": "Seek / Lowes Menswear",
-          "url": "https://www.seek.com.au/job/94181566",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94181566",
+          "published": "2026-08-25",
           "paywall": false
         },
         {
@@ -2153,7 +2468,7 @@
             "Government"
           ],
           "source": "Seek / NSW Police Force",
-          "url": "https://www.seek.com.au/job/94256296",
+          "url": "https://au.seek.com/job/94256296",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -2168,7 +2483,7 @@
             "FS"
           ],
           "source": "Seek / Commonwealth Bank",
-          "url": "https://www.seek.com.au/job/94256253",
+          "url": "https://au.seek.com/job/94256253",
           "published": "2026-08-28",
           "paywall": false
         },
@@ -2183,8 +2498,8 @@
             "FS"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94265540",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94265540",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -2198,8 +2513,8 @@
             "Corporate"
           ],
           "source": "Seek",
-          "url": "https://www.seek.com.au/job/94271700",
-          "published": "2026-08-28",
+          "url": "https://au.seek.com/job/94271700",
+          "published": "2026-08-29",
           "paywall": false
         },
         {
@@ -2228,7 +2543,7 @@
             "Hospitality"
           ],
           "source": "Seek / Pathfinder Recruitment",
-          "url": "https://www.seek.com.au/job/94181699",
+          "url": "https://au.seek.com/job/94181699",
           "published": "2026-08-25",
           "paywall": false
         },
@@ -2243,8 +2558,8 @@
             "Technology"
           ],
           "source": "Seek / Talent",
-          "url": "https://www.seek.com.au/job/94187793",
-          "published": "2026-08-25",
+          "url": "https://au.seek.com/job/94187793",
+          "published": "2026-08-26",
           "paywall": false
         },
         {
@@ -2258,8 +2573,8 @@
             "Technology"
           ],
           "source": "Seek / Preacta Recruitment",
-          "url": "https://www.seek.com.au/job/94164819",
-          "published": "2026-08-24",
+          "url": "https://au.seek.com/job/94164819",
+          "published": "2026-08-25",
           "paywall": false
         }
       ]

@@ -349,3 +349,11 @@ Write `data/digests/<TODAY>.json` (`YYYY-MM-DD`, Australia/Sydney). Overwrite if
 Then update `data/manifest.json`: refresh today's top entry in place if present, else
 **prepend** `{ date, file, posture, counts }` (newest first); leave older entries alone.
 Validate both files parse. **Do NOT run git** — the helper publishes.
+
+**Publishing (for reference — the job never does this itself):** a launchd agent,
+`com.sam.jobscan-autopush`, runs `scripts/jobscan-autopush.sh` every 5 minutes; it commits
+anything dirty as `digest: <date> (auto)` and pushes to `origin/main`, which GitHub Pages
+then rebuilds. So writing valid JSON is the whole job — the site follows within a few
+minutes, with another minute or two for the Pages build and its CDN cache. Install or
+re-install the agent with `bash scripts/install-autopush.sh`. Note the push needs the Mac's
+GitHub credentials, so it can only run there, never from the agent's sandbox.

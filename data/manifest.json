@@ -8,11 +8,11 @@
     {
       "date": "2026-08-31",
       "file": "data/digests/2026-08-31.json",
-      "posture": "148 Sydney-based roles listed in the last 7 days - 43 strong-act - 16 interim/contract leads. Monday rebuild under two new filters: a rolling 7-day window and a Sydney-metro-only location rule with no remote, hybrid-elsewhere or interstate exception, board seats included. All 314 roles carried in from Friday were re-opened in Chrome (290 still live, 24 dropped) and 44 new Chrome-verified roles were added, before the two filters cut the list to 148. Best find: Chief Financial and Commercial Officer at the Australian College of Nursing, Parramatta.",
+      "posture": "169 roles listed in the last 7 days - 50 strong-act - 21 interim, contract or fixed-term leads - 16 board and NED seats. Midday refresh: every carried-forward role was re-opened in Chrome, 2 had been pulled and were dropped, and 12 newly listed Chrome-verified roles were added. Best find: Head of Risk Governance & Frameworks at Rabobank, a Sydney CBD hybrid seat posted an hour before this run.",
       "counts": {
-        "act": 43,
-        "watch": 66,
-        "inform": 39
+        "act": 50,
+        "watch": 78,
+        "inform": 41
       }
     },
     {
