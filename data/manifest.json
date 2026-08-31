@@ -8,11 +8,11 @@
     {
       "date": "2026-08-31",
       "file": "data/digests/2026-08-31.json",
-      "posture": "334 roles - 81 strong-act - 26 interim/contract leads. Monday morning rebuild: every one of the 314 roles carried in from Friday was re-opened in Chrome this run, 290 still resolve to live postings and 24 were dropped, and 44 new Chrome-verified roles were added. Best new find: Chief Executive Officer at Tuna Australia - a 0.4 FTE, fully remote-Australia CEO seat reporting to the chair and board.",
+      "posture": "148 Sydney-based roles listed in the last 7 days - 43 strong-act - 16 interim/contract leads. Monday rebuild under two new filters: a rolling 7-day window and a Sydney-metro-only location rule with no remote, hybrid-elsewhere or interstate exception, board seats included. All 314 roles carried in from Friday were re-opened in Chrome (290 still live, 24 dropped) and 44 new Chrome-verified roles were added, before the two filters cut the list to 148. Best find: Chief Financial and Commercial Officer at the Australian College of Nursing, Parramatta.",
       "counts": {
-        "act": 81,
-        "watch": 186,
-        "inform": 67
+        "act": 43,
+        "watch": 66,
+        "inform": 39
       }
     },
     {

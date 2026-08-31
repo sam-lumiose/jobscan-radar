@@ -28,9 +28,8 @@ a native macOS helper does the git push.
 - **Target titles:** Non-Executive Director, Chair, board/committee/advisory member; CRO,
   COO, CFO, CEO, GM; group manager, senior manager, "Head of" in risk, compliance,
   assurance, finance, operations, business, IT.
-- **Location rule:** Sydney metro + hybrid + Australia-remote. **Board/NED only:**
-  interstate acceptable (willing to travel for monthly board/committee meetings) — tag
-  `Interstate`.
+- **Location rule:** **Sydney metro only** — see §3. No interstate, no regional NSW, no
+  Australia-remote, and **no exception for board/NED**.
 
 ---
 
@@ -119,14 +118,17 @@ org + title + location).** Do not stop at the top few results.
 
 - **Seek** — run the **fixed query battery** below, each sorted most-recent first
   (append `?sortmode=ListedDate`), and read **all of page 1 (~22 cards) and keep going while
-  listings are ≤14 days old**, then dedupe. Queries (Sydney NSW unless noted):
+  listings are ≤7 days old**, then dedupe. Queries (Sydney NSW unless noted):
   `chief risk officer` · `chief financial officer` · `chief operating officer` ·
   `head of risk` · `head of compliance` · `head of audit` · `head of finance` ·
   `head of governance` · `governance` · `risk manager` · `senior risk manager` ·
   `senior manager risk` · `senior manager governance` · `compliance manager` ·
   `internal audit` · `company secretary` · `financial controller` ·
   `interim` and `contract` (finance & risk) · plus the **Board Appointments**
-  subclassification. Re-run the core terms with **Remote-AU** for remote roles.
+  subclassification. Scope every query to **Sydney NSW** (`/in-All-Sydney-NSW`); do **not**
+  run the Remote-AU or All-Australia variants — per §3 those results are out of scope. The
+  Board Appointments and non-executive-director subclassifications have no Sydney-scoped
+  URL, so run them nationally and discard every non-Sydney card at triage.
 - **LinkedIn Jobs** (public pages) and **Indeed** — render the public search results in
   Chrome for the same core terms (risk, compliance, audit, governance, CFO/CRO/COO, head of
   finance, company secretary, interim). Public teasers only; never log in.
@@ -135,13 +137,28 @@ org + title + location).** Do not stop at the top few results.
 - **§1a recruiter boards** (Applyflow-based) — render each firm's live-roles page and read
   the cards; capture deep-link job URLs.
 
-**Triage discipline:** every role that is browser-verified live, passes the §3 filter, and
-is **senior-manager-and-above** MUST be logged in the digest — do **not** silently drop
-verified, on-target matches just to keep the list short. Trim only genuine duplicates and
-clearly off-target/below-level roles. Include strong roles that are older but still live
-(note the listing date). Coverage is still a *sample*, so close the `summary` by noting that
-a manual look remains worthwhile and stating which boards were browser-verified this run vs.
-search-only.
+**Triage discipline:** every role that is browser-verified live, passes the §3 filter, passes
+the §1g recency window, and is **senior-manager-and-above** MUST be logged in the digest — do
+**not** silently drop verified, on-target matches just to keep the list short. Trim only
+genuine duplicates, clearly off-target/below-level roles, and roles outside the recency
+window. Coverage is still a *sample*, so close the `summary` by noting that a manual look
+remains worthwhile and stating which boards were browser-verified this run vs. search-only.
+
+### 1g. Recency window — 7 days (MANDATORY)
+
+**Only roles listed within the last 7 days appear in the digest.** Compute the window as
+`TODAY − 7 days` in Australia/Sydney, inclusive; a role whose listing date is older than that
+is excluded even if it is still live and a strong match. This applies to **every** category,
+including Board & NED.
+
+- Applies at both ends: a **new** find that is already older than 7 days is not logged, and a
+  **carried-forward** item ages out of the digest once its listing date passes 7 days — drop
+  it on the first run after that, exactly as if it had expired.
+- Where a source gives no listing date, use the best-known date; if that is only a month
+  (`YYYY-MM`), treat it as the **first** of that month, i.e. age it out conservatively.
+- Older-but-still-live roles are not lost — they remain in the earlier daily digests, which
+  the reader can open directly. Do not re-add them to today's file.
+- State the window in the `summary` and say how many items aged out this run.
 
 ---
 
@@ -175,11 +192,24 @@ functions, **and** the location rule is met. (Plain *Manager* roles are in-scope
   accounting, operations, business/strategy, transformation, IT/technology leadership.
 - **Sector boost (not a filter):** energy/utilities/renewables, local government/council,
   insurance/mutual, financial services, superannuation, government, NFP.
-- **Location rule:**
-  - Permanent / fixed-term / contract / interim → include only if **Sydney metro,
-    Sydney-hybrid, or Australia-remote**.
-  - **Board / NED / committee / advisory → also include Interstate** (tag `Interstate`);
-    assume monthly-travel cadence is acceptable.
+- **Location rule — SYDNEY ONLY (MANDATORY, no exceptions):** include a role **only if the
+  advertised position is based in Sydney metro**. This applies to **every** engagement type
+  and **every** category, board and NED included.
+  - **Include:** Sydney metro (CBD, North Shore, Northern Beaches, Eastern Suburbs, Inner
+    West, Parramatta and Greater West, South West, Sutherland, Hills District, Macquarie
+    Park, etc.), and **Sydney-based hybrid** — i.e. a Sydney office with some
+    work-from-home days.
+  - **Exclude — being remote or hybrid does NOT rescue a non-Sydney role.** A listing based
+    anywhere other than Sydney metro is out even when it is advertised as remote,
+    work-from-home, flexible-location, or "any location — Australia". Specifically exclude:
+    other capitals and states, regional NSW (Newcastle, Wollongong/Illawarra, Central Coast,
+    and beyond), and Australia-wide remote postings.
+  - **No board/NED carve-out.** Interstate and remote board, committee and advisory seats are
+    excluded on the same terms as employment roles; the previous monthly-travel exception is
+    withdrawn. The `Interstate` and `Remote-AU` region tags are therefore retired.
+  - **Judgement call:** where the location is ambiguous (e.g. a Sydney-headquartered employer
+    advertising a nationally-remote role), go by **where the position itself is based**. If
+    the ad does not require the holder to be in Sydney, exclude it.
 - **Seniority weighting:**
   - **Senior Manager is a core target, not a stretch.** The candidate's own level is
     senior-manager (§0), so any **Senior Manager** / **"Senior &lt;function&gt; Manager"**
@@ -198,9 +228,11 @@ functions, **and** the location rule is met. (Plain *Manager* roles are in-scope
     → `inform` only, *unless* board/advisory. Off-target functions (quota sales, clinical,
     trades) → exclude.
 - **Tagging rule:** every item's tags are ordered **engagement-type first**, then region,
-  then sector — e.g. `["Interim", "Sydney", "Insurance"]`, `["Board", "Interstate",
-  "Energy"]`, `["Permanent", "Remote-AU", "FS"]`. Engagement-type ∈ {Board, Interim,
-  Contract, Fixed-term, Permanent}.
+  then sector — e.g. `["Interim", "Sydney", "Insurance"]`, `["Board", "Sydney", "Energy"]`,
+  `["Permanent", "Sydney", "FS"]`. Engagement-type ∈ {Board, Interim, Contract, Fixed-term,
+  Permanent}. Since §3 admits Sydney only, the region tag is always `Sydney` — an item
+  tagged `Interstate`, `Remote-AU` or a regional location is a filter failure, not a valid
+  entry.
 
 ---
 
@@ -249,6 +281,10 @@ Only **plain** *Manager*-level roles (no Senior/Head of/Group qualifier) are cap
 - **Deduplicate** across sources and against the previous 3 days (same org + title + level
   = one item; keep the most direct source). The 14:00 run refreshes the same day's file in
   place — carry forward still-live morning items, add anything new, drop expired ones.
+- **Apply the §3 Sydney-only location rule and the §1g 7-day recency window last**, after
+  verification and dedupe: drop every item that is not based in Sydney metro (remote and
+  hybrid do not rescue a non-Sydney role, and board/NED get no exception), and every item
+  whose listing date is older than `TODAY − 7 days` — carried-forward items included.
 - Never fabricate. Every item needs a real source + working URL. Empty category → omit or
   show empty; an empty day → publish empty sections and say so in `summary`.
 
