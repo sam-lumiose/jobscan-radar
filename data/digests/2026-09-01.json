@@ -1,0 +1,2538 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T04:31:23.025017+10:00",
+  "posture": "166 live Sydney roles listed in the last 7 days - 50 strong-act - 24 interim, contract or fixed-term leads - 5 board and governance seats. Morning run: every one of the 134 roles carried in from yesterday was re-opened in Chrome and still resolved to a live posting, 37 aged out of the 7-day window, and 32 newly listed Chrome-verified roles were added. Best find: General Manager Intelligence - Economic Crime Risk at Commonwealth Bank, posted this morning.",
+  "summary": "Recency window is 2026-08-25 to 2026-09-01 inclusive (7 days, Australia/Sydney); 37 items from yesterday's file aged out and were dropped. Commonwealth Bank posted four financial-crime and risk leadership roles in a single batch this morning, which is the clearest signal of the day, and ASX added a senior manager resilience role - both sit squarely on your risk and assurance line. Finance is broad but mostly plain manager grade; the exceptions worth acting on are the Senior Finance Manager at The Living Company, the Manitou financial controller seat and the Lanson Partners strategic finance and treasury role. Interim supply stayed thin: only a six-month interim CEO in aged care and a contract corporate development seat surfaced publicly, which is the usual pattern - the specialist risk and finance recruiters (Bluefin, Kaizen, JS Careers, KPP, Robert Half, Sharp & Carter, Lanson) fill most day-rate work off-market, so being registered and CV-current with them matters more than any listing here. Browser-verified this run: Seek (full Sydney-scoped query battery plus the national board-appointments subclassification), every carried-forward deep link, I Work for NSW (all-jobs listing sorted newest-first), Bluefin Resources, Sharp & Carter, Kaizen Recruitment and Board Direction. Board Direction showed two NSW vacancies published 29 August but withholds the organisation and a Sydney-specific location behind membership, so neither could be logged; the AICD Directorship Opportunities platform served no public teasers this run and remains member-gated. Coverage is a sample, not a census - a manual look at the recruiter sites and AICD is still worthwhile.",
+  "counts": {
+    "act": 50,
+    "watch": 72,
+    "inform": 44
+  },
+  "sections": [
+    {
+      "category": "Interim, Contract & Advisory",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Interim CEO, six-month contract — aged care provider via Aged Care Recruitment Experts, Sydney",
+          "summary": "A Sydney aged-care operator is bringing in a chief executive on a defined six-month engagement while it works through a leadership gap.",
+          "so_what": "A rare Sydney-based interim CEO seat and exactly the kind of short-term executive work you want on the radar; recruiter-held, so contact them today.",
+          "tags": [
+            "Interim",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / Aged Care Recruitment Experts",
+          "url": "https://au.seek.com/job/94182736",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Director / Associate Director, Corporate Development & Investments — via Adecco, Sydney (contract)",
+          "summary": "A day-rate corporate development and investments role covering transaction analysis and portfolio work for a Sydney client of Adecco.",
+          "so_what": "Contract engagement at director level with a finance/strategy core; worth a call, though the deal-execution slant is a step sideways from your risk and governance base.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Adecco",
+          "url": "https://au.seek.com/job/94313361",
+          "published": "2026-09-01",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Risk, Compliance & Assurance",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "General Manager, Intelligence — Economic Crime Risk, Commonwealth Bank, Sydney",
+          "summary": "Leads the intelligence function inside CBA's economic and financial crime risk group, setting direction for threat assessment and reporting to executive risk forums.",
+          "so_what": "General-manager level in a pure financial-crime risk domain and a clear step up from senior manager; strong fit for your risk and assurance record — apply today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Commonwealth Bank",
+          "url": "https://au.seek.com/job/94303020",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Resilience Culture & Capability Lead — ASX, Sydney (hybrid)",
+          "summary": "Builds operational-resilience capability and culture across ASX, covering frameworks, training and business engagement under the regulatory resilience agenda.",
+          "so_what": "Senior manager in operational resilience at a market-infrastructure operator — directly on your risk/governance line and a sector with strong board optics. Move quickly.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / ASX",
+          "url": "https://au.seek.com/job/94315683",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Executive Manager, Crew Lead — Financial Crime Domain (Assisted Investigations), Commonwealth Bank, Eveleigh",
+          "summary": "Runs a delivery crew inside CBA's financial crime domain focused on assisted investigations, blending team leadership with control uplift.",
+          "so_what": "Executive-manager grade with financial-crime ownership; one of three CBA financial-crime leadership roles posted together, so the domain is hiring at pace.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Commonwealth Bank",
+          "url": "https://au.seek.com/job/94310935",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Executive Manager, Financial Crime Domain (Perpetual KYC) — Commonwealth Bank, Eveleigh",
+          "summary": "Owns the perpetual know-your-customer capability within CBA's financial crime domain, covering process design, controls and regulatory expectations.",
+          "so_what": "KYC ownership at executive-manager level is a compliance-leadership seat with obvious transferability; apply alongside the sibling CBA roles.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Commonwealth Bank",
+          "url": "https://au.seek.com/job/94310937",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Executive Manager, Financial Crime Domain (Customer Monitoring) — Commonwealth Bank, Eveleigh",
+          "summary": "Leads customer transaction monitoring within CBA's financial crime domain, including detection tuning and alert management.",
+          "so_what": "Third of the CBA financial-crime executive-manager roles listed today; monitoring is the most control-heavy of the set and the closest to your assurance background.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Commonwealth Bank",
+          "url": "https://au.seek.com/job/94310942",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Manager / Senior Manager, Security & Privacy — RSM Australia, Sydney",
+          "summary": "Advisory role in RSM's security and privacy practice, delivering privacy assessments, control reviews and client-facing risk work.",
+          "so_what": "Advertised at senior-manager level in a professional-services risk practice — a good route to broad sector exposure and useful board-adjacent credibility.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional services"
+          ],
+          "source": "Seek / RSM Australia",
+          "url": "https://au.seek.com/job/94306320",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Head of Risk Governance & Frameworks — Rabobank, Sydney CBD (hybrid)",
+          "summary": "Rabobank's Australian arm is hiring a permanent, full-time leader to own its risk governance architecture and frameworks from the Sydney CBD office on a hybrid pattern.",
+          "so_what": "A textbook 'Head of' risk-governance seat in a specialist food and agribusiness bank — squarely on your enterprise-risk and governance line, and listed only hours ago, so you are ahead of the field.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Rabobank",
+          "url": "https://au.seek.com/job/94298923",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Risk Assurance — Internal Audit, major Australian financial services group, via Oxygen Recruitment & HR, Sydney",
+          "summary": "A recruiter-held senior manager role leading risk assurance and internal audit work inside a large diversified Australian financial services business.",
+          "so_what": "Senior Manager is your own level and risk assurance/internal audit is core to your FCPA background; it is a quick-apply recruiter listing posted this morning, so contact them today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Oxygen Recruitment & HR",
+          "url": "https://au.seek.com/job/94297678",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager Risk (fixed term to March 2028) — Sydney Metro, Sydney City",
+          "summary": "Leads the risk management function across Sydney Metro's major infrastructure delivery packages, giving strategic risk advice to project directors and senior executives.",
+          "so_what": "Senior Manager in enterprise/project risk with a government infrastructure agency — squarely your level and function, and the long fixed term gives the security of a permanent seat. Posted in the last day; applications close 15 September.",
+          "tags": [
+            "Fixed-term",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW / Sydney Metro",
+          "url": "https://iworkfor.nsw.gov.au/job/senior-manager-risk-temporary-opportunity-up-to-18-months-597447",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Technology Risk — Commonwealth Bank, Sydney",
+          "summary": "CommBank is hiring a senior manager to provide technology risk advice and oversight, partnering with business teams to identify and manage critical risks.",
+          "so_what": "Senior Manager in technology risk lines up your software engineering degree with your risk career — a core-target role at a tier-one bank.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Commonwealth Bank",
+          "url": "https://au.seek.com/job/94256244",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager - Line 2 Operational Risk (Product) - Commonwealth Bank, Sydney",
+          "summary": "Second-line operational risk role in CBA's Business Bank, providing oversight and challenge across business activities, processes and product.",
+          "so_what": "Core target: senior manager, second-line operational risk, major bank. Your FCPA plus enterprise risk background maps cleanly onto Line 2 product oversight.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94265047",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Line 1 Risk - Home Buying - Commonwealth Bank, Sydney (Eveleigh)",
+          "summary": "First-line risk leadership inside CBA's Retail Banking Services home buying business.",
+          "so_what": "Another senior-manager risk seat at CBA and a genuine level match. First-line risk in a large lending book suits your operational risk and controls experience.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94265661",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Fraud and Financial Crime Senior Risk Manager - AMP, Sydney",
+          "summary": "Senior risk manager role owning fraud and financial crime risk within AMP's risk function.",
+          "so_what": "Senior-manager level in a financial services risk team - a strong direct match, and financial crime is a durable specialisation to add alongside your insurance and mutual background.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94270428",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Practice and Compliance - Sylvanvale, Sutherland (Sydney)",
+          "summary": "Disability services provider Sylvanvale is appointing a senior manager to lead practice quality and compliance across its supported-independence services.",
+          "so_what": "Senior manager, compliance, Sydney south - a direct level and function match, and the NDIS regulatory environment rewards someone who already reads a compliance framework the way you do.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94263905",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Operational Risk Senior Manager - Commonwealth Bank, Sydney",
+          "summary": "Senior manager position within CBA's Risk Management function, contributing to the frameworks that govern the bank's credit, market and operational exposures.",
+          "so_what": "Enterprise-level operational risk at senior-manager grade. Straight down the middle of your target - and CBA has three of these live at once, so the function is clearly building.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94265006",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager / Manager, Financial Crime Investigations (crypto) — 12-month contract via Bluefin Resources, Sydney",
+          "summary": "A global advisory firm needs an investigations lead for a major crypto and digital assets client engagement, on a 12-month contract paying $700-$1,000 per day.",
+          "so_what": "This is exactly the recruiter-held day-rate work the radar exists to catch: senior-manager level, strong rate, and Bluefin is a §1a risk specialist. Contact them today.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Bluefin Resources",
+          "url": "https://au.seek.com/job/94236115",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Risk and Controls — Commonwealth Bank, Sydney",
+          "summary": "A senior manager position in CommBank's risk and controls function, covering control design and risk oversight.",
+          "so_what": "Direct senior-manager risk match in financial services; pair the application with the technology risk role above at the same employer.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Commonwealth Bank",
+          "url": "https://au.seek.com/job/94241597",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Compliance Manager — contract role via Peoplebank, Sydney",
+          "summary": "A senior compliance manager engagement offered on a contract/temp basis through recruiter Peoplebank.",
+          "so_what": "Senior-manager compliance on a day-rate basis; contract compliance roles fill fast, so register interest immediately.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Peoplebank",
+          "url": "https://au.seek.com/job/94235929",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Director, Enterprise Strategy, Risk and Governance — Department of Communities and Justice, Parramatta",
+          "summary": "DCJ is recruiting a director to lead enterprise strategy, risk and governance across the department.",
+          "so_what": "Director-level, combines all three of your functional strengths, and NSW government is a target sector — one of the strongest matches on the board today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / Department of Communities and Justice",
+          "url": "https://au.seek.com/job/94192096",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Director — Operational Risk & Compliance, via Ethos BeathChapman, Sydney",
+          "summary": "A search firm is recruiting a director-level operational risk and compliance leader for a client, with parallel listings in other capitals suggesting a national function.",
+          "so_what": "Director-level second-line risk in Sydney is a direct hit on your profile, and recruiter-held director mandates are usually filled from the first shortlist. Contact the consultant today rather than applying cold.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Ethos BeathChapman",
+          "url": "https://au.seek.com/job/94181447",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Manager, Financial Security — BNP Paribas, Sydney (six-month temporary)",
+          "summary": "A defined six-month compliance engagement covering financial security obligations — sanctions, AML and related monitoring — for BNP Paribas in Sydney.",
+          "so_what": "Plain manager level so it caps at watch, but the contract shape and banking compliance content make it a quick, low-friction conversation.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / BNP Paribas",
+          "url": "https://au.seek.com/job/94314123",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Manager, Risk and Control Advisory — The Hollard Insurance Company, North Sydney (hybrid)",
+          "summary": "Second-line advisory role supporting Hollard's business units on risk identification, control design and assurance activity.",
+          "so_what": "Insurance and mutual sectors are your strongest ground and the function fits precisely; level is plain manager, so treat it as a fallback rather than a target.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Seek / The Hollard Insurance Company",
+          "url": "https://au.seek.com/job/94312074",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Lead, financial services platform — via Kaizen Recruitment, Sydney (hybrid)",
+          "summary": "Kaizen is recruiting a compliance lead for a growing Australian investment, wealth and superannuation platform, advertised at up to about $165k including super.",
+          "so_what": "Kaizen is one of the risk and compliance specialists worth being registered with; the level sits a notch below your target band, so treat it as a relationship opener as much as an application.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Superannuation"
+          ],
+          "source": "Seek / Kaizen Recruitment",
+          "url": "https://au.seek.com/job/94295852",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Operational Risk Manager — general insurer, via Ethos BeathChapman, Sydney (hybrid)",
+          "summary": "Ethos BeathChapman is appointing an operational risk manager into the risk function of a well-known general insurer.",
+          "so_what": "Insurance and mutual risk is your strongest sector, but this is a plain Manager title, so it reads as a step sideways rather than up — useful for the recruiter relationship.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Seek / Ethos BeathChapman",
+          "url": "https://au.seek.com/job/94297010",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Manager — Greenstone Financial Services, Bella Vista, Sydney (hybrid)",
+          "summary": "An in-house compliance manager role in the compliance team of a Sydney-based insurance distribution and financial services group, with an onsite gym and cafe among the listed benefits.",
+          "so_what": "Solid function and sector fit in north-west Sydney, but a plain Manager level — worth a look only if you want a shorter commute and a hands-on compliance seat.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Seek / Greenstone Financial Services",
+          "url": "https://au.seek.com/job/94297043",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Risk Manager (contract/temporary) — Sydney Metro, Sydney City",
+          "summary": "Project risk role on Australia's largest public transport program, covering quantitative risk analysis, contingency planning and interface management alongside delivery and engineering teams.",
+          "so_what": "Same agency and team as the Senior Manager Risk post above, one rung lower — worth a look as a fallback or a way in, though plain Manager level caps it below your tier. Closes 14 September.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW / Sydney Metro",
+          "url": "https://iworkfor.nsw.gov.au/job/risk-manager-597448",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Manager — franchise network, Sydney",
+          "summary": "A national franchise group wants a compliance manager to cover compliance, governance and business-improvement work, with flexibility built into the role.",
+          "so_what": "Function fits and the breadth is appealing, but it is Manager-level in a sector outside your core — keep it as a fallback rather than a first move.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Franchise"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94261761",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Operational Risk and Resilience Consultant — Commonwealth Superannuation Corporation, Sydney or Canberra",
+          "summary": "CSC is recruiting a consultant to help shape the strategic direction and practical oversight of its operational risk and resilience frameworks.",
+          "so_what": "Superannuation plus operational resilience is a good functional fit, but 'consultant' pitches below your senior-manager level — treat as a fallback.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Superannuation"
+          ],
+          "source": "Seek / Commonwealth Superannuation Corporation",
+          "url": "https://au.seek.com/job/94258614",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Manager, Supplier Risk and Controls - Commonwealth Bank, Sydney",
+          "summary": "CBA is hiring a manager to oversee supplier risk and the controls that sit around its third-party arrangements.",
+          "so_what": "Third-party risk is a growing discipline and the sector fit is good, but the plain manager title puts it a notch below your level - keep it as a fallback.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94267368",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Transformation Assurance Manager (Project Control) - Australian Retirement Trust, Sydney",
+          "summary": "A large superannuation fund is appointing a change assurance manager to strengthen how it controls and assures its transformation portfolio.",
+          "so_what": "Assurance over a transformation portfolio in super - close to your assurance and governance experience, and superannuation is a listed sector of interest.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Superannuation"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94267236",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Manager, Risk & Compliance Initiatives - CBUS Super, Sydney",
+          "summary": "Cbus is hiring a manager to support the build-out and running of its risk and compliance frameworks, processes and capability.",
+          "so_what": "Superannuation risk and compliance is squarely in your sector set; the constraint is the plain manager title, which caps this at a watch.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Superannuation"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94280355",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Manager, Risk Management (Line 2 Compliance) — KPMG, Sydney",
+          "summary": "KPMG is adding a second-line compliance manager to its internal risk management team, working across the firm's own compliance obligations rather than on client engagements.",
+          "so_what": "Second-line compliance in a Big Four firm is squarely in your function, but it is a plain Manager title so it sits a notch below your level — worth a conversation rather than a priority application.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional Services"
+          ],
+          "source": "Seek / KPMG",
+          "url": "https://au.seek.com/job/94260621",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Risk Executive, Retail & Leisure portfolio — Commonwealth Bank, Sydney",
+          "summary": "Credit risk management role inside CBA's business bank, supporting growth across retail, entertainment, leisure and tourism clients.",
+          "so_what": "Bank-side risk leadership in your target financial-services sector; the credit specialism is a partial stretch from your enterprise/operational risk base, so treat it as a judgement call.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Commonwealth Bank",
+          "url": "https://au.seek.com/job/94265697",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Manager, Product and Services Risk — Australian Retirement Trust, Sydney",
+          "summary": "Risk oversight for the fund's product and services portfolio, influencing strategic decisions and second-line challenge across the business.",
+          "so_what": "Superannuation is a strong sector fit and the mandate is genuine second-line risk oversight, but the plain Manager title keeps this below your level — a fallback rather than a target.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Superannuation"
+          ],
+          "source": "Seek / Australian Retirement Trust",
+          "url": "https://au.seek.com/job/94265990",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Risk Enablement Manager (Business) — ubank, Bondi",
+          "summary": "ubank is hiring a risk enablement manager to support business teams with risk frameworks and advice.",
+          "so_what": "Plain manager level so capped below act, but digital banking risk is a relevant adjacency if you want a hands-on operating role.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / ubank",
+          "url": "https://au.seek.com/job/94246831",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "AML/CTF Manager — via Profusion PAC, Sydney",
+          "summary": "A financial crime compliance manager role covering anti-money laundering and counter-terrorism financing obligations.",
+          "so_what": "Manager-level financial crime compliance; relevant to your compliance track but below the level you should be targeting.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Profusion PAC",
+          "url": "https://au.seek.com/job/94240801",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Grants & Governance Manager — HammondCare, St Leonards",
+          "summary": "HammondCare is recruiting a manager to oversee grants administration and associated governance.",
+          "so_what": "Governance function in a Sydney not-for-profit; manager level and narrow scope, so a watch rather than a priority.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / HammondCare",
+          "url": "https://au.seek.com/job/94240354",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Operations Risk Manager — CBRE Advisory, Sydney",
+          "summary": "CBRE is hiring an operations risk manager within its advisory business.",
+          "so_what": "Operational risk in property services; manager level, sector outside your core, but the function is a clean match.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Property"
+          ],
+          "source": "Seek / CBRE Advisory",
+          "url": "https://au.seek.com/job/94237196",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Privacy Manager — global insurer, Sydney (via Bluefin Resources)",
+          "summary": "A global insurance and financial services group is recruiting a privacy manager to run its privacy framework and policies, advise the business, handle privacy risk assessments and incidents, and partner with legal, risk, compliance and technology. Advertised at roughly $130,000–$140,000.",
+          "so_what": "Insurance is one of your strongest sectors and Bluefin is a risk-and-compliance specialist worth being current with — the Manager title caps it below your level, so treat it as a recruiter relationship play as much as an application.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Bluefin Resources",
+          "url": "https://www.bluefinresources.com.au/jobview/privacy-manager/e23b5c30-8aea-41f0-9243-3a3c643c98e6/",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Information Advisory & Compliance Manager — Sydney Metro (long-term temporary)",
+          "summary": "Sydney Metro is recruiting an information advisory and compliance manager on a temporary engagement running to mid-2032.",
+          "so_what": "Effectively a long fixed-term role in a government infrastructure agency; manager-level so lower priority, but the security of tenure is unusual.",
+          "tags": [
+            "Fixed-term",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW / Sydney Metro",
+          "url": "https://iworkfor.nsw.gov.au/job/information-advisory-compliance-manager-temporary-opportunity-up-to-30-06-2032-597025",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Project Risk Lead — Transport for NSW",
+          "summary": "Transport for NSW is hiring a project risk lead to support risk management across its delivery portfolio.",
+          "so_what": "Risk function in a target government sector; level looks below your ceiling but the infrastructure risk exposure is useful.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW / Transport for NSW",
+          "url": "https://iworkfor.nsw.gov.au/job/project-risk-lead-596859",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Compliance Manager (contract) - non-bank lender via Robert Half, Sydney",
+          "summary": "A non-bank lender is engaging a compliance manager on contract, hybrid in Sydney, reporting into the head of compliance and general counsel.",
+          "so_what": "Recruiter-held contract in a regulated lender - the speed-critical kind. Capped at watch only because it is a plain manager title; the fit itself is strong, so call Robert Half early.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94204508",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Risk Manager (contract) - non-bank lender via Robert Half, Sydney",
+          "summary": "The same non-bank lender is also engaging a risk manager on contract, hybrid in Sydney, reporting to the chief risk officer.",
+          "so_what": "Sits beside the compliance contract above and comes from the same recruiter, so one conversation covers both. Day-rate risk work with a direct line to the CRO.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94205407",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Governance & Information Lead — via Hays Policy & Strategy, Parramatta",
+          "summary": "Hays is recruiting a governance and information lead for a Western Sydney based organisation.",
+          "so_what": "Governance function and Sydney location both fit; the 'lead' framing suggests senior-manager scope, worth a conversation with the recruiter.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / Hays",
+          "url": "https://au.seek.com/job/94190334",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Risk Assurance Manager — Financial Crime, via Talent, Sydney",
+          "summary": "A recruiter is engaged on a risk assurance manager role focused on financial crime controls testing and assurance.",
+          "so_what": "Plain manager level so it sits below your target band, but financial-crime assurance is a growth area and the recruiter relationship is worth opening even if this specific role is light.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Talent",
+          "url": "https://au.seek.com/job/94186537",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Manager, Corporate Advisory & Assurance — via Talent, Sydney",
+          "summary": "A corporate advisory and assurance manager role covering internal advisory, control review and assurance reporting, held by a recruiter.",
+          "so_what": "Manager-level and therefore lower priority, but the advisory-plus-assurance mix maps neatly onto your background. Treat it as a route into the recruiter's senior desk.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional Services"
+          ],
+          "source": "Seek / Talent",
+          "url": "https://au.seek.com/job/94186558",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "IT Governance & Operations Manager (part time) — Butterfly Foundation, Crows Nest (Sydney)",
+          "summary": "A national mental-health NFP is recruiting a part-time manager to run IT governance and technology operations.",
+          "so_what": "Technology governance in an NFP is an unusual combination of your software engineering and governance credentials, and part-time hours could sit alongside board work. Manager level, so lower priority.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / Butterfly Foundation",
+          "url": "https://au.seek.com/job/94182385",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Quality & Compliance Manager, NSW & Queensland — early childhood provider via Earlyhood, Sydney",
+          "summary": "Quality and regulatory compliance leadership for a growing early childhood education group operating across NSW and Queensland.",
+          "so_what": "Plain Manager level in a sector outside your strengths, and the remit spans two states — noted for completeness rather than as a target.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Education"
+          ],
+          "source": "Seek / Earlyhood Executive Recruitment",
+          "url": "https://au.seek.com/job/94297447",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Quality and Compliance Lead, Community Aged Care — Montefiore, Randwick (12-month contract)",
+          "summary": "Newly created 12-month contract role in Montefiore's quality and compliance team, focused on community aged care standards.",
+          "so_what": "A fixed-term compliance engagement in Sydney's east; aged-care quality is adjacent to rather than inside your assurance background, so awareness only.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Aged care"
+          ],
+          "source": "Seek / Montefiore",
+          "url": "https://au.seek.com/job/94299819",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Quality Assurance Manager — Ausgreen Solar Solutions, Bankstown",
+          "summary": "Manages quality assurance and compliance processes for a Sydney solar installation business.",
+          "so_what": "Renewables sector affinity is there, but the role is operational QA rather than enterprise risk — awareness only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Energy"
+          ],
+          "source": "Seek / Ausgreen Solar Solutions",
+          "url": "https://au.seek.com/job/94293769",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Governance & Compliance Specialist — Homebush, Sydney",
+          "summary": "A specialist role strengthening program governance, performance assurance and compliance across a delivery portfolio.",
+          "so_what": "Right function and right city, but specialist level is well below where you sit — useful only as a read on what governance work is being funded locally.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Infrastructure"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94257053",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Privacy Lead — via Ethos BeathChapman, Sydney",
+          "summary": "A privacy lead role being recruited through executive search firm Ethos BeathChapman.",
+          "so_what": "Privacy is a narrow compliance specialism; peripheral to your profile unless the organisation is a strong sector fit.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Ethos BeathChapman",
+          "url": "https://au.seek.com/job/94259048",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Assistant Treasury Manager / Treasury Manager, Liquidity Risk — Bank of China, Sydney",
+          "summary": "Bank of China's Sydney branch is recruiting into its treasury function with a focus on liquidity risk management.",
+          "so_what": "Technical treasury risk role pitched at or below manager level — below target, listed for market awareness.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Bank of China",
+          "url": "https://au.seek.com/job/94258033",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Risk Manager, Credit Risk Portfolio Management — Bank of China, Sydney",
+          "summary": "A credit risk portfolio management position at Bank of China, advertised at assistant manager to manager level.",
+          "so_what": "Plain manager level and a specialist credit risk focus; peripheral to your enterprise risk and governance profile.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Bank of China",
+          "url": "https://au.seek.com/job/94256863",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Senior Controls Assurance & Analytics Advisor - NSW Department of Customer Service, Parramatta",
+          "summary": "An ongoing clerk grade 9/10 advisory role in controls assurance and analytics, hybrid from Parramatta.",
+          "so_what": "Advisor grade sits below your target, but it confirms NSW government is resourcing controls assurance - the director-level equivalents in the same cluster are worth watching.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94270723",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Director, Global Security APAC — Johnson & Johnson, Macquarie Park/Ryde",
+          "summary": "Regional leadership for security strategy, operations and security risk management across Asia-Pacific and China.",
+          "so_what": "Director-level and risk-adjacent, but the discipline is corporate/physical security rather than enterprise risk or compliance — situational awareness only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Healthcare"
+          ],
+          "source": "Seek / Johnson & Johnson",
+          "url": "https://au.seek.com/job/94280118",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Privacy and Compliance Specialist — public sector client via Peoplebank, Sydney (6-month contract)",
+          "summary": "Urgent six-month contract supporting a NSW public sector organisation's privacy and compliance obligations, Sydney-based with hybrid working.",
+          "so_what": "Below your level as a specialist role, but it is a day-rate compliance engagement in government with an immediate start — useful if you want contracting cadence quickly.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / Peoplebank",
+          "url": "https://au.seek.com/job/94280061",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Senior Project Officer, Statutory Compliance — NSW Dept of Climate Change, Energy, the Environment & Water, Parramatta",
+          "summary": "Statutory compliance project role within the NSW environment and energy portfolio.",
+          "so_what": "Energy/environment is a sector strength and the compliance function fits, but Senior Project Officer sits well below your level — awareness only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / NSW DCCEEW",
+          "url": "https://au.seek.com/job/94266352",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Senior AML/CTF Compliance Officer — Wests Group Macarthur, Leumeah",
+          "summary": "Financial crime compliance role covering AML/CTF obligations for a growing registered clubs group in south-west Sydney.",
+          "so_what": "Genuine AML/CTF compliance content in a regulated environment, but Officer level and a club-sector employer put it below your target — awareness only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Clubs"
+          ],
+          "source": "Seek / Wests Group Macarthur",
+          "url": "https://au.seek.com/job/94271050",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Governance Specialist — Uniting NSW & ACT, Parramatta",
+          "summary": "A newly created permanent governance specialist role in a team of sixteen, with three days a week in the Parramatta office.",
+          "so_what": "Specialist rather than manager level, so below target — noted because the governance function and NFP sector are otherwise a fit.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / Uniting NSW & ACT",
+          "url": "https://au.seek.com/job/94247365",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Cyber GRC Lead — CreditorWatch, Sydney",
+          "summary": "CreditorWatch is recruiting a cyber governance, risk and compliance lead.",
+          "so_what": "Cyber GRC is adjacent to your risk and IT background but this sits below senior-manager scope.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Technology"
+          ],
+          "source": "Seek / CreditorWatch",
+          "url": "https://au.seek.com/job/94250545",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Risk & Compliance role — Dentons, Sydney",
+          "summary": "Global law firm Dentons is advertising a risk and compliance position in its Sydney office.",
+          "so_what": "Professional-services risk and compliance; the advertisement does not make the level clear, so treat as awareness only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Legal"
+          ],
+          "source": "Seek / Dentons",
+          "url": "https://au.seek.com/job/94242683",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Senior Advisor, Governance — Department of Customer Service, Sydney",
+          "summary": "A second senior advisor governance vacancy at the NSW Department of Customer Service.",
+          "so_what": "Advisor grade sits below your level; useful mainly as a signal that DCS is building out its governance team.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW / Department of Customer Service",
+          "url": "https://iworkfor.nsw.gov.au/job/senior-advisor-governance-596334",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Quality & Compliance Manager — Tank Vision, St Marys (Sydney)",
+          "summary": "A western-Sydney manufacturer is recruiting a manager to own quality systems and regulatory compliance.",
+          "so_what": "Manufacturing quality compliance is adjacent to, rather than inside, your functions, and the level is below target. Awareness only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Manufacturing"
+          ],
+          "source": "Seek / Tank Vision",
+          "url": "https://au.seek.com/job/94180113",
+          "published": "2026-08-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Finance & Accounting",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Senior Finance Manager (Core Fund) — The Living Company, Sydney",
+          "summary": "Senior finance leadership over a core investment fund, covering reporting, controls and business partnering with the investment team.",
+          "so_what": "Senior manager in funds finance is squarely your level and pairs your CPA background with the governance discipline funds work demands.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Funds"
+          ],
+          "source": "Seek / The Living Company",
+          "url": "https://au.seek.com/job/94310086",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Financial Controller — Manitou Australia, Rosehill (Sydney)",
+          "summary": "Owns the finance function for the Australian arm of an equipment manufacturer, from statutory reporting through to controls and compliance.",
+          "so_what": "A standalone controller seat with genuine control ownership; listed this morning, so you are early in the queue.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Manufacturing"
+          ],
+          "source": "Seek / Manitou Australia",
+          "url": "https://au.seek.com/job/94316409",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Director, Financial Control & Procurement — NSW Premier's Department, Sydney",
+          "summary": "A senior NSW government role owning financial control and procurement strategy for the central agency that coordinates the state's policy and delivery work.",
+          "so_what": "Government finance leadership at director level plays directly to your public-sector and CPA credentials, and central-agency exposure is unusually good board-CV material.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / Premier's Department",
+          "url": "https://au.seek.com/job/94296745",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Finance Manager — Wabtec Australia, Rydalmere, Sydney (hybrid)",
+          "summary": "A permanent senior finance manager position with the Australian arm of a Fortune 500 rail technology and manufacturing group, offered with a bonus plan and hybrid working.",
+          "so_what": "Senior Manager is a core-target level for you and this is a listed multinational with real scale — apply while it is still hours old.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Industrial"
+          ],
+          "source": "Seek / Wabtec Australia",
+          "url": "https://au.seek.com/job/94297859",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Associate Director, Settlements & Reconciliation Governance — Optus, Sydney",
+          "summary": "Optus is hiring an associate director to run governance over billing settlements and reconciliation, covering financial integrity, regulatory compliance and the operating discipline behind it.",
+          "so_what": "A rare role that sits exactly on the finance-plus-governance seam you occupy, at director level in a large listed telco in Sydney — strong direct match, worth moving on today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Telecommunications"
+          ],
+          "source": "Seek / Optus",
+          "url": "https://au.seek.com/job/94260650",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Head of Financial Planning & Analysis — ASX100 organisation via Lawson Elliott, North Sydney ($230-240k + super)",
+          "summary": "A head of FP&A role leading enterprise-wide planning, forecasting and performance management for an ASX100 business going through transformation.",
+          "so_what": "'Head of' finance leadership at ASX100 scale with a stated $230-240k package — a strong, well-paid direct match to your FCPA background. Apply today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "ASX"
+          ],
+          "source": "Seek / Lawson Elliott Recruitment",
+          "url": "https://au.seek.com/job/94260096",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Finance Transformation Lead — NSW government contract via Randstad, Parramatta ($1,000-1,150/day)",
+          "summary": "A temporary contract engagement leading finance transformation work for a NSW government client based in Parramatta.",
+          "so_what": "Day-rate finance transformation in your target government sector at over $1,000 a day; contract roles at this rate get filled fast, so contact Randstad immediately.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / Randstad",
+          "url": "https://au.seek.com/job/94260088",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Director, Financial Operations — Nearmap, Barangaroo",
+          "summary": "Reporting to the VP Finance & Strategy, this director role owns the finance operations engine room including payroll and global accounts payable.",
+          "so_what": "Director-level finance operations ownership at a listed-scale technology business; a clean fit for your accounting and operations mix.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Technology"
+          ],
+          "source": "Seek / Nearmap",
+          "url": "https://au.seek.com/job/94255571",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Financial Controller — private equity backed business via Highbury Executive Talent, Sydney",
+          "summary": "A financial controller position described as a number-two role in a fast-growing private equity backed business, with a path toward the CFO seat.",
+          "so_what": "Financial controller is an explicit target title and the CFO succession framing makes this more than a technical accounting role.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "PE"
+          ],
+          "source": "Seek / Highbury Executive Talent",
+          "url": "https://au.seek.com/job/94255808",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Strategic Finance and Treasury Manager — via Lanson Partners, Sydney (hybrid)",
+          "summary": "Combines strategic finance and treasury responsibility — funding, liquidity and capital planning — for a Sydney client of Lanson Partners.",
+          "so_what": "Lanson Partners is one of the specialist finance and risk recruiters on your register; treasury plus strategic finance is a strong credential add. Call them.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Lanson Partners",
+          "url": "https://au.seek.com/job/94223991",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Commercial Finance - Residential Development NSW (contract) - Mirvac, Sydney",
+          "summary": "Mirvac is hiring a senior commercial finance manager on a fixed contract to support its NSW residential development portfolio.",
+          "so_what": "Senior-manager level, Sydney, contract engagement with a listed property group - a direct match to your finance leadership background and the kind of day-rate role that fills quickly.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Property"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94228146",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Financial Controller (temporary, $160-180k) - technology infrastructure scale-up via Perigon, Sydney",
+          "summary": "A growing technology infrastructure business is bringing in a temporary financial controller reporting to the CFO through a period of growth.",
+          "so_what": "Recruiter-held temporary controller role at a scale-up - exactly the interim shape you want, and temp controller mandates are usually filled from the first few candidates. Contact Perigon today.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Technology"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94235370",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Finance Manager — private-equity-backed fintech, via Allura Partners, Sydney",
+          "summary": "Allura Partners is recruiting a senior finance manager for a PE-backed financial technology business in Sydney.",
+          "so_what": "Senior Finance Manager is a direct level match, and PE-backed fintech gives you the reporting discipline and board exposure that reads well for future NED work. Move early on recruiter-held roles.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Allura Partners",
+          "url": "https://au.seek.com/job/94186199",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Financial Reporting Manager — BNP Paribas, Sydney",
+          "summary": "Runs statutory and regulatory financial reporting for BNP Paribas' Australian operations.",
+          "so_what": "Banking reporting with a regulatory edge suits your accounting depth; plain manager level keeps it at watch.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / BNP Paribas",
+          "url": "https://au.seek.com/job/94314121",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Commercial Finance Manager — McDonald's, Thornleigh (Sydney, hybrid)",
+          "summary": "Commercial finance business partnering across a large franchised retail network, covering planning, analysis and performance.",
+          "so_what": "Well-known brand and solid commercial finance content, but plain manager level and no risk or governance component.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Retail"
+          ],
+          "source": "Seek / McDonald's",
+          "url": "https://au.seek.com/job/94304277",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Business Finance Manager — Tate APAC, Parramatta",
+          "summary": "Finance lead for the APAC business of a building-products manufacturer, based in Parramatta.",
+          "so_what": "Greater West location and a broad finance remit; manager level, so a secondary option.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Manufacturing"
+          ],
+          "source": "Seek / Tate APAC",
+          "url": "https://au.seek.com/job/94305821",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager — Paylater Travel, Surry Hills (hybrid)",
+          "summary": "Finance ownership in a growth-stage travel fintech, spanning reporting, cash management and process build-out.",
+          "so_what": "Fintech scale-up work would broaden your sector mix; the level and the early-stage risk profile keep it at watch.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Fintech"
+          ],
+          "source": "Seek / Paylater Travel",
+          "url": "https://au.seek.com/job/94309226",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager, ANZ — Environmental Resources Management, Sydney",
+          "summary": "Regional finance management for a global environmental and sustainability consultancy.",
+          "so_what": "Your environmental law background is an unusual and genuine differentiator here; plain manager level caps the tier.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional services"
+          ],
+          "source": "Seek / Environmental Resources Management",
+          "url": "https://au.seek.com/job/94316422",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager — JLL, Sydney",
+          "summary": "Finance management within JLL's Australian property services business.",
+          "so_what": "Large, well-governed multinational with clear progression; function fit is good, level is a notch below target.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Property"
+          ],
+          "source": "Seek / JLL",
+          "url": "https://au.seek.com/job/94316707",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Business Services Manager / Senior Manager — via Hart Recruitment, Sydney (hybrid)",
+          "summary": "Client-facing business services and advisory leadership in a Sydney accounting practice, advertised across manager and senior manager grades.",
+          "so_what": "Advertised to senior manager, so it clears the level bar; public-practice advisory is a sideways move from in-house risk and governance.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional services"
+          ],
+          "source": "Seek / Hart Recruitment",
+          "url": "https://au.seek.com/job/94308393",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager — fast-growing commercial business, via Allura Partners, Rozelle, Sydney (hybrid)",
+          "summary": "Allura Partners is recruiting a finance manager to own the finance function of a market-leading business that is scaling quickly.",
+          "so_what": "Full ownership of a finance function is attractive, but the plain Manager title caps this below your band — a fallback rather than a priority.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Commercial"
+          ],
+          "source": "Seek / Allura Partners",
+          "url": "https://au.seek.com/job/94297469",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Systems Manager, NetSuite implementation — via Richard Lloyd Accounting Recruitment, north-west Sydney (contract)",
+          "summary": "A day-rate contract role leading the finance side of a NetSuite ERP rollout for an Australian-owned manufacturer, advertised at roughly $140k–$180k full-time equivalent.",
+          "so_what": "Your software engineering and accounting combination is an unusually good fit for an ERP finance lead, and contract roles from finance recruiters move fast — but the Manager title keeps it below act.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Manufacturing"
+          ],
+          "source": "Seek / Richard Lloyd Accounting Recruitment",
+          "url": "https://au.seek.com/job/94298576",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager - Accounting, Inventory & Data Analytics - CalmerCeuticals, Sydney",
+          "summary": "A fast-growing supplement brand is hiring a finance manager spanning accounting, inventory and data analytics.",
+          "so_what": "The analytics-plus-accounting blend is unusual and suits your software engineering and accounting combination, though the level sits below your target band.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Consumer"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94286612",
+          "published": "2026-08-29",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager - Wotton Kearney, Sydney",
+          "summary": "An insurance-focused law firm is appointing a finance manager into its corporate services team.",
+          "so_what": "Insurance-adjacent professional services, which suits your sector background, though the plain manager title keeps it below your usual level.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Legal"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94267782",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Financial Controller - family-owned food business via Perigon, Prestons (Sydney)",
+          "summary": "A rapidly growing family-owned food business is appointing a financial controller, framed as a genuine succession path to head of finance or CFO.",
+          "so_what": "Controller with a stated CFO succession line and a Western Sydney base. A permanent alternative to the temporary controller role above, from the same recruiter.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FMCG"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94275836",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Commercial Finance - Honey Birdette, Sydney",
+          "summary": "A retail brand is appointing a head of commercial finance into its Sydney head office.",
+          "so_what": "Head-of finance title in Sydney clears your level bar; retail is outside your core sectors, so treat it as a level-appropriate option rather than a natural fit.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Retail"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94273885",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Financial Controller - national multi-site enterprise via Randstad, Sydney CBD",
+          "summary": "A national multi-site business operating across major Australian commercial hubs is appointing a financial controller in Sydney CBD.",
+          "so_what": "Solid controller mandate at a good salary band; a permanent option that sits just under your usual level but keeps you close to the numbers.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Corporate"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94260423",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Partner - Bookkeeping & CFO Services - Carbon Group, St Leonards (Sydney)",
+          "summary": "An accounting and advisory group is appointing a senior leader to head the next phase of its outsourced bookkeeping and CFO services division.",
+          "so_what": "A partner-track seat running a virtual-CFO practice would let you do interim CFO work at scale rather than one engagement at a time - an interesting structural alternative.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional Services"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94263351",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Associate Director, Business Services, Advisory & Tax — via Hamilton York, Sydney",
+          "summary": "An associate director role in a professional services firm's business services, advisory and tax practice.",
+          "so_what": "Associate director level and clearly senior, but the client-facing advisory and tax focus is narrower than your enterprise finance background.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional services"
+          ],
+          "source": "Seek / Hamilton York",
+          "url": "https://au.seek.com/job/94236133",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager — Group Reporting, via Lawson Elliott Recruitment, Sydney",
+          "summary": "A group reporting finance manager role covering consolidation, statutory reporting and technical accounting, held by a Sydney finance recruiter.",
+          "so_what": "Technical group reporting is a natural CPA fit, though plain manager level keeps it below your target band. Useful as a conversation-opener with Lawson Elliott's senior desk.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Undisclosed"
+          ],
+          "source": "Seek / Lawson Elliott Recruitment",
+          "url": "https://au.seek.com/job/93833822",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Finance Manager — Geosurv, Kogarah (Sydney)",
+          "summary": "A surveying and geospatial services business is recruiting a finance manager to run its accounting function.",
+          "so_what": "Small-business finance manager work is below your level but offers broad ownership. Lower priority unless you want a hands-on southern-Sydney role.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional Services"
+          ],
+          "source": "Seek / Geosurv",
+          "url": "https://au.seek.com/job/94180221",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Head of Financial Planning / Senior Financial Adviser — via Recruit 2 Advice, Sydney (hybrid)",
+          "summary": "Leads a financial planning team while carrying an adviser caseload for a Sydney advice business.",
+          "so_what": "Head-of title but the role is client advice rather than corporate finance or risk; peripheral, and would need an adviser licence.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Recruit 2 Advice",
+          "url": "https://au.seek.com/job/94300298",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Manager, Business Services — public practice firm, via Charterhouse, Sydney (hybrid)",
+          "summary": "A business services and corporate advisory manager role in a Sydney accounting practice, advertised at up to about $150k plus super.",
+          "so_what": "Public-practice client work is adjacent to your corporate track and below your level — awareness only, unless you want a deliberate move into advisory.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional services"
+          ],
+          "source": "Seek / Charterhouse",
+          "url": "https://au.seek.com/job/94299435",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Payroll & Compliance Manager (contract) - via Peoplecorp, Sydney",
+          "summary": "A contract manager role leading delivery of a compliant payroll function.",
+          "so_what": "Payroll compliance is a narrower discipline than your background, so this is peripheral - listed because it is a live Sydney contract in the compliance family.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Corporate"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94265733",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Associate / Senior Associate, Outsourced CFO — Grant Thornton Australia, Sydney",
+          "summary": "Outsourced CFO team role serving a diverse SME client portfolio, with hybrid working in a growing practice.",
+          "so_what": "Well below your level, but it signals that Grant Thornton is building out outsourced-CFO capacity in Sydney — a useful contact point for fractional or advisory work.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional services"
+          ],
+          "source": "Seek / Grant Thornton Australia",
+          "url": "https://au.seek.com/job/94256844",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Finance Manager (part time) — The Family Co., Jannali (Sydney)",
+          "summary": "A southern-Sydney community services organisation is recruiting a part-time finance manager.",
+          "so_what": "Below level and part time, but the NFP setting and reduced hours could pair with directorships if you ever want a portfolio arrangement.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / The Family Co.",
+          "url": "https://au.seek.com/job/94167781",
+          "published": "2026-08-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "C-Suite & Executive",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Executive General Manager, Investments — via First People Recruitment Solutions, Sydney",
+          "summary": "Executive leadership of an investment portfolio and the team behind it, reporting into the chief executive.",
+          "so_what": "EGM level with fiduciary and governance weight — the kind of seat that also strengthens a future NED candidacy. Worth approaching today.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Funds"
+          ],
+          "source": "Seek / First People Recruitment Solutions",
+          "url": "https://au.seek.com/job/94310196",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Chief Operating Officer - not-for-profit disability provider (via People One), Sydney",
+          "summary": "A well-regarded not-for-profit disability services provider is recruiting a chief operating officer to lead delivery of person-centred supports.",
+          "so_what": "COO in a Sydney NFP - C-suite, on-location, and the sort of operations-and-governance blend where your FAICD and board experience is an advantage rather than a nice-to-have.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94284079",
+          "published": "2026-08-29",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "General Manager, Commercial Growth & Strategic Partnerships — Aware Super, Sydney",
+          "summary": "Aware Super is hiring a general manager to lead commercial growth and build strategic partnerships across the fund.",
+          "so_what": "GM level at a major profit-to-member fund; superannuation is on your target sector list and the commercial/strategy remit suits a senior generalist. Move quickly.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Superannuation"
+          ],
+          "source": "Seek / Aware Super",
+          "url": "https://au.seek.com/job/94257946",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Chief Financial and Commercial Officer - Australian College of Nursing, Parramatta",
+          "summary": "The peak professional body for nursing is appointing a combined finance and commercial chief, covering the finance function alongside commercial strategy for its education and advocacy operations.",
+          "so_what": "A CFO-level appointment in a member-based professional body in Western Sydney - your FCPA, accounting degree and NFP/member-organisation exposure line up directly. Apply this week.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94265760",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Network Portfolio Director — Ausgrid, Sydney",
+          "summary": "Ausgrid is recruiting a portfolio director to oversee its network investment portfolio.",
+          "so_what": "Energy/utilities is your strongest sector and this is a director-level portfolio and investment governance role — a direct match worth acting on.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Energy"
+          ],
+          "source": "Seek / Ausgrid",
+          "url": "https://au.seek.com/job/94227693",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Chief Financial Officer — confidential advertiser, Sydney",
+          "summary": "A Sydney employer advertising confidentially is recruiting a chief financial officer to lead its finance function.",
+          "so_what": "A CFO seat listed today and running blind, which usually means a smaller applicant pool early. Worth a same-day application even without the org name — the ad will name the recruiter or company on the application page.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Undisclosed"
+          ],
+          "source": "Seek / Private Advertiser",
+          "url": "https://au.seek.com/job/94187068",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Chief Executive / Principal Executive Officer — private advertiser, Parramatta",
+          "summary": "Top executive role for a Parramatta-based organisation advertised without the employer named.",
+          "so_what": "Sydney CEO seats are scarce enough to be worth a look; the undisclosed employer makes it hard to judge sector fit before applying.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Undisclosed"
+          ],
+          "source": "Seek / private advertiser",
+          "url": "https://au.seek.com/job/94307272",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "General Manager (pathway to CEO) - Biogenix Australia, Sydney",
+          "summary": "A longevity and regenerative medicine group is appointing a general manager on an explicit pathway to the chief executive role, with national scope.",
+          "so_what": "GM with a stated CEO succession path is an attractive structure. Healthcare is outside your core sectors and the package is bonus-weighted, so read the detail carefully.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Healthcare"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94292392",
+          "published": "2026-08-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Chief Executive Officer — Moving Forward DFV Case Management Services, Hurstville",
+          "summary": "A domestic and family violence case management service in southern Sydney is recruiting a part-time chief executive.",
+          "so_what": "Sydney-based CEO role at small scale; relevant only if the social-services mission appeals, as the sector is well outside your core.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / Moving Forward DFV Case Management Services",
+          "url": "https://au.seek.com/job/94257737",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Global Chief Executive Officer - multi-country group via Apex Recruitment, Sydney",
+          "summary": "A Sydney head-office business is recruiting a global chief executive with a multi-country leadership portfolio.",
+          "so_what": "C-suite and Sydney-based, so it clears the filter, but the remuneration band sits well below the usual mark for a global CEO - worth a look at the detail before investing time.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional Services"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94265437",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Chief Executive Officer — National Parks Association of NSW, Sydney",
+          "summary": "A member-based environmental not-for-profit in Sydney is recruiting a chief executive to lead the organisation.",
+          "so_what": "A small-organisation CEO role where your environmental law and governance mix is unusually relevant; expect a modest NFP package.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / National Parks Association of NSW",
+          "url": "https://au.seek.com/job/94231740",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Executive Director, Operations — South Eastern Sydney Local Health District",
+          "summary": "A NSW Health district is recruiting an executive director to lead operations across its hospital and community services network.",
+          "so_what": "Public-sector executive operations at scale, and health districts value governance and assurance experience on their executive teams. A stretch on sector, not on level — worth testing if you want a government exec role.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / NSW Ministry of Health",
+          "url": "https://au.seek.com/job/94187718",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "General Manager, Utilities NSW & ACT — Abergeldie Complex Infrastructure, Regents Park (Sydney)",
+          "summary": "An infrastructure contractor is appointing a general manager to run its utilities business across NSW and the ACT, covering delivery, commercial performance and client relationships.",
+          "so_what": "Utilities is one of your named sectors and this is a P&L-owning GM seat in Sydney. The delivery/engineering emphasis is the stretch — position yourself on commercial, risk and contract governance.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Utilities"
+          ],
+          "source": "Seek / Abergeldie Complex Infrastructure",
+          "url": "https://au.seek.com/job/94180072",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Executive Officer, Office of the CEO (ICOVE) — Sydney",
+          "summary": "Supports a chief executive's office with governance, coordination and executive reporting.",
+          "so_what": "Board and executive secretariat exposure is relevant, but the level sits below your target band.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Health/NFP"
+          ],
+          "source": "Seek / Kimberley Aboriginal Medical Services",
+          "url": "https://au.seek.com/job/94301878",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Executive Manager, Disability — via Orchard Talent Group, Sydney",
+          "summary": "A disability services provider is recruiting an executive manager through Orchard Talent Group.",
+          "so_what": "Executive level and Sydney-based, but the operating function is disability service delivery rather than risk, finance or governance.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / Orchard Talent Group",
+          "url": "https://au.seek.com/job/94257264",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "VP or Director, Infrastructure M&A Advisory — global investment bank, Sydney",
+          "summary": "A global investment bank is appointing a vice president or director into its infrastructure advisory team, covering transactions across the sector.",
+          "so_what": "Director-level and Sydney-based, but deal execution is a different discipline from your governance and risk track — situational awareness of where senior finance hiring is happening.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94242841",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Executive General Manager, Capital Design & Delivery — via Luminary, Sydney",
+          "summary": "An EGM appointment leading capital design and delivery for a large asset owner, recruited through an executive search intermediary.",
+          "so_what": "An EGM title in your location, but the function is capital works delivery rather than risk, finance or governance. Situational awareness only unless the ad reveals a strong commercial-governance component.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Infrastructure"
+          ],
+          "source": "Seek / Luminary",
+          "url": "https://au.seek.com/job/94180063",
+          "published": "2026-08-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Board & NED",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Company Secretary, Perpetual Wealth — Perpetual, Sydney CBD (hybrid, six-month fixed term)",
+          "summary": "Perpetual is seeking an experienced company secretary for its wealth business on a six-month fixed-term contract with an immediate start date.",
+          "so_what": "Board-level secretariat work is exactly the governance credential your FAICD profile trades on, and an immediate-start fixed term suits your appetite for interim engagements — move today.",
+          "tags": [
+            "Fixed-term",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Perpetual",
+          "url": "https://au.seek.com/job/94298270",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Deputy CEO and Company Secretary — Road Trauma Support Group Australia, Doonside (part time)",
+          "summary": "Newly created combined Deputy Chief Executive and Company Secretary post at an established NSW support-services charity in Sydney's west.",
+          "so_what": "Company secretary duties paired with a deputy-CEO remit is an unusually direct match for an FCPA/FAICD profile with existing NED experience, and the part-time shape sits well alongside other board work. Listed today — move early.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / Road Trauma Support Group Australia",
+          "url": "https://au.seek.com/job/94301483",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Independent Board Director — Australia's National Research Organisation for Women's Safety (ANROWS), Sydney",
+          "summary": "ANROWS is recruiting an independent non-executive director to its board; the organisation is a national research body funded by Commonwealth, state and territory governments.",
+          "so_what": "A Sydney-based NED seat with a research/public-funding governance flavour that suits your FAICD credential and existing board record — apply while the listing is fresh.",
+          "tags": [
+            "Board",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / ANROWS",
+          "url": "https://au.seek.com/job/94212013",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Assistant Company Secretary — via FutureYou, Sydney",
+          "summary": "Supports the company secretarial function: board and committee papers, minutes, statutory filings and governance administration.",
+          "so_what": "Direct company-secretarial experience is the most reliable bridge into paid NED work, and your FAICD fits; the assistant grade is the reservation.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / FutureYou",
+          "url": "https://au.seek.com/job/94310791",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Executive Officer, Academic Board — University of New South Wales, Kensington (Sydney)",
+          "summary": "UNSW is recruiting an executive officer to run the secretariat for its Academic Board, covering agendas, papers, minutes and committee support.",
+          "so_what": "Below your level as a role, but it is board-secretariat work in a large complex institution — useful mainly as a read on how the university sector structures its governance functions.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Education"
+          ],
+          "source": "Seek / University of New South Wales",
+          "url": "https://au.seek.com/job/94181579",
+          "published": "2026-08-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Operations, Strategy & Transformation",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Head of Delivery, Portfolio & Change (Enterprise) — Rest, Sydney (hybrid)",
+          "summary": "Owns enterprise portfolio delivery and change for the superannuation fund, covering governance of the change book and delivery assurance.",
+          "so_what": "Head-of level, superannuation sector, and heavy on delivery governance — a strong match for your transformation-assurance angle.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Superannuation"
+          ],
+          "source": "Seek / Rest Industry Super",
+          "url": "https://au.seek.com/job/94310573",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Head of Corporate Services - CMC Markets, Sydney",
+          "summary": "A listed online trading and investing business is appointing a head of corporate services covering the internal service and operations functions that sit behind the trading platform.",
+          "so_what": "Head-of level, Sydney, financial services, and a corporate-services remit that typically spans finance, procurement, facilities and governance - a good fit for your breadth across finance and operations.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94273840",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Head of CTP Care Claims — icare, Parramatta",
+          "summary": "icare is recruiting a head of CTP care claims to lead the compulsory third party care claims function.",
+          "so_what": "'Head of' level at the NSW insurance and care scheme agency — insurance and government are both target sectors and your StateCover experience translates directly.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Seek / icare",
+          "url": "https://au.seek.com/job/94237310",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Senior Manager, Portfolio Operations (Strategy) — Team Super, Sydney (hybrid, contract)",
+          "summary": "An industry superannuation fund is recruiting a senior manager on a contract basis to run portfolio operations within its strategy function.",
+          "so_what": "The strongest interim find of this run: senior-manager level, superannuation sector, Sydney hybrid, and engaged as a contract. Day-rate super roles fill fast — apply today.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Superannuation"
+          ],
+          "source": "Seek / Team Super",
+          "url": "https://au.seek.com/job/94181029",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Head of Enterprise Strategy — Special Broadcasting Service, Sydney",
+          "summary": "SBS is recruiting a head of enterprise strategy to lead corporate strategy development and execution across the broadcaster.",
+          "so_what": "A 'Head of' strategy seat inside a government-owned enterprise — the kind of role that combines commercial thinking with public-sector accountability, which is where your council and mutual experience reads strongest.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / Special Broadcasting Service",
+          "url": "https://au.seek.com/job/94182969",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Manager, Contact Centre Enablement — Business Banking, Commonwealth Bank, Sydney",
+          "summary": "Leads enablement for business banking contact centre operations, spanning process, capability and performance.",
+          "so_what": "Senior manager level clears the bar and operations leadership is in scope, but the contact-centre focus is narrow relative to your background.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Commonwealth Bank",
+          "url": "https://au.seek.com/job/94310941",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Associate Director — NSW Ministry of Health, Sydney (hybrid)",
+          "summary": "Associate director role within the Ministry of Health, covering strategy, planning and program oversight.",
+          "so_what": "Government sector affinity and a director-band title; the posting is thin on function detail, so confirm scope before investing time.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / NSW Ministry of Health",
+          "url": "https://au.seek.com/job/94309521",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Manager, Waste and Circular Infrastructure Planning — NSW Dept of Planning, Housing and Infrastructure, Parramatta (contract)",
+          "summary": "Senior Manager post leading waste and circular-economy infrastructure planning within the NSW planning portfolio, on a contract/temporary basis.",
+          "so_what": "Senior Manager in government is your level, and your environmental law background is a real differentiator here; the planning function is a stretch from risk and finance, so judge on appetite.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / NSW DPHI",
+          "url": "https://au.seek.com/job/94302074",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Benefits Manager — Coal Services, Sydney (contract)",
+          "summary": "Coal Services, the industry-owned health and safety scheme for the NSW coal sector, is recruiting a benefits manager on a contract basis.",
+          "so_what": "A mutual-style scheme in the energy sector, which is close to both your insurance/mutual and energy strengths; contract basis suits interim availability.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Insurance"
+          ],
+          "source": "Seek / Coal Services",
+          "url": "https://au.seek.com/job/94258434",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Business Manager, Corporate - Planit / NRI Australia, Sydney",
+          "summary": "A quality engineering and application testing firm is appointing a corporate business manager to lead operational excellence and business readiness.",
+          "so_what": "An operations and business-enablement seat with a technology services firm - a reasonable fit given your software engineering background alongside the finance and operations side.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Technology"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94268249",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Manager, Enterprise Transformation & AI Strategy - Coca-Cola Europacific Partners, North Sydney",
+          "summary": "CCEP is appointing a senior manager to shape and drive enterprise transformation and artificial intelligence strategy across its markets.",
+          "so_what": "Senior-manager grade in transformation and technology strategy - a level match, and the AI strategy angle plays to your software engineering foundation.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FMCG"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94268629",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Director of Operations, Home & Community Support - Bolton Clarke, Sydney",
+          "summary": "A large home care provider is appointing an operations director over a substantial community services portfolio, covering performance, growth and customer outcomes.",
+          "so_what": "Director-level operations with real P&L scope. Heavier on people management than your usual shape, but the seniority and the governance-adjacent aged care setting are on target.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Aged Care"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94274056",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Private Wealth - Colonial First State, Sydney",
+          "summary": "CFS is appointing a head of private wealth to lead that part of its investment and superannuation business.",
+          "so_what": "Head-of level in financial services with real business ownership. It leans commercial rather than risk or finance, so the fit depends on how far you want to move from governance.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94259209",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Chief Operations Manager - member-based association via HumanKapital, Orchard Hills (Sydney)",
+          "summary": "A not-for-profit member-based association in Western Sydney is appointing a chief operations manager.",
+          "so_what": "Operations leadership in a member association - close in character to mutual and local-government work, though the Orchard Hills location is a long commute from most of Sydney.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94264374",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Divisional Operations Manager (6-month fixed term) - APRA, Sydney",
+          "summary": "The prudential regulator is engaging a divisional operations manager for six months to improve processes and support delivery of an element of its corporate plan.",
+          "so_what": "Fixed-term at the prudential regulator is a useful credential for a risk and governance career, and the defined six-month term suits contract work. Plain manager title caps it at watch.",
+          "tags": [
+            "Fixed-term",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94265036",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Associate Director, Partner Operations — Optus, Sydney",
+          "summary": "Optus is hiring an associate director to lead partner operations.",
+          "so_what": "Senior operations leadership at a large telco; sector is outside your core but the operating model and commercial governance work is transferable.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Telco"
+          ],
+          "source": "Seek / Optus",
+          "url": "https://au.seek.com/job/94236524",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Senior Manager, Property Portfolio — NSW Department of Planning, Housing & Infrastructure, Sydney",
+          "summary": "A NSW government department is recruiting a senior manager to oversee its property portfolio strategy and asset performance.",
+          "so_what": "Senior Manager in NSW government is a core-target level and the portfolio governance angle fits, though property asset management sits at the edge of your functions.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / NSW Dept of Planning, Housing & Infrastructure",
+          "url": "https://au.seek.com/job/94182728",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Operations Manager — Certis Security Australia, Macquarie Park",
+          "summary": "Day-to-day operational management of security service delivery across client sites.",
+          "so_what": "Operations management is in scope but the security-services content is well away from your functional core.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Services"
+          ],
+          "source": "Seek / Certis Security Australia",
+          "url": "https://au.seek.com/job/94309644",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Operations Manager — via Perigon Group, Macquarie Park (hybrid)",
+          "summary": "Operations management role for a Macquarie Park employer, recruited through Perigon Group.",
+          "so_what": "Recruiter-held and Sydney-based, but plain manager level with a generic operations brief.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Services"
+          ],
+          "source": "Seek / Perigon Group",
+          "url": "https://au.seek.com/job/94310257",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Senior Manager, Customer Analytics, Economics and Innovation Partnerships — Commonwealth Bank, Sydney",
+          "summary": "A senior manager role in CommBank's customer analytics and economics team, with responsibility for innovation partnerships.",
+          "so_what": "Senior-manager grade and a strong employer, but the analytics and economics focus sits outside your risk, finance and governance track.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Commonwealth Bank",
+          "url": "https://au.seek.com/job/94256249",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Strategy and Governance Analyst (contract) - via FourQuarters Recruitment, Sydney",
+          "summary": "A contract analyst role working alongside a head of strategy on insights, analysis and long-term planning.",
+          "so_what": "Analyst-titled and below level, but the rate is high for the grade and the governance-and-strategy pairing is worth noting as a market signal.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Corporate"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94266247",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Operations Manager - CSR Limited, Wetherill Park (Sydney)",
+          "summary": "A building products manufacturer is hiring an operations manager at its Wetherill Park site.",
+          "so_what": "Site operations management in manufacturing sits away from your function set - included only to keep the operations picture complete.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Manufacturing"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94266097",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Head of Active Communities — via Johnson Recruitment, Sydney",
+          "summary": "A head of active communities role recruited through Johnson Recruitment, likely in the local government or community sector.",
+          "so_what": "'Head of' level with possible council sector affinity, but the community services function is off your target list.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Local Government"
+          ],
+          "source": "Seek / Johnson Recruitment",
+          "url": "https://au.seek.com/job/94232247",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Operations Manager, NDIS Audit & Certification — via abrs, North Sydney",
+          "summary": "An operations manager role overseeing NDIS audit and certification services.",
+          "so_what": "Audit-adjacent and Sydney-based, but plain manager level in a niche certification business.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "NFP"
+          ],
+          "source": "Seek / abrs",
+          "url": "https://au.seek.com/job/94236121",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Asset Configuration Manager — Department of Communities and Justice, Sydney",
+          "summary": "DCJ is recruiting an asset configuration manager within its corporate services function.",
+          "so_what": "Plain manager level in asset and configuration management; adjacent to operations but not a priority.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW / Department of Communities and Justice",
+          "url": "https://iworkfor.nsw.gov.au/job/asset-configuration-manager-597194",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Manager, Executive Office — Opera Australia, Surry Hills",
+          "summary": "Opera Australia is recruiting a manager for its executive office.",
+          "so_what": "Board and executive support exposure in an arts organisation; plain manager level and outside your target sectors.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Arts"
+          ],
+          "source": "Seek / Opera Australia",
+          "url": "https://au.seek.com/job/94182884",
+          "published": "2026-08-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Technology & Digital",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Associate Director, Technology Business Operations — NSW Premier's Department, Sydney",
+          "summary": "A NSW government role leading financial, procurement and contract management for the technology function, advertised at about $154,000–$178,000.",
+          "so_what": "This is the re-listed version of the Premier's Department role that closed over the weekend; the finance-meets-technology brief matches your software engineering and accounting mix better than most technology postings.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / Premier's Department",
+          "url": "https://au.seek.com/job/94295864",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Head of IT Resilience and Cybersecurity — Transdev Australasia, Sydney",
+          "summary": "Transdev is recruiting a head of IT resilience and cybersecurity to lead cyber resilience across its Australian and New Zealand transport operations.",
+          "so_what": "'Head of' technology risk and resilience is the sharpest intersection of your software engineering degree and your risk career — a strong direct match.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Transport"
+          ],
+          "source": "Seek / Transdev Australasia",
+          "url": "https://au.seek.com/job/94253497",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Data Insights — Mantel Group, Sydney (hybrid)",
+          "summary": "Leads a data insights practice, setting analytics direction and managing delivery for consulting clients.",
+          "so_what": "Head-of level with a data-governance adjacency your software engineering degree supports; the consulting delivery model is the main question mark.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Technology"
+          ],
+          "source": "Seek / Mantel Group",
+          "url": "https://au.seek.com/job/94315963",
+          "published": "2026-09-01",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of IT Service Delivery and Experience - multi-campus education provider via xceltium, Pymble",
+          "summary": "An education provider is appointing a head of IT service delivery across multiple campuses, mentored by the chief information officer and leading a team of eight or more.",
+          "so_what": "Head-of technology leadership in Sydney's north, in a sector adjacent to your local-government and public-purpose work. Your software engineering degree is directly relevant here.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Education"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94291106",
+          "published": "2026-08-30",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Digital Enablement Manager, AI Integration & Delivery — top-tier law firm, Sydney",
+          "summary": "A leading law firm is building out its innovation group and needs someone to lead delivery of AI integrations and broader enterprise technology and digital transformation work.",
+          "so_what": "Your software engineering background plus transformation leadership makes this an unusual but credible fit; the Manager title caps it at watch, though the AI-governance angle is worth understanding either way.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Professional Services"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94260907",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of IT — 4WD Supacentre, Sydney Olympic Park",
+          "summary": "Retailer 4WD Supacentre is recruiting a head of IT to lead its technology function.",
+          "so_what": "'Head of' level and Sydney-based; retail is outside your sector strengths but the functional leadership fit is sound.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Retail"
+          ],
+          "source": "Seek / 4WD Supacentre",
+          "url": "https://au.seek.com/job/94257419",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of Technology — via Hays Technology, Homebush",
+          "summary": "Hays is recruiting a head of technology for a Western Sydney based organisation.",
+          "so_what": "'Head of' technology leadership in Sydney; worth a recruiter conversation given your IT leadership target titles.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Technology"
+          ],
+          "source": "Seek / Hays",
+          "url": "https://au.seek.com/job/94228937",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Head of AI & Technology — Lowes Menswear, Arncliffe (Sydney)",
+          "summary": "A national retailer is recruiting a head of AI and technology to lead its technology function and artificial intelligence agenda.",
+          "so_what": "A 'Head of' technology seat where the AI governance question is unavoidable — an angle few candidates can cover with both engineering and risk credentials. Retail is outside your named sectors.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Retail"
+          ],
+          "source": "Seek / Lowes Menswear",
+          "url": "https://au.seek.com/job/94181566",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Director of Engineering, Product — Airtasker, Sydney",
+          "summary": "Engineering leadership role owning product engineering delivery at an ASX-listed Australian marketplace business.",
+          "so_what": "Director-level technology leadership and a nod to your software engineering degree, but this is hands-on product engineering rather than IT/corporate technology governance.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Technology"
+          ],
+          "source": "Seek / Airtasker",
+          "url": "https://au.seek.com/job/94302176",
+          "published": "2026-08-31",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Technology Operations Centre Manager — NSW Police Force, Parramatta",
+          "summary": "An ongoing full-time role running the technology operations centre across several Sydney sites, graded at Computer Systems Officer Level 6.",
+          "so_what": "Public-sector technology leadership is adjacent to your interests, but the grade sits below your level — noted for sector awareness rather than action.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "Seek / NSW Police Force",
+          "url": "https://au.seek.com/job/94256296",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Manager, Technology Procurement — Commonwealth Bank, Sydney",
+          "summary": "CommBank is hiring a manager for technology procurement.",
+          "so_what": "Plain manager level in a procurement specialism; below target but a useful signal of CBA hiring activity.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek / Commonwealth Bank",
+          "url": "https://au.seek.com/job/94256253",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Senior Manager, Data Science & AI, Global Markets - Commonwealth Bank, Sydney",
+          "summary": "CBA is hiring a senior manager to lead delivery of machine learning and artificial intelligence solutions into production for its Global Markets business.",
+          "so_what": "Right level and right bank, but deeply quantitative and hands-on - noted for awareness of where CBA is investing rather than as a role to pursue.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "FS"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94265540",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Senior Data Governance Analyst (contract) - via Enterprise Group Consulting, Sydney",
+          "summary": "A contract role supporting implementation of a data governance framework across a large, complex organisation.",
+          "so_what": "Data governance framework work is conceptually close to your governance background, but the analyst grade puts it well below your level.",
+          "tags": [
+            "Contract",
+            "Sydney",
+            "Corporate"
+          ],
+          "source": "Seek",
+          "url": "https://au.seek.com/job/94271700",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Manager, Office of the Chief Information Officer — Western Sydney Local Health District",
+          "summary": "WSLHD is recruiting a manager to run the office of its chief information officer.",
+          "so_what": "CIO office exposure in NSW Health; plain manager level and health sector, so peripheral.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Government"
+          ],
+          "source": "I Work for NSW / WSLHD",
+          "url": "https://iworkfor.nsw.gov.au/job/manager-office-of-the-chief-information-officer-596721",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Head of Business Systems — quick-service restaurant group, via Pathfinder Recruitment, Sydney",
+          "summary": "A hospitality group is recruiting a head of business systems to own its core operating platforms.",
+          "so_what": "A technology leadership title in a sector outside your focus. Awareness only.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Hospitality"
+          ],
+          "source": "Seek / Pathfinder Recruitment",
+          "url": "https://au.seek.com/job/94181699",
+          "published": "2026-08-25",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Senior Manager, ServiceNow Platform Lead — via Talent, Woolloomooloo (Sydney)",
+          "summary": "A senior manager role leading a ServiceNow platform capability for a Sydney client, held by a recruiter.",
+          "so_what": "Senior Manager level and platform governance adjacent, but it is a specialist product role rather than a leadership seat in your functions.",
+          "tags": [
+            "Permanent",
+            "Sydney",
+            "Technology"
+          ],
+          "source": "Seek / Talent",
+          "url": "https://au.seek.com/job/94187793",
+          "published": "2026-08-25",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
