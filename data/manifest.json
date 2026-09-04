@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-09-04",
+      "file": "data/digests/2026-09-04.json",
+      "posture": "306 live Sydney roles listed in the last 7 days - 78 strong-act - 39 interim, contract or fixed-term leads - 8 board and governance seats. First run since 2 September: all 255 carried items were re-opened in Chrome, 19 had expired and were dropped, 33 aged out of the 7-day window, and 70 newly listed Chrome-verified roles were added. Best find: Senior Manager, Insurance Risk at Avant Mutual Group, Sydney.",
+      "counts": {
+        "act": 78,
+        "watch": 146,
+        "inform": 82
+      }
+    },
+    {
       "date": "2026-09-02",
       "file": "data/digests/2026-09-02.json",
       "posture": "288 live Sydney roles listed in the last 7 days - 74 strong-act - 47 interim, contract or fixed-term leads - 8 board and governance seats. Late-afternoon refresh: all 267 roles carried in from the earlier runs were re-opened in Chrome and every one still resolved to a live posting, none aged out of the window, and 21 newly listed Chrome-verified roles were added. Best find: Head of Technology at Delta Electricity, Sydney, listed this afternoon.",
